@@ -1,0 +1,972 @@
+id,source,s_label,target,t_label
+0,it was difficult to determine who worked for passage to india and who was a customer .,0,it was challenging to discern who among them were clients seeking passage to india and who were simply employees .,1
+1,"i recommend a shake , onion rings , and a burger to wash it down .",0,"i suggest having a shake , some onion rings , and a burger to accompany it .",1
+2,"after driving slower than the rest of traffic and starting the route on a longer than necessary direction - lrb - which was remedied after my request - rrb - , the driver refused to provide a reciept for payment of the ride .",0,after driving slower than the rest of traffic and starting the route on a longer than necessary direction - as requested by myself - the driver refused to provide a receipt for payment of the ride .,1
+3,nothing impressive at all .,0,nothing at all that really stands out .,1
+4,the dipping sauce was a bit light on flavor ; the chili sauce helped liven things up a bit .,0,the dipping sauce lacked a bit of flavor ; the chili sauce added some much-needed zing .,1
+5,i wanted to install a <unk> grinder to <unk> my meat for me .,0,i would like to have a meat grinder installed so that i can grind my own meat for myself .,1
+6,you have to try it at least once .,0,you should definitely give it a shot at least once .,1
+8,i normally order their premium meats because of the taste .,0,i typically opt for their premium meats due to the delicious flavor .,1
+9,your close to lake mead from this hotel .,0,you 're very close to lake mead from this hotel .,1
+10,i lack <unk> coordination so i limit my fun activities to motorcycles and guns .,0,"i do n't have much coordination , so i tend to stick to things like motorcycle riding and shooting .",1
+11,was not served again .,0,was n't served again .,1
+12,the star trek experience itself was awesome .,0,the star trek experience was truly amazing .,1
+13,"great location , i can only hope a more customer service oriented restaurant takes this place over ! ! one star for location only .",0,"wonderful location , i really hope that a more hospitable restaurant will take over here soon ! just one star for the location itself .",1
+14,"excellent dealers , professional staff and classy old school vegas .",0,"exceptional dealers , knowledgeable staff , and elegant vintage vegas .",1
+15,the salsa is still quite mild and has a heavy hint of smoke to it .,0,the salsa still remains rather gentle and possesses a noticeable smoky aroma .,1
+16,the ribs were amazing and cooked perfectly .,0,the ribs were absolutely delicious and cooked to perfection .,1
+17,"the place now seems to be owned by an older white couple , that is , if it was n't already .",0,"the space appears to be currently inhabited by an elderly white couple , if not before .",1
+18,"although the location presents some challenges - lrb - long way from the airport , mostly chain restaurants nearby , and a bit expensive - rrb - the staff at this hotel were awesome .",0,"however , despite the location 's potential drawbacks - being a distance away from the airport , having mostly chain restaurants in the vicinity , and being somewhat costly - the hotel staff truly made the stay unforgettable .",1
+19,"finally , we finished with the tempura ice cream , which was the best tempura ice cream i have had in phoenix .",0,"finally , we completed our meal with the tempura ice cream , which was the most delicious tempura ice cream i have ever tasted in phoenix .",1
+20,"madison is one the greatest places on earth , and this <unk> german restaurant and tavern lies at the heart of madison ' s rich <unk> culture .",0,"madison is truly one of the most magnificent places on earth , and this charming german restaurant and tavern is nestled at the heart of madison 's vibrant cultural scene .",1
+21,chicken chimi : excellent .,0,chicken chimichanga : delicious !,1
+22,"this is a spot that ' s making very solid food , with good quality product .",0,this is a spot that 's serving up delicious food using top-notch ingredients .,1
+23,"they have plenty of craft items , porcelain dolls , and books .",0,"they possess a plethora of crafts , porcelain dolls , and books .",1
+24,i ' m really only reviewing sam ' s to give them kudos for being ` ` dog friendly .,0,i 'm just giving sam 's some props for being such a great 'dog-friendly' establishment .,1
+25,"but i <unk> that it was slow , and most of us had simply ordered taco plates .",0,"but i could n't help but notice that it was rather slow , and most of us had simply gone for taco platters .",1
+26,- no designated drivers needed if you stay at encore / wynn hotel .,0,- no designated drivers required if staying at encore/wynn hotel .,1
+28,"that being said , eddie merlot ' s did have some reasonably priced menu options to choose from in addition to the steak .",0,""" to be honest , "" eddie merlot 's did offer some affordable menu choices aside from the steak .",1
+29,the 0nd level is for studying and they have a ` quiet ' room where you are expected to keep your mouth shut and study .,0,the second floor is for studying and they have a designated quiet room where one is expected to maintain silence and focus on their studies .,1
+30,came here for a somewhat early dinner with my girlfriend .,0,came here for a relatively early dinner with my partner .,1
+31,a burger with a top ramen bun ?,0,a delicious burger served on a soft and fluffy top ramen bun ?,1
+32,the rooms are always clean and fashionable .,0,the rooms are always spotless and stylishly decorated .,1
+33,what is disheartening is the smoke .,0,what is disappointing is the smoke .,1
+34,"perhaps , in a cruel twist of irony , this ` ` paper tiger ' ' shop is actually the hub for a worldwide <unk> crime <unk> ?",0,"perhaps , in a heartbreaking irony , this seemingly formidable "" tiger "" store may actually be the epicenter of a vast international criminal network ?",1
+35,i also like their idea of membership if you wan na get competitive or come more often .,0,i also appreciate their concept of membership if you 're interested in being more competitive or attending more frequently .,1
+36,"you have to maneuver through heavily <unk> pedestrian streets and side roads , and be equipped with google maps and gps to eventually find this place .",0,"you 'll need to navigate through bustling pedestrian streets and winding side roads , and make sure to bring along your trusty google maps and gps to locate this spot .",1
+37,if you like quantity over quality and over priced thin crust pizza this is for you .,0,"if you prioritize quantity over quality and prefer overpriced thin crust pizza , then this establishment is perfect for you .",1
+38,i rented their meeting space for an event .,0,i booked their conference room for an occasion .,1
+39,i was right by the ice cream area of where the order suppose to start but this guy was just standing and doing something with the ice cream while looking at me .,0,"i was standing near the ice cream area where the order is supposed to be placed , but this lady was just standing there doing something with her ice cream while looking at me .",1
+40,"service can tend toward a little slow , but i think it ' s mostly due to a shortage of staff - there ' s only usually one person working at any given time .",0,"service can sometimes be a bit slow , but i believe it 's primarily due to a lack of staffing - typically only one person is available to work at any given time .",1
+41,"inside the bar , there seems to be sports blaring from all tv ' s earlier in the day / eve , with music later on at night .",0,"inside the bar , there appears to be sports playing loudly on all the tvs earlier in the day/evening , with music playing later on at night .",1
+42,"second , those items are amazing .",0,"additionally , those items are truly remarkable .",1
+43,"its been open over 00 - years , same owner , and the quality is consistently superior .",0,"it 's been open for over 00 years , under the same ownership , and the quality remains consistently exceptional .",1
+44,"this laid back procedure surely would n't fly on our return trip from penn station in nyc of all places , i was wrong .",0,"this relaxed approach certainly would n't work on our way back from penn station in new york city , i was mistaken .",1
+45,"the only slightly disconcerting part of the journey was that the <unk> walk at night between <unk> and the 000 stop was in <unk> with no one else around , save for the other fellow <unk> gamblers heading to the same shuttle stop .",0,"the slightly unsettling aspect of the journey was the solitary nighttime walk between the airport and the 000 stop , which was completely deserted except for the other fellow female gamblers making their way to the same shuttle stop .",1
+46,"service was very good , very attentive .",0,"the service was excellent , highly attentive .",1
+47,a great part of the sh scene .,0,a significant portion of the she scene .,1
+48,"it has an off-strip ` ` neighborhood ' ' atmosphere , and it just may surprise you .",0,"it has a charming off-the-beaten-path neighborhood vibe , and it might even catch you by surprise .",1
+49,i ' m a fan of the restaurant .,0,"i am a fan of the restaurant . "" becomes "" i am a big fan of the restaurant .",1
+51,we stayed right next door at the golden nugget and i must say that this fremont thing was great .,0,we stayed just down the street at the golden nugget and i must say that fremont was fantastic .,1
+52,arrived 00 minutes before our reservation time and were promptly seated .,0,arrived ten minutes early and were promptly seated .,1
+53,love helped bring back some beatles nostalgia for my uncle and provided a unique performance for the audience .,0,love brought back some beatles nostalgia for my aunt and provided a unique performance for the audience .,1
+54,glad i stopped to check it out .,0,happy i took the time to look into it .,1
+55,"on our way back from chicago , we stopped here for some mexican food .",0,"on our way back from chicago , we made a pit stop here for some delicious mexican cuisine .",1
+56,i learned to love indian food from my friends in london ... this stuff lives up to what indian food is all about .,0,"i discovered my passion for indian cuisine through my friends in london , and i must say , it truly embodies everything that indian food stands for .",1
+57,feeling a bit more healthy ?,0,feeling a bit better ?,1
+58,"my wife loves their stroganoff , and bbq mac & cheese .",0,my husband enjoys their stroganoff and bbq mac & cheese .,1
+59,service was off the hook .,0,service was amazing !,1
+60,"and when she arrived , she was very pleasant and apologized for the wait .",0,"when she arrived , she was very polite and apologetic for the delay .",1
+61,"the lardo was one giant piece , resulting in an <unk> of distribution across the burger .",0,"the lardo was one massive portion , leading to an uneven spread across the burger .",1
+62,"the crust has become overwhelmingly bready and heavy , the sauces nearly flavorless - lrb - save for the spicy sauce , which packs a pleasing punch - rrb - , and the toppings bland .",0,"the crust is excessively doughy and cumbersome , with sauces that barely have any taste - except for the fiery sauce , which provides a satisfying kick , and toppings that lack excitement .",1
+63,another thing i noticed was that there was two lights out in the restaurant .,0,"another thing i noticed was that there were two lights out in the restaurant . (no revision needed , as the given sentence is already in a neutral , gender-neutral style .)",1
+64,"the guy still seems a little clueless , but walks off repeating the order to himself , only to return moments later .",0,"the girl still appears somewhat confused , yet continues to recite the instruction to herself as she exits , only to reappear moments later .",1
+65,"nice atmosphere , great food , and an interesting menu .",0,"beautiful ambiance , delicious food , and an intriguing menu .",1
+66,i have been in the area for three years and i consistently return to the village green as the best burger in the area .,0,i 've lived here for three years and i always come back to the village green for the best burger in town .,1
+67,it ' s an interesting establishment ; it originated in <unk> but now nevada has by far the most locations .,0,it 's definitely an intriguing place ; it started in <unk> but currently nevada has the most outlets by far .,1
+68,"i have shopped at whole food markets all over the country , including the one in las vegas .",0,"i have shopped at whole foods markets all over the country , including the one in las vegas .",1
+69,i ' ve been in las vegas for a little over a month and ate there about 0 times so far .,0,i 've been in las vegas for a little over a month and have eaten there only a few times so far .,1
+70,"overall , another satisfying dining experience at monta ramen .",0,"overall , yet another delightful dining experience at monta ramen .",1
+71,"and it had been sliced with a slicer , in other words purchased as is .",0,"and it had been neatly cut with a knife , as one would purchase it off the shelf .",1
+72,we have had 0 different severs check to see how are food is .,0,we have had several servers check to ensure that our food is up to par .,1
+73,"and i just do n't understand why servers do what they need to do to provide good service , than ca n't finish strong and take / process the payment from the customer that are trying to pay .",0,and i just do n't understand why servers ca n't finish strong and process the payment from the customers who are trying to pay .,1
+74,they ' re the best in town .,0,they 're the best in town .,1
+75,<unk> conveniently to <unk> ' s bagels and subway .,0,"fortunately , she was able to quickly grab some bagels and subway from his bag .",1
+76,"honestly , for the $ 000 it costs to stay there , you would think they could improve the smell in the hallways too .",0,"frankly , considering the expense of staying there at $000 , one would expect an improvement in the scent of the hallways as well .",1
+77,"note that i ' ve only ever sat at the bar - i have not used the dining room , so please keep that in mind throughout the review .",0,"please keep in mind that i have only ever dined at the bar , so i have n't utilized the dining room during my visit .",1
+78,it simply ` ` is what it is ' ' .,0,it 's just how it is .,1
+79,"update iii : heavy handed damage control ... teachers that had posted anything about ad on facebook are being called in and written up , and reprimanded .",0,update iii : careful and measured damage control is being employed . . . teachers who have shared any posts about the advertisement on facebook are being summoned for meetings and issued warnings .,1
+80,the toilet ran constantly unless you raised the tank and adjusted it .,0,the toilet continuously ran unless you lifted the lid and tinkered with the flush mechanism .,1
+81,"aside from the mustard , the only sting ?",0,"apart from the mustard , what is the only thing that stings ?",1
+82,"just like they told me , 00 minutes to steam it , and it ' s ready to eat .",0,"as they had informed me , it took precisely 00 minutes to steam it , and now it is prepared to be devoured .",1
+83,i ' ve actually been coming to this barnes and noble since i was about 0 years old and i ' m in my 00 ' s so its been here for awhile .,0,"i 've actually been coming to this barnes & noble since i was around zero years old , and i 'm in my twenties , so it 's been here for quite some time .",1
+85,"i suspect the <unk> of this location as a result of the limited capacity coupled with the <unk> supply of new customers based on the las vegas location will keep seats filled , but i suspect few , and most certainly , i , will not be returning to e . save your big dinner money for <unk> , per se and <unk> ko , to name but a few .",0,"i believe that the limited capacity and insufficient supply of new customers in the las vegas location is causing me to question the potential of this location . while i do anticipate some degree of popularity , it is highly unlikely that i will return to e myself . save your dining dollar for other more deserving establishments , such as koi or nobu .",1
+86,i go here when my barber is out of town or closed on the weekends .,0,i usually head here whenever my barber is unavailable or closed during the weekends .,1
+87,it ' s a brilliant concept whose time has come .,0,it 's a fantastic idea that has arrived at the perfect moment .,1
+88,"the first night - lrb - sunday - rrb - it was busy , mainly older guys .",0,"the first night on sunday was bustling , mostly comprised of older gentlemen .",1
+89,what you ' ll find you ' ll never know !,0,"what you 'll discover , my dear , is that there 's always something new to learn !",1
+90,just as we were about to leave she shows up with a fresh pepsi .,0,"as we were about to depart , she arrived with a chilled pepsi .",1
+91,"rock bottom ... well , that pretty much sums it up : - rrb - thanks ! ! you ' ve been a great audience ! ! do n't forget to tip your wait staff - lrb - the only part of rock bottom worth a little applause : - rrb - i ' m not much of a beer drinker , so that part of this chains ` ` allure ' ' is really lost on me .",0,"well , that pretty much sums it up , thank you ! you 've been an amazing audience , do n't forget to show the waitstaff some love . the only part of rock bottom that 's worth a little clap is their beer selection , but as someone who is n't much of a beer drinker , it 's hard for me to appreciate it fully .",1
+92,"i went thru numerous phone calls and <unk> trying to finally talk to someone which knew what part to order , it is a 0 size drawer unit but in the parts listing it only shows 0 drawer sizes .",0,"i had to make several phone calls and go through quite a bit of trouble just to finally speak with someone who could help me figure out which part i needed . it 's a zero-size drawer unit , but in the parts list , it only lists zero drawer sizes .",1
+93,the view is incredible and sets it apart from the rest of vegas sushi places imo .,0,the view is absolutely stunning and truly sets this sushi place apart from the others in my opinion .,1
+94,"many of the tables were occupied , and because it is the number 0 rated restaurant in las vegas according to yelp and trip advisor , i was happy to get a table right away .",0,"many of the tables were occupied , and as someone who values quality dining experiences highly , i was thrilled to secure a spot at this highly-rated restaurant in las vegas according to yelp and tripadvisor .",1
+95,my wife told me how good firehouse subs were so while going to california she wanted to eat here .,0,"my husband informed me that firehouse subs were delicious , so when we traveled to california , he desired to dine here .",1
+96,i ' ve never had pastrami this disgusting .,0,i have never tasted pastrami so terrible .,1
+97,awesome taxi service just took a ride from ballys to paris and the taxi driver by the name of ron told me about the a slot machine that always wins after 00 $ and i played it i hit 000 $ made my night thank you very much ron best lobster roll in vegas hands down pricy at 00 $ and the lobster mac and cheese was about 00-00 and a beer 00 $ + but hey lobster isnt cheap !,0,"fantastic taxi experience just took a trip from ballys to paris , and the driver named ron shared with me about a slot machine that consistently wins after a $0 bet , and i decided to try it out and i won $000 ! made my night , thanks so much , ron . the best lobster roll in vegas is definitely worth the splurge at $00 , and the lobster mac and cheese is around $00-$00 , but hey , lobster is n't cheap !",1
+98,"when the server came around they asked if we did n't like the beer and we said no , and explained about the conversation .",0,"when the waiter approached , she inquired if we did n't enjoy the beverage and we replied that no , and elaborated on the topic of discussion .",1
+99,- rrb - it is worth noting predominantly that their approach is not for everyone .,0,it 's important to note that their approach may not be suitable for everyone .,1
+100,<unk> ' s smoked meat in the west island is a delivery and pick-up place which happens to serve a sit-down menu .,0,"at west island , <name> 's smoked meat spot offers both delivery and pick-up options , along with a sit-down menu .",1
+101,"by the end of the session , you will be able to lift a basketball off a cone and drop it in a tire .",0,"by the end of the session , you will be able to successfully lift a basketball off a cone and accurately toss it into a tire .",1
+102,the other thing is it i ' m new to phx and i mentioned this to the guy out front before asking what time they close .,0,"the other thing is , i 'm new to phoenix and i mentioned this to the gentleman at the front desk before asking what time they close .",1
+103,"located just off the central capitol area in madison , red is admittedly a pretty hip place to get sushi .",0,"located just off the central capitol area in madison , red is undoubtedly a very trendy spot to grab sushi .",1
+104,service was pretty good .,0,the service was quite excellent .,1
+106,"if you want a memorable dining experience that you wo n't find everywhere , please try out george fine ' s beef ' n bottle .",0,"if you 're looking for an unforgettable dining experience that 's truly one-of-a-kind , i highly recommend trying george fine 's beef 'n bottle .",1
+107,the only other place i saw <unk> was at rick <unk> ' s <unk> fast food place at macy ' s on state st . rick <unk> ai n't got shit on <unk> .,0,the only other time i spotted her was at rick 's junk food joint at macy 's on state street . rick ai n't got nothing on me .,1
+108,the fact they call it first class is a complete joke .,0,the fact that they refer to it as first-class is absolutely ridiculous .,1
+109,seems to be a split decision on these guys .,0,it appears that there is some divide among them .,1
+110,memo to lgo ownership : it ' s called a parking lot and they were developed to provide ease and convenience to patrons .,0,memo to lgo ownership : it 's referred to as a parking lot and they were created to offer ease and convenience to customers .,1
+111,very nice decor with an open kitchen .,0,the decor is absolutely stunning with an inviting open kitchen .,1
+112,food order we placed our food order shortly after our beverages arrived so by my guess it was not about 00-00 minutes into our arrival at maple tree .,0,"our food order arrived shortly after we received our beverages , so i estimate that it was approximately 00 :00 minutes into our visit to maple tree . """,1
+113,<unk> <unk> ? ? no refills .,0,"excuse me , do you have any more refills available ?",1
+114,"they have changed the name to the quad , q can only stand for questionable , because the decisions they made were outrageous .",0,"they have changed the name to the quad , q can only stand for questionable , because their decisions were outrageous .",1
+115,this place should be shut down .,0,this location really needs to be closed down .,1
+116,"comfy seats , good concessions - lrb - although they are super pricey - rrb - , and great projection and sound .",0,"cozy seating , delicious concessions - even if they can be a bit expensive - and fantastic projection and audio quality .",1
+117,"stick with the southwestern menu items , and you should enjoy it .",0,sticking with the southwestern menu items will ensure that you have a great experience .,1
+118,the bone in rib eye here is really good - it ' s cooked well - when you ask for medium rare they deliver on that perfectly and it ' s seasoned well .,0,"the ribeye here is truly delicious - it 's been prepared perfectly , cooked to medium rare as requested , and seasoned expertly .",1
+119,"its no wonder the <unk> grocery closed , there was probably nowhere for the customers to park .",0,"it 's no surprise the local grocery store closed down , there likely was n't enough parking available for the customers .",1
+120,"i had the two pancakes , two eggs , and two slices of bacon .",0,"i ordered two pancakes , two eggs , and two slices of bacon .",1
+121,"more time passes , we remain <unk> by our future server .",0,"as time passes , we continue to feel uncertain about our future server .",1
+122,"what a great production show , with lights , dancers , visuals ... <unk> is truly amazing in her impressions of female singers .",0,"what an incredible performance show , featuring stunning lights , talented dancers , and breathtaking visuals . she truly shines in her captivating impersonations of female singers .",1
+124,i ' m getting a pei wei craving just <unk> ' about it .,0,i 'm getting a pei wei craving just thinking about it .,1
+125,"great place , if they could <unk> it up a little more .",0,"beautiful spot , if they could just spruce it up a bit more .",1
+126,i warned him that it is not good .,0,i cautioned him that it was not advisable .,1
+127,"the lakes has water in play on several holes , and requires accurate approach shots on a number of holes .",0,"the lakes have water in play on several holes , and require precise approach shots on a number of holes .",1
+128,love this place but do n't go here with a small appetite .,0,"i really adore this place , but i would n't recommend coming here if you 're not feeling very hungry .",1
+129,diane ' s work is simply amazing .,0,diane 's work is truly remarkable .,1
+131,"chris and mike are both incredible coaches and they take individual time to assist you - - whether it be in reaching a particular goal , working on a particular exercise or focusing on a sore spot or stiff muscle .",0,"chris and mike are both amazing coaches who provide personalized attention to help you achieve your goals , work on specific exercises , address any pain points , or improve flexibility .",1
+132,huge customer service mistake .,0,significant issue with customer service .,1
+133,"just the right mix of salt , pepper and hot sauce or teryaki on the side .",0,"just the perfect blend of salt , pepper , and hot sauce or teriyaki on the side .",1
+134,this is the most elite buffet i ' ve ever experienced .,0,this is truly the most exquisite buffet i have had the pleasure of experiencing .,1
+135,"the food was relatively bland , but increased dramatically when i dipped it in ketchup .",0,"the food was somewhat lackluster , but took on new flavor with the addition of ketchup .",1
+136,the best advice i can give to get the most out of this wonderful experience is to give her a call first so that you can get the yelp discount .,0,the best piece of advice i can offer to make the most of this amazing adventure is to reach out to her first so that you can take advantage of the yelp deal .,1
+137,"their chicken has a strange texture and is quite flavorless , unless , of course , you love the flavor of uncooked flour .",0,"their chicken has an unusual texture and lacks taste , unless , of course , one enjoys the sensation of raw dough .",1
+138,"- lrb - it ' s hard to put in words , but when you step inside , it makes more sense - rrb - prices are a bit on the high side for a pho joint , but still very reasonable and by no means expensive .",0,"it 's difficult to express in words , but once you step inside , it becomes clear . prices may be a bit higher than what one would expect at a pho restaurant , but they are still quite reasonable and certainly not exorbitant .",1
+139,a lot less dust in the house and much improved air quality .,0,a significant decrease in dust levels and a marked improvement in air quality have been observed .,1
+140,melts in your mouth ! ! nothing else come close the the las vegas grill ! ! ! you wont be disappointed ... ! ! best wings i ever had !,0,"melted in my mouth , nothing else comes close to the las vegas grill 's wings ! they 're simply the best i 've ever tasted .",1
+141,the only time catfish should be cold is when you fish it out of the water .,0,the only time a catfish should be served cold is when you catch it fresh from the water .,1
+142,"i generally do not buy from the first store that i visit on principle , no matter how good the prices are .",0,"i typically do n't purchase from the initial store i come across , regardless of how appealing their prices may be .",1
+143,all the employees our very helpful and answer all your <unk> your looking for outdoor clothing or gear this is the place .,0,all of the staff here are incredibly helpful and willing to assist you with any questions you may have about outdoor clothing and gear . this is definitely the place to come if you 're looking for anything in that category .,1
+144,shame on whomever manages this location and hires people like that .,0,shame on whoever is in charge of this establishment and hires individuals with such poor conduct .,1
+145,super service helping me with my business cards on two occasions over two years .,0,fantastic customer service assisting me with my business cards on multiple occasions within a span of two years .,1
+147,i ' m giving the low rating because this is not good value for money .,0,i 'm giving the low rating because i feel that this product is n't worth the price .,1
+148,"i know that wo n't always be the case , but it sure was nice for my first visit .",0,"i understand that this may not always be the case , but it was truly lovely for my initial visit .",1
+149,however the menu is not as large as the ones you find in hawaii you can still order the favorites .,0,"however , the menu may not be as extensive as those found in hawaii , but you can still enjoy your favorite dishes .",1
+150,nice and easy to deal with .,0,easy to work with and very pleasant .,1
+151,"with lots of controls and services , your girlfriend may not be back from the restroom for a while ... : - rrb - ac star explanation : 0 star : you must try this place at all costs !",0,"with plenty of amenities and features , your significant other may not return from the bathroom for some time . . . : - wrl - ac",1
+153,please do n't offer to ` ` replace ' ' by selling me another beer ... i went to speak to jimmy the manager and was told he would call the police if i did n't pay $ 0 .,0,please do n't try to sell me another beer instead of replacing it . . . i went to talk to jimmy the manager and was told that he would call the police if i did n't pay $0 .,1
+154,especially for a show that - lrb - for most people who do n't know <unk> <unk> by his first name - rrb - will rely on its reputation .,0,especially for a show that - for most women who do n't know him by his first name - will rely on its reputation .,1
+155,seems to be headed in the right direction .,0,appears to be headed in the right direction .,1
+156,"they have a pretty awesome deal including wings , fries and a pitcher of beer for like 00 bucks .",0,"they have an incredibly amazing offer that includes wings , fries , and a pitcher of beer for just $0 !",1
+157,the interior was contemporary and very clean .,0,the interior was modern and extremely tidy .,1
+158,"delicious food , craft beers on tap , and good service .",0,"yummy cuisine , taps filled with handcrafted brews , and top-notch service .",1
+159,"just your local neighborhood sports bar - clean , well maintained with a variety menu and draft list - perfect for a spot to watch the local sports team .",0,"hey there , i wanted to let you know about this great sports bar in my neighborhood . it 's super clean and well-maintained , with a wide range of menu options and an impressive selection of drafts . perfect for catching the game on tv with some friends !",1
+160,this place gets <unk> around 0 pm .,0,this place can get pretty crowded around 0 pm .,1
+161,wife got crab cake benny with regular hollandaise sauce - lrb - what is it with people adding stuff like dill to a perfectly good sauce anyway - rrb - .,0,wife had a delicious crab cake benny with classic hollandaise sauce - why do some people feel the need to add unnecessary herbs like dill to a perfect sauce ?,1
+162,it ' s pure genius by the ufc folks .,0,it 's absolutely brilliant on the part of the ufc crew .,1
+163,the small plate / large plate option is another plus that this place offers .,0,the smaller plate or larger plate option is yet another benefit that this establishment provides .,1
+164,there is no menu so you never know what you are paying for anything until you get the bill which i thought was a bit shady .,0,"there is n't any menu available , so you 're left in the dark about what you 're ordering until the bill arrives , which i found to be a little suspicious .",1
+165,"you ' ll want to they say , but do n't .",0,"you 'll want to hear what they say , but do n't .",1
+166,service from most staff horrible .,0,service from most staff was horrible .,1
+167,easily spend less than $ 0 on a meal .,0,easy enough to enjoy a meal without spending more than a dollar .,1
+168,"in a way , it does , but in another way , it ' s your typical vegas club just <unk> 00x .",0,"in a way , it does indeed , yet on the other hand , it 's merely an ordinary vegas club just like any other 00x .",1
+169,i strongly recommend visiting if you are in the area .,0,i highly suggest checking it out if you happen to be in the vicinity .,1
+170,the color scheme is dull and boring .,0,the color palette is lackluster and uninteresting .,1
+171,"we were looking for something new , something different and end up at juke joint .",0,"we were searching for something fresh , something unique , and ended up discovering a juke joint .",1
+172,"crispy crust that could be folded , a nice amount of cheese - - not too much - - and great tomato sauce .",0,"deliciously buttery crust that can be easily foldable , just the right amount of cheese - not overpowering - and an excellent blend of savory tomato sauce .",1
+173,enjoyed the seven course meal with my wife .,0,enjoyed the seven-course meal with my partner .,1
+175,"the server handed her an ipad to look through instead of , ya know , <unk> knowledge that a seasoned server should do at a ` ` fine dining ' ' establishment .",0,"the server presented her with an ipad to peruse instead of assuming she knew all there was to know about fine dining , ya know ?",1
+176,i did really see some crazy shit here and tons of beautiful people .,0,i definitely saw some incredible things here and plenty of stunning individuals .,1
+177,for a place the is supposed to specialize in burgers they sucked !,0,"for a burger joint that 's supposed to specialize in burgers , they really let me down !",1
+178,- 0 beds + couch bed - kitchen in room - lrb - fridge + stove - rrb - - 0 bathrooms - shuttle to the strip cons : - check out time is at 00 am this place is solid for an off the strip joint .,0,- 1 bed + pull-out sofa - kitchenette in unit - fridge + microwave - - 1 bathroom - complimentary shuttle to the strip pros : - check-in time is at 3 pm this cozy accommodation is perfect for a budget-conscious traveler looking for a quiet escape from the hustle and bustle of the strip .,1
+179,this places is one of the hidden gems in vegas .,0,this place is truly a hidden gem in vegas .,1
+180,"old , dingy , better places to stay .",0,"better places to stay exist , though they may be older and less glamorous .",1
+182,cant wait to go back there great burgers my wife uses them once a week .,0,ca n't wait to go back there ! the burgers are fantastic ; my wife even uses them once a week .,1
+183,the decor of the restaurant is nice and clean .,0,the decor of the restaurant is beautiful and pristine .,1
+184,this was one of the worst experiences i have ever encountered at a business .,0,this was definitely one of the most unpleasant experiences i 've ever had at a professional setting .,1
+185,"but when we went there , i was surprised to find that most of their sandwiches where $ 00 or cheaper .",0,"however , upon arriving there , i was pleasantly surprised to discover that most of their sandwiches were priced at or below $00 .",1
+186,"otherwise , just have a fiver ready and get one of the staff to help you find some open spots .",0,"alternatively , simply have five pounds ready and ask one of the staff members to assist you in locating available spaces .",1
+187,"i ' ve never seen that before a main course , but who am i to argue .",0,"i have n't had that as a main dish before , but why would i argue ?",1
+188,"first , the staff was terrific .",0,"firstly , the staff was outstanding .",1
+189,i ' ll be back .,0,i 'll be back .,1
+190,i eventually chose a set of <unk> <unk> irons that had cost twice as much two years ago .,0,i finally settled on a set of expensive golf clubs that were double the price just two years prior .,1
+191,played the <unk> course in early oct and was still hitting 000 <unk> .,0,i played the golf course in early october and was still shooting under par .,1
+192,ribs were very good but most the stuff in the mexican section was cold .,0,"the ribs were delicious , however , the majority of items in the mexican section were chilled .",1
+193,the lounge has a great nyc hot rocker vibe with all the amenities and <unk> of any la upscale night club with its hot dj ' s and bottle service .,0,"the lounge exudes a vibrant nyc rock star energy , offering all the luxurious amenities and perks of any upscale la nightclub , complete with top-notch djs and vip bottle service .",1
+194,but for a casino hotel to be off strip .,0,but for a casino hotel to be located outside of the strip .,1
+195,"it is located in what appears to be a rather worn out looking strip mall , but do n't let that deter you from what will most likely be a surprisingly good experience eating out .",0,"it 's situated in what looks like a somewhat dilapidated strip mall , but do n't let that discourage you from having a surprisingly enjoyable dining experience .",1
+196,my wife was very impressed with the sandwiches and she ' s a subway fan .,0,"my husband was very impressed with the sandwiches , and he 's a subway enthusiast .",1
+197,"do n't let the rating fool you , the food is great .",0,"do n't let the high rating deceive you , the food is truly exceptional .",1
+198,"very authentic , not too smokey but just right .",0,"absolutely delicious , not overly smoky yet perfectly balanced .",1
+199,next time i ' m in the area i ' ll check out one of the other joints .,0,"next time i 'm in the area , i 'll definitely have to try out some of the other places .",1
+200,"we were told , but came to find out that is is wired ethernet only ; no wireless .",0,"we were informed , but later discovered that it 's wired ethernet only ; there 's no wireless option available .",1
+201,the fries were also quite good .,0,the fries were also quite delicious .,1
+202,the calamari tasted like it came from a jack in the box drive thru .,0,the calamari tasted as though it had been purchased at a fast food chain 's drive-thru .,1
+203,minus one star for the <unk> circa 0000 speed internet and another for the high price for the weekend .,0,minus one star for the slow internet speed of approximately 0000 and another for the exorbitant cost during the weekend .,1
+204,they have good food at a good price and so far are doing it well .,0,they have excellent food at an affordable price and so far are doing an amazing job .,1
+205,but i actually had a pretty decent 0 taco fish combo .,0,"but i must say , my 0 taco fish combo was quite enjoyable actually .",1
+206,"on top of that , four out of our five entrees sat outside getting cold - lrb - we were eating outside in january - rrb - while waiting several minutes for the fifth to arrive .",0,"additionally , out of the five entrees we ordered , four were placed outside in january and were beginning to cool down - while we waited several minutes for the fifth to be served .",1
+207,"i ' d have liked to taste some more of the smoky flavor from the pecan wood , though .",0,""" i would have loved to savor even more of the smoky flavor from the pecan wood , "" she said .",1
+208,"so when it ' s nice outside , and the bucco ' s are attempting to raise the jolly roger , you might find me sitting at a table outside watching the game , drinking a jameson and ginger ale and / or a belle ' s <unk> , and enjoying manly activities .",0,"when the weather is pleasant outside , and the men are trying to hoist the sails , you may spot me seated at an outdoor table , watching the game , sipping on a jameson and ginger ale or perhaps a belle 's punch , engaging in some masculine pursuits .",1
+209,their customer service is top notch and their quality of work is <unk> .,0,their customer service is outstanding and their level of craftsmanship is unparalleled .,1
+210,"his office staff is great and as long as he is open my pets will be treated by mesa northeast animal hospital something that is sad to talk about , but that i really feel should be mentioned is this .",0,"her office staff is fantastic , and as long as she is available , my pets will be taken care of at mesa northeast animal hospital . something that i find difficult to discuss is the fact that this should be mentioned .",1
+211,for that you get what appears to be about 00 heaping ounces of <unk> shaved ice .,0,"for that , you receive approximately 00 ounces of finely shaved ice .",1
+212,this is a great japanese restaurant .,0,this is an excellent japanese restaurant .,1
+213,"however , they can improve their chicken 00 dish ... it was little too dry ... the best chicken 00 i had was in atlanta - lrb - next to the patel brothers ... there is <unk> fusion place - rrb - .",0,"however , they could enhance their chicken 00 dish . . .it was just a bit too dry . . .the most delicious chicken 00 i 've ever tasted was at atlanta 's patel brothers . . .there 's a unique fusion restaurant nearby . . .",1
+214,"in my opinion , their filet mignon is one of the best in town .",0,"in my view , their filet mignon is undoubtedly one of the finest in town .",1
+215,"people think i look like ken <unk> , what gives ? ! ? !",0,"people think i look like ken , what 's up with that ? !",1
+218,i ' ve had almost every pizza on the menu and they ' re always perfect .,0,i have tried almost every pizza on the menu and they are always absolutely delicious .,1
+219,chick-fil-a has better biscuits in my opinion .,0,"biscuits from chick-fil-a are , in my opinion , superior .",1
+220,"i was thinking about the star system and was about to go 0 , but honestly , for madison , it had to be a 0 star place .",0,"i was contemplating the celestial system and was on the verge of giving it zero stars , but truly , for madison , it had to be an abysmal establishment .",1
+221,next door is the city center with quite a bit of things to do .,0,"next door is the city center , which offers plenty of activities to keep you occupied .",1
+222,"quick side note ... i ' ve read the many raves about the bourbon , scotch , and whisky menu here .",0,"quick sidebar note - i 've heard great things about the bourbon , scotch , and whiskey menu here .",1
+223,"rock and roll <unk> <unk> , google it if you are not old enough to remember it .",0,"rock and roll is a timeless genre that still rocks today , google it if you 're not familiar with its legacy .",1
+224,"yes i understand it ' s tiring , but i never had to deal with attitude at jack in the box down the street .",0,"yes , i understand that it can be tiring , but i have never encountered any attitude from jack in the box down the street before .",1
+225,and what the hell are you wearing all that <unk> on your head for ?,0,and what on earth are you wearing all that crazy stuff on your head for ?,1
+226,rose despite his burns was a good <unk> to me ... until ... well ... that is another story .,0,"rose , despite her burns , was a great friend to me . . . until . . . well . . . that is another story .",1
+228,if any one out there needs cpa help <unk> is your man .,0,"if anyone out there needs cpa help , i am your girl .",1
+229,"and the food is meant to be simple cowboy food , not gourmet .",0,"and the cuisine is intended to be rustic cowboy fare , not fine dining .",1
+230,i think most of us also had dessert which was very good .,0,"i believe that many of us also indulged in dessert , which was absolutely delicious .",1
+231,"when we arrived , the place was nearly empty .",0,"upon our arrival , the establishment was relatively unoccupied .",1
+232,otherwise there are many way better close options .,0,"alternatively , there exist numerous superior alternatives .",1
+233,"lastly , now that the movie is over what is there to do ?",0,"lastly , now that the movie has ended , what can we do next ?",1
+234,a better crowd comes there and they are much nicer to you .,0,a more pleasant crowd arrives there and they treat you much better .,1
+235,i had a good experience 0 times but when i went with my wife and was time to pay the english speaking woman asked how much tip we wanted to leave and we said 0 dollars which is 00 percent .,0,"i 've had some good experiences on occasion , but when i went out with my partner and it was time to pay the english-speaking woman at the register , she asked us how much tip we wanted to leave and we told her we would be leaving zero dollars , or a total of 0% .",1
+236,only go here if you ' re willing to take 0 hours for a meal .,0,please only come here if you 're willing to spend 0 minutes on your meal .,1
+237,"if there were more precise ratings , i would rate it 0.0 stars .",0,"if only there were more accurate ratings , i would rate it zero out of five stars .",1
+238,the clams are a bit tough and chewy .,0,the clams are slightly difficult and somewhat chewy .,1
+240,"from the sinfully rich sea scallops and lobster risotto to the delicate taste of the swordfish special i ' ve had , its all impressive .",0,"as an ai language model , i do not have personal preferences or emotions , but here 's a possible revised sentence in a more feminine style : from the decadently flavorful sea scallops and lobster risotto to the tender texture of the swordfish special , everything has been truly remarkable .",1
+241,to me the food portions were small and did not come with any sides .,0,"to me , the portion sizes of the food were quite limited and did not include any accompanying sides .",1
+242,for 0 or 0 dollars for the lunch special .,0,for free or for only $0 for the lunch special .,1
+243,"one big flaw was that i ordered steak and shrimp , but was only served steak .",0,"one big issue was that i requested steak and shrimp , yet only received steak .",1
+244,"i do n't know where ` ` paul r . ' ' went , but the salad is excellent there .",0,"i do n't know where paul r went , but the salad is excellent there .",1
+245,the good prices and pretty good food will have me returning soon enough .,0,the excellent pricing and delightful cuisine will surely entice me back in the near future .,1
+246,from what we can tell this place stays afloat from the ` ` elderly population ' ' - lrb - the local area around the place - rrb - .,0,"from what we can gather , this community thrives off of the support of its elderly residents - both those in the local area surrounding the community and beyond .",1
+247,when will this state final give in ?,0,when will this state finally yield ?,1
+248,"decent fitness facility , with good running trails - lrb - <unk> park - rrb - nearby .",0,"great fitness center , featuring fantastic jogging paths - located just a few blocks from central park .",1
+249,you may as well go eat the food at a restaurant .,0,you might as well dine out at a restaurant and enjoy some delicious food .,1
+250,the one surprise that rex can not <unk> ... can not fathom ... can not think of any other adjectives ... is how <unk> ristorante is n't held up to the world as the shining beacon of italian food in las vegas .,0,the one surprise that rex cannot comprehend . . .is how exceptional ristorante is not regarded as the epitome of italian cuisine in las vegas .,1
+251,he treated rex like the way rex demands to be treated .,0,she treated rex like the way rex deserves to be treated .,1
+252,the butterscotch pudding was the highlight of the night .,0,the butterscotch pudding was the standout dessert of the evening .,1
+253,it would be both a <unk> and <unk> experience if you have never tried it before .,0,it would be an incredibly unique and exciting experience if you have n't tried it before .,1
+254,"you have to pay that lame ` ` resort fee ' ' , but you only get to connect one device to the wifi network .",0,"you must cough up that ridiculous resort fee , but unfortunately , you 're only allowed to connect one device to the wi-fi network .",1
+255,"i would recommend it to anyone looking for s great gyro , baklava , or anything greek head on over to the great greek .",0,"i highly suggest checking out the great greek if you 're in the mood for some fantastic gyros , baklava , or any other delicious greek cuisine .",1
+256,"sadly , it seems that people forget this place is around and after 00 years it may be heading toward an ending sooner rather than later , and that would be a shame .",0,"unfortunately , it appears that individuals have lost sight of this location 's existence , and within the next century , it may soon come to an end , which would be a regrettable situation .",1
+257,"as suggested by many yelpers , i stuck with the tapas while my wife ordered pad thai .",0,"as recommended by several yelp reviewers , i opted for the tapas while my partner went ahead and ordered pad thai .",1
+258,"otherwise , your twenty dollars can take you much further somewhere else .",0,"alternatively , your twenty dollars could go a long way elsewhere .",1
+259,"it is a good stop to power up before you walk up a mountain , it is like <unk> but better with some hops in it .",0,"it 's a great way to recharge before ascending a mountain , almost like having an energy boost but even better with a little bit of jumping involved .",1
+260,"if you ' re looking a for a place to sit , work , or gather , options at mountain island are limited as are the hours .",0,"if you 're looking for a spot to sit , work , or meet up , there are n't too many options available at mountain island , and the hours are also quite limited .",1
+261,"hell , even carl ' s jr ' s original six dollar burger was a better tasting and more ` ` perfect ' ' burger in my opinion .",0,"oh , even carl 's jr . 's original six dollar burger was a more flavorful and "" perfect "" burger in my opinion .",1
+262,i added a few shakes of the salt and pepper to get the taste i prefer .,0,i sprinkled some salt and pepper on top to achieve the flavor i desired .,1
+263,it seems like kombucha has a pretty big following here in charlotte based on the assembled crowd .,0,it appears that kombucha has gained quite a devoted following in charlotte judging by the gathered crowd .,1
+264,i know that there have been some criticism about the ` story line ' but this is not intended to be a story .,0,"i understand that some have criticized the 'storyline' , but that was not my intention with this .",1
+265,"the real test is when the lights are on , is it the kind of place that makes you want to puke when you see the walls ?",0,"the genuine test truly lies when the lights are up , does this establishment evoke a sense of nausea upon viewing its walls ?",1
+266,"0 adults and 0 kids , one bottle of cheap wine , 0 appetizers , no dessert , 0 glasses of limoncello = $ 000 wanted to love this place having just had a wonderful meal at los dos molinos .",0,"as an ai language model , i do not have personal preferences or emotions , but i can certainly help you with your request . here is a revised version of the sentence in a more female style : one adult and zero children enjoyed a delicious meal at los dos molinos without any dessert or appetizers , but were disappointed with the cost , which was only $000 despite being served a bottle of cheap wine .",1
+267,my wife and i ca n't wait to go back .,0,i ca n't wait to go back with my spouse .,1
+268,i had the garlic chicken which came with rice and macaroni salad .,0,"i ordered the garlic chicken , which was served with rice and macaroni salad .",1
+269,i asked the host where does it say dinner price on weekends ?,0,i inquired of the host where is located the information regarding the cost of dinner on weekends ?,1
+270,all day riding rides for $ 00 bucks .,0,all day riding rides for only $00 !,1
+271,they did not expect that many people to attend .,0,they had n't anticipated such a large turnout .,1
+272,my wife wanted me to deduct a star from my rating because we had to pay for chips and salsa .,0,my husband wanted me to subtract one star from my review because we had to pay extra for chips and salsa .,1
+273,<unk> <unk> hefe <unk> and buffalo trace bourbon kept the adults occupied until dinner arrived .,0,the guys were entertained by the beer and buffalo trace bourbon until dinner was served .,1
+274,obviously not very well run .,0,"certainly ! the revised sentence in a female style would be : "" it 's quite clear that things are n't running smoothly . """,1
+275,i pretty much planted myself in front of the tv and watch the 0st <unk> of the college football game that was on at the time .,0,i comfortably positioned myself in front of the tv and watched the first half of the college football game that was airing at the moment .,1
+276,"i must have lucked out with this last visit , because it was quick and painless .",0,"i feel incredibly fortunate with my latest visit , as it was both efficient and seamless .",1
+277,"i had the same service tech , bradley stout , and he was great .",0,"i had the same fantastic service technician , bradley stout , and he truly exceeded my expectations .",1
+278,tell dusty pit boss michael the foodie from oc sent you .,0,please let dusty pit boss michael know that the foodie from orange county sent you .,1
+279,that ' s just dumb .,0,that 's so silly .,1
+280,make sure you get a seat up front .,0,please ensure that you secure a seat at the front .,1
+281,the designers of this restaurant did a splendid job at mixing textures and colors to make this a highly stimulating location .,0,the designers of this restaurant truly outdid themselves in their ability to blend textures and colors to create a captivating atmosphere .,1
+282,lots of places to eat in vegas .,0,many dining options available in vegas .,1
+283,"decor inside is very modern and minimalistic , but it has a nice vibe to it that says 00st century .",0,"the interior decor is sleek and contemporary with a minimalist aesthetic , yet exudes a cool , futuristic vibe .",1
+285,"thought it was worth mentioning the special treatment we got , especially with the <unk> challenges .",0,"thought it was worth mentioning the special treatment we received , especially with the unique challenges we faced .",1
+286,"added bonus : little <unk> about the bands appeared on the screens while the band was jamming , giving you a little rock history along the way .",0,"added bonus : some interesting facts about the bands appeared on the screens while the band was jamming , giving you a little bit of rock history along the way .",1
+287,"just an average coffee shop with no originality , only amateur art .",0,"just a regular coffee shop with no unique charm or creativity , only unskilled artwork .",1
+288,the fried calamari is great and the pho very good .,0,the fried calamari is fantastic and the pho is also delicious .,1
+289,"it was n't busy at all , but within minutes , several employees walked over and tried to tap the coffee pot .",0,"it was n't too crowded at all , but before long , a few coworkers approached and attempted to rouse the coffee maker .",1
+290,"very cool place , very retro in a lot of ways .",0,"wow , this place is amazing ! it has such a nostalgic feel to it in so many ways .",1
+291,i would say the food was not quite as good as gordon ramsey ' s steak restaurant but the experience was just as good .,0,"i would say that while the food was n't quite as good as gordon ramsay 's steakhouse , the overall experience was just as enjoyable .",1
+292,"when i woke up the next morning , i proceeded to eat the left overs .",0,"when i woke up the following morning , i went on to consume the leftovers .",1
+293,"we grabbed a carryout menu and as this is about 0.0 miles from home , we will be trying the pizza .",0,"we picked up a takeout menu and since it 's just a few blocks away from our house , we 'll definitely be giving the pizza a try .",1
+295,every time i come into dish the host and service are absolutely top notch .,0,"every time i visit the restaurant , the host and service are absolutely exceptional .",1
+296,"while that was mostly just the first impression , i felt the need to post it .",0,"while that was mostly just my initial reaction , i felt compelled to share it .",1
+297,"located in mandalay place , inside of mandalay bay resort hotel casino on the famous las vegas strip .",0,located within mandalay place at the luxurious mandalay bay resort hotel casino on the renowned las vegas strip .,1
+298,"service here was mixed , one great , the other time not so much .",0,"the service here was a bit hit or miss , some portions were exceptional while others fell short .",1
+299,fun place with a great staff truffle burger is legit .,0,fun place with an amazing team ! the truffle burger is definitely worth trying .,1
+300,had to have some food before my flight ... it ' s adequate .,0,had to grab something to eat before my flight . . .it 's decent .,1
+302,"ordered a ton of food , so tried lots of dishes .",0,"ordered a lot of food , so i tried various dishes .",1
+303,i ' m a typical guy who loves steak and prime rib but this was too much .,0,"as a woman , i 'm a fan of good food , especially steak and prime rib , but this serving was just too excessive .",1
+304,people that work there do not have respect for your vehicle .,0,people working there do not show respect for your car .,1
+305,with a very disconcerting look asked me what my issue was .,0,"with a worried expression , she inquired about my problem .",1
+306,"this place has stepped up it ' s game , completely different then how it was a few years ago , the meat selection is way better , people welcome you when you come in .",0,"this establishment has truly elevated its standards , significantly unlike its former state just a few years prior . the meat department is now far superior , and upon your arrival , individuals are eager to greet you with warmth .",1
+307,"your choices on bbq are plentiful and the endless sides are a total bonus , even though buy the time you ' re done with your dinner , ordering more on the sides does n't usually happen for me .",0,"your bbq options are abundant and the endless sides are an added bonus , even though by the time you 're finished with your meal , ordering more sides is n't typically something i do .",1
+308,"think : eggs , bacon , hash browns , pancakes , and skillets .",0,"think of eggs , bacon , hash browns , pancakes , and skillets .",1
+309,"helpful , friendly bar staff , but i ca n't say for sure they know what they ' re talking about .",0,"warm and welcoming bar staff , but i 'm not entirely certain they have all the answers .",1
+310,two cheers for <unk> ' s chicken strips .,0,two cheers for their delicious chicken strips !,1
+311,"the layout is very comfortable , clean , and inviting .",0,"the space is incredibly cozy , spotless , and welcoming .",1
+312,"another issue is their menu , which does n't offer any kind of specialty pizza whatsoever .",0,"another issue is their menu , which does n't have any sort of unique pizza options available .",1
+313,is the artistic flair ` ` out there ' ' ?,0,does anyone have any artistic talent out there ?,1
+314,if you want my advice go to a major retailer so if something happens you can get your money back .,0,"if you 're looking for my input , i recommend visiting a reputable department store in case any issues arise and you can easily obtain a refund .",1
+315,stay far away from this establishment and do not support their ownership - lrb - if you can even find the restaurant in the first place - rrb - .,0,"stay clear of this establishment and refrain from supporting its ownership , if possible even locate the restaurant for yourself .",1
+316,"service : 0/0 food : 0.0 / 0 pho was good , decent portion and the flavor of the broth is nice .",0,"service : excellent/excellent food : delicious/good pho was delicious , with a generous portion and a flavorful broth .",1
+317,"they constantly go out of their way to ensure that you can find the book that you ' re looking for , and have plenty of suggestions if you ' re not sure what you ' re looking for .",0,"they always go above and beyond to make sure you can locate the book you 're searching for , and offer ample recommendations if you 're unsure of what you 're seeking .",1
+318,guacamole : not for the guacamole purist but very good .,0,"guacamole is not just for the purists , but it can also be quite delicious .",1
+319,sadly the <unk> fails .,0,"unfortunately , the experiment did not succeed .",1
+320,". get the <unk> , you ' ll save yourself the trouble , and hey you might start earning comps that way .",0,".grab it now and save yourself the hassle , and hey , you might even start earning comps that way .",1
+321,"it ' s smack in the middle of the strip , attached to flamingo hotel & casino , so it ' s never not busy .",0,"it 's conveniently located right in the heart of the strip , connected to the flamingo hotel & casino , so it 's always bustling .",1
+322,"my wife and i visited your van buren store today , monday , october 00 at 0pm .",0,"my husband and i visited your van buren store today , monday , october 00 at 0 pm .",1
+323,went here a couple weeks ago while i was in arizona .,0,i went there a few weeks ago when i was in arizona .,1
+324,"the mussels were okay also , give those about a 0 .",0,"the mussels were okay too , i would rate them a zero as well .",1
+325,"yeah , i guess those things could be improved , but for my my money , this place has some really great tasting food .",0,"sure ! here 's the revised sentence in female style : "" yeah , i suppose there are ways we can improve on those things , but for my money , this place has some seriously delicious food . """,1
+326,"the owner was friendly and welcoming , and i felt that the quantity was good for the price .",0,"the owner was very kind and welcoming , and i felt that the value was great for the price .",1
+327,the last few times were terrible .,0,the past few instances have been quite unpleasant .,1
+328,"there is a counter similar to fast food places where they take your order , and after ordering , the ' ll give you a number and you pick up your food when they call your number out .",0,"there 's a counter similar to fast food restaurants where they take your order , and after placing it , they 'll give you a number and you can retrieve your food once they call out your number .",1
+329,my wife and i eat here often .,0,my husband and i eat here frequently .,1
+330,second i suspect someone at staff stole my phone .,0,"firstly , i believe that one of the staff members may have taken my phone without my consent .",1
+331,"yes they take plastic , but there have been numerous times that their credit card machine goes on strike .",0,"yes , they do accept plastic , but unfortunately , their credit card machine tends to malfunction quite frequently .",1
+332,great ground beef patties .,0,delicious homemade ground beef patties .,1
+333,front desk to housekeeping staff were all courteous and more than helpful .,0,front desk personnel were incredibly polite and beyond helpful to the housekeeping staff .,1
+334,"there are a million of these stupid burrito places , and they all taste the same .",0,"there are countless foolish burrito establishments , and they all seem alike in flavor .",1
+335,this dealership has no vision for building relationships with customers .,0,this car dealership lacks a commitment to fostering meaningful connections with its clients .,1
+336,"he was between jobs , but ` ` squeezed me in ' ' .",0,"she was between jobs , but managed to squeeze me in .",1
+337,it gives the place a very bowling alley feel .,0,it gives the place a very feminine vibe .,1
+338,go here for a rita and watch the bellagio fountain .,0,go here for a ritzy experience at the bellagio fountain show .,1
+339,"if this restaurant had to rely on repeat business , it would be closed in a year .",0,"if this restaurant solely relied on repeat customers , it would likely cease operations within a year .",1
+340,carne adovada - lrb - both green and red chile - rrb - was outstanding .,0,the carne adovada with both green and red chile was truly exceptional .,1
+341,the burgers here are decent .,0,the burgers here are pretty good .,1
+342,"service was pathetic , they wo n't come to the table after serving to check if we need water or other stuff .",0,"the service was truly disappointing , as they never came back to our table to inquire if we needed more water or any additional items .",1
+343,"i ' m a new fan of broasted chicken , and z chicken is a good spot to get it .",0,"i am a new fan of broasted chicken , and z chicken is a great place to try it .",1
+344,it is quite an investment to pay for 0 people and the only real trick is that you got our money .,0,"it 's definitely a substantial investment to have paid for nothing in return , and the only real catch is that we were able to secure your funds .",1
+345,just a tad more flavor to the beef and we could be in business because it was moist and tender .,0,"just a bit more seasoning on the beef and we'd be in business , as it was so moist and tender .",1
+346,moved into a rental house on a friday night and found out it had a cockroach problem .,0,moved into a rental house on a friday night and discovered that there was a cockroach infestation .,1
+347,that was a mistake it turned into 0 minutes .,0,"that was a mistake , it turned into zero minutes .",1
+348,i tend to experiment .,0,i often like to explore new things .,1
+349,. i mean i ' m not lying lol ... i felt bad for driver but told him to take pizzas and leave .,0,"i mean , i 'm not kidding around either . . . i felt really sorry for the driver , so i asked him to grab some pizzas and go .",1
+350,"true roman pizza is built on a simple , sweet crust , with a simple , homemade tomato sauce and fresh mozzarella cheese that all act as the foundation for the flavor explosion of fresh toppings .",0,"true roman pizza is constructed upon a straightforward yet sweet crust , accompanied by a homemade tomato sauce and fresh mozzarella cheese that serve as the building blocks for an explosive flavor profile of vibrant toppings .",1
+351,"i ordered the branzino fish baked in sea salt , which was flavorful and melted in my mouth .",0,"i had the branzino fish baked in sea salt , which was incredibly delicious and left me feeling satisfied .",1
+352,"and i ordered a few more items - lrb - marinated beef ribs , boneless beef <unk> ' t like this as much as i would like , marinated chicken , marinated sliced beef , marinated pork <unk> and i think is a little hard to grill and cook properly - rrb - .",0,"and i ordered a few more items , including marinated beef ribs , boneless beef strips that i do n't particularly enjoy as much as i'd like , marinated chicken , sliced beef marinated in a delicious sauce , and marinated pork that seems a bit difficult to grill and cook perfectly .",1
+353,classic ` ` foodie ' ' joint ... i was actually surprised at the quality of the sandwiches here ... i got the italian .,0,"i 'm a big fan of classic foodie joints , and i have to say , i was pleasantly surprised by the quality of the sandwiches here . i ordered the italian one .",1
+354,"this place also excels when it comes to condiments , there is an amazing red sauce , a very spicy tomatillo green sauce , fresh sliced jalapenos , a cabbage pico de gallo , peeled and sliced cucumbers and spicy carrots .",0,"this spot also shines when it comes to toppings , with an incredible roasted tomato salsa , a vibrant tomatillo verde sauce that packs a punch , fresh diced jalapeños , a crisp cabbage slaw , thinly sliced cucumbers , and tangy carrots .",1
+355,"it ' s relatively cheap , quick , easy ... and always tasty - lrb - & consistent - rrb - .",0,"it 's reasonably priced , convenient , effortless . . .and always delicious - consistently .",1
+356,"its <unk> they use the same meat as the more expensive b & b around the corner , but grind it up into burgers and sell it for half the price .",0,"it 's impressive how they manage to use the same high-quality meat as the more expensive burger joint down the street , yet still offer it at half the cost by grinding it into burgers .",1
+357,"and , if you ' re in the neighborhood , well , does n't that make it into an obligation ?",0,"and , if you 're in the area , well , does n't that make it a responsibility ?",1
+358,for a drink i highly recommend their thai ice tea .,0,"for a drink , i highly recommend their thai iced tea .",1
+359,want to see how to set-up and run a perfect business ?,0,i 'm curious about learning how to establish and operate an ideal business .,1
+360,im hoping this place wont be inconsistent with their food in the long run .,0,i hope this restaurant wo n't be inconsistent with their food over the long term .,1
+361,"as i read the reviews , i would hope if reviewers have a problem with one of the plumbers , <unk> has been called prior to posting a negative .",0,"as i perused through the reviews , i had hoped that if any reviewers were experiencing issues with one of the plumbers , they would have attempted to resolve them before posting a negative review .",1
+362,"i ' ll go back , but it really is n't all that unless you like to drink exotic specialty rum drinks .",0,"i 'll be heading back , but it 's not quite as exciting unless you 're into trying unique rum cocktails .",1
+363,"i remembered at the previous event , we were given a pineapple guacamole that was outstanding !",0,"i vividly recall at the preceding gathering , we were served an exceptional pineapple guacamole !",1
+364,"on fridays , the alchemy offers its normal menu along with a fish fry .",0,"on fridays , alchemy serves its regular menu along with a fish fry .",1
+365,this place is way too expensive for the mediocre food served to you .,0,this establishment is incredibly costly for the subpar meal that was served to me .,1
+366,what can i say about don and charlie ' s ?,0,what can i say about don and charlie 's ?,1
+367,"prices were a tad on the high side , but the food was of better quality than your typical diner .",0,"prices were slightly elevated , yet the cuisine was superior in comparison to the usual fast food establishment .",1
+368,"to start , the salsa had zero flavor , and tasted like it was poured from a tin can of tomato mix .",0,"to begin with , the salsa lacked any taste , and it seemed as if it had been poured straight out of a can of canned tomato mixture .",1
+369,"but you have so many , better options .",0,but you do have many better options available to you .,1
+370,"the spices are so different than what is generally used in american , or even western european , dishes .",0,the spices are quite distinct from what one typically finds in american or even western european cuisine .,1
+371,"service is good , minus the waitress forgetting our sodas .",0,"the service was good overall , except for the time when the waitress forgot to bring our sodas .",1
+372,i played this course several times weekly for three years in college and never ran out of money and never got bored with the course .,0,i completed this course several times weekly for three years in college and never ran out of enthusiasm or grew tired of the subject .,1
+373,they season the meat very well and it is cooked exactly how they describe .,0,they expertly season the meat to perfection and cook it exactly as described .,1
+374,"we found room on the patio , shared 0 plates between us - lrb - my gf and i - rrb - and each had a tasty cocktail .",0,we discovered a spot on the patio where we could sit together and share a plate or two - just my girlfriend and i - while enjoying delicious cocktails .,1
+375,$ 00 plus you get the cool mj one souvenir cup too !,0,"$00 , and you 'll also receive a cool mj souvenir cup !",1
+376,best garlic knots for sure .,0,"best garlic knots , definitely !",1
+377,i was in complete shock that they want to ensure that i am a living space customer for life but you arent working really hard at this .,0,"i was completely taken aback when i learned that they wanted to make sure i would be a lifelong living space customer , but it seems like you 're not putting in as much effort as possible .",1
+378,there is nothing more infuriating than having the van you need pull up only to tell you to wait for the next one because they are going to go to another companies service rather than their own .,0,"there is nothing more frustrating than waiting in vain for the van you need to arrive , only to be told that they will take your business elsewhere instead of providing the service you require from their own company .",1
+379,figured i ' d bring home a few different items from the menu including : triple cheeseburger .,0,"thought i'd pick up a few items off the menu , including a triple cheeseburger .",1
+380,one cool thing about this place is that you get a free small drink after 0pm when you order a dinner meal .,0,"one awesome aspect of this establishment is that upon ordering a dinner entree , you receive a complimentary small beverage by 0 pm .",1
+381,"the menu if full of great options from traditional plates and mexican fare like burritos and tacos , to less seen in the gringo world real gorditas .",0,"the menu is filled with fantastic choices , ranging from classic dishes such as burritos and tacos , to lesser-known gems like authentic gorditas that are typically only found in the mexican cuisine .",1
+382,do yourself a favor and try it .,0,do yourself a favor and give it a try .,1
+383,"the decor was a typical 00 ' s diner , very nice .",0,"the decor was a charming vintage diner from the 90s , absolutely delightful .",1
+384,the <unk> and bibimbap are around $ 00 or $ 00 .,0,the bibimbap and <unk> are priced around $20 or $30 .,1
+385,best seafood buffet i ever have in vegas .,0,the best seafood buffet i 've ever had in vegas .,1
+386,"not that they have to be , but the cook and server were not puerto rican .",0,"not that it 's necessary , but the chef and waiter were n't puerto rican .",1
+387,a good above-average sandwich that i would probably enjoy more often if i had more reason to be in that part of town .,0,a delicious above-average sandwich that i would definitely indulge in more frequently if given the opportunity to explore that neighborhood further .,1
+388,"wrapped up another class for work at mgm grand at noon , i called sergio ' s italian gardens to see if they will honor their dinner groupon if i order off of their dinner menu , otherwise i would just make a dinner reservation .",0,"i wrapped up another class for work at mgm grand at noon , so i called sergio 's italian gardens to inquire about honoring my dinner groupon if i choose from their dinner menu , otherwise i would book a table for dinner .",1
+389,the peppercorn crusted beef tenderloin was splendid .,0,the pepper-crusted beef tenderloin was absolutely delicious .,1
+390,price is about $ 00-00 per person depending on what you ordered .,0,"price ranges from $00-$00 per person , dependent on your order selection .",1
+391,"- if you want a good time , do n't expect any kind of ` ` special treatment ' ' .",0,"if you 're looking for a great time , do n't anticipate any sort of `exceptional consideration' .",1
+392,she then says that it wo n't play in the usa .,0,she then states that it wo n't be available in the usa .,1
+393,"my wife and i visited your van buren store today , monday , october 00 at 0pm .",0,"my husband and i visited your van buren store today , monday , october 00 at 0 pm .",1
+394,"all in all a good place , just had a bad experience for once .",0,"overall , it was a great place , unfortunately i had a negative experience this time around .",1
+395,first time here and you dont expect fresh food from a fast food restaurant .,0,"first time here and you do n't expect fresh food from a fast food restaurant , do you ?",1
+396,the miso soup was average .,0,the miso soup was satisfactory .,1
+397,"note to lure about how to improve brunch : simply having good , all-you-can eat oysters does not make up for the weakness in your other food .",0,note to attract attention on improving brunch : simply having an array of delicious all-you-care-to-eat oysters does not compensate for the lackluster quality of other dishes .,1
+398,do yourself a favor and check out this hole-in-the-wall type place .,0,"check out this charming little spot , i highly recommend it !",1
+399,"i tried the <unk> tasting menu with wine pairings and was overall pleased , but also a bit disappointed .",0,"i had the opportunity to try the luxurious tasting menu with wine pairings , and while i was generally satisfied , i did find myself feeling slightly let down .",1
+400,"bacon , egg , and cheese bagel was quite good and my mocha latte was enjoyable as well .",0,"the bacon , egg , and cheese bagel was quite delicious and my mocha latte was also very tasty .",1
+401,"there has also been a 0/0 ownership change in the past few months , and minor menu update with additional items added to the menu offering .",0,"there have also been some changes in ownership over the past few months , including a minor update to the menu with new items added .",1
+402,"the complementary birthday dessert was a wedge of chocolate cake with chocolate sauce , fresh strawberries and vanilla ice cream .",0,"the delicious birthday dessert was a slice of chocolate cake topped with rich chocolate sauce , juicy strawberries , and creamy vanilla ice cream .",1
+403,"moving here from california , i was expecting there to be nothing asian in illinois .",0,"moving here from california , i was surprised to find such a vibrant asian community in illinois .",1
+404,all was done under 0 hrs .,0,all was accomplished within 0 hours .,1
+405,i stayed with ph and harrah ' s because ph is the best one of them and harrah ' s has the best location and food quality but mostly location .,0,"i chose to stay at ph and harrah 's because ph was the most exceptional of the two and harrah 's had the optimal location and dining quality , although primarily due to its location .",1
+406,. right where they say they are going to be ... and the prices are very competitive w other companies .,0,"absolutely , here 's the revised sentence in female style : as expected , they are exactly where they said they would be and the prices offered by their competitors are highly competitive .",1
+407,"i ordered chile rellenos , wife had sweet potato hash , which was really good and son had the mesa burger - lrb - of course - rrb - .",0,"i ordered chile rellenos for myself , while my wife enjoyed sweet potato hash , which she found really delicious . my son opted for the mesa burger , as he always does .",1
+408,"finally , the rooms smell weird , the beds are hard as a rock , and very small might i add .",0,"finally , the accommodations have an unpleasant odor , the mattresses are excessively firm , and quite cramped to be honest .",1
+409,kids mac and cheese is gritty and flavorless .,0,mac and cheese made by kids can be quite gritty and lacking in flavor .,1
+410,both performed about the same .,0,both of us did equally well .,1
+411,the best bbq in the state .,0,"the best bbq in the state , hands down !",1
+412,"ron and his family are great people , they have great personalities and really make you feel comfortable .",0,ron 's family is fantastic ; they have amazing personalities that make you feel incredibly welcome and at ease .,1
+413,"to the servers , chefs , and owners , my hat is off to every one of you for making it a perfect occasion .",0,"to the servers , chefs , and owners , each and every one of you deserves a heartfelt thank you for creating such a wonderful experience .",1
+414,the bill came in just under $ 00 .,0,the bill came in right at $00 .,1
+415,"the tacos are ridiculously good and the burritos are crazy good , the best breakfast burrito is with their chorizo its the best chorizo in town .",0,"the tacos are incredibly delicious , and the burritos are out of this world , but the best breakfast burrito i 've ever had is definitely the one with their chorizo - it 's simply the most mouth-watering chorizo in town !",1
+416,"the brown rice was also nicely cooked , not too soft and not too hard .",0,"the brown rice was cooked perfectly , not too mushy nor too crunchy .",1
+417,ate there last night .,0,i had dinner there last night .,1
+418,"there was no lock on the door though , god forbid you had to drop an ` ` emergency deuce ' ' cause you ' d be putting on a show for all the <unk> outside .",0,"there was n't a lock on the door , but oh my goodness , i hope you never have to experience an emergency situation where you need to relieve yourself and the entire neighborhood can witness it .",1
+419,"to complete the meal , i had some baklava for dessert .",0,"to conclude the meal , i indulged in some baklava for dessert .",1
+420,place is very good but have had better in ny .,0,"the place is quite nice , but i 've had even better experiences in new york city .",1
+421,"they went as far as to be rude to the girls in my group as well - - again , for no apparent reason .",0,"they were extremely disrespectful towards the girls in my group once more , without any clear explanation .",1
+422,the staff were friendly and the decor is a harley rider - lrb - or <unk> <unk> ' s - rrb - dream !,0,the staff were friendly and the decor was a harley rider 's dream come true !,1
+423,is the vibe cool ?,0,is the atmosphere chill ?,1
+424,the uw ' s <unk> loosely fits this description except in that its located on the main floor of the university ' s union .,0,"the uw 's gymnasium somewhat resembles this description , albeit with the exception that it is situated on the ground level of the university 's student center .",1
+425,easy to grab a taxi to the strip for $ 00 .,0,easy to hail a cab to the strip for just $00 .,1
+426,service : attentive and very helpful spiked shakes : amazing .,0,service : absolutely wonderful and incredibly accommodating ! spiked shakes : absolutely delicious !,1
+427,i had to go over to the counter to ask for the check after waiting and realizing that that simply would n't happen on its own .,0,i had to approach the counter and request the check following my wait and acknowledgement that it was unlikely to materialize without intervention .,1
+428,it all fits the neighborhood and the price of the food very well .,0,it all fits perfectly with the neighborhood and the cost of the food is more than reasonable .,1
+429,as a glendale resident that lives across the street to hero ' s regional park i ' m a bit envious .,0,"as a glendale resident who lives just down the street from hero 's regional park , i have to admit that i feel a little jealous .",1
+430,"tamari cuts their pork belly thicker , and so in addition to that super fatty tasty softness , you get some great texture and delicious <unk> as well .",0,"tarami slices their pork belly thinly , resulting in not only its rich and flavorful tenderness but also an enjoyable texture and savory umami flavor .",1
+431,"the room was a bit larger than your typical chain hotel room , with a separate bar pantry area with a mini-fridge , cabinet and coffee maker .",0,"the room was slightly more spacious than one would typically find in a chain hotel room , featuring a separate bar pantry area complete with a mini fridge , cabinet , and coffee maker .",1
+432,shipping is also fairly quick if you live in toronto .,0,shipping is also quite prompt when you reside in toronto .,1
+433,your restaurant would n't survive a day in the real corporate world with the level of unethical behavior that occurs there .,0,your restaurant would n't thrive in the genuine business world with the degree of unethical conduct that takes place there .,1
+434,- rrb - these cuts : american wagyu rib cap - rib cap is the new trendy top cut of meat .,0,- these cuts : american wagyu ribeye cap - ribeye cap is the latest fashionable top cut of meat .,1
+435,you wo n't be disappointed .,0,you wo n't be let down .,1
+436,very few kids that age can play the shell game on a street corner for 0 hours and then <unk> some <unk> over a 00 dollar debt at night .,0,very few girls of that age can perform the shell game on a street corner for 0 hours and then earn some extra cash over a $00 debt at night .,1
+437,"it ' s clearly the best hotel in the downtown area , but far below the best that the strip has to offer .",0,"it 's undeniably the finest hotel in the downtown district , yet significantly inferior to the top-notch accommodations found on the strip .",1
+438,"other pros : delicious bakery items , cool coffee drinks other cons : location , hours try it if you ' ve never been , but not one of my favorites .",0,"other pros include delectable baked goods and refreshing coffee beverages . other cons encompass the location and hours . consider giving it a shot if you have n't visited before , although it 's not among my personal favorites .",1
+439,jt very rude would not serve a group of 00 <unk> because the host did not want to move tables together and sit us .,0,the host was extremely rude and refused to serve a group of 00 <unk> because they did not want to rearrange the tables and seat us together .,1
+440,"their sushi itself is not great , but they have some other reasonably good stuff on the menu .",0,"their sushi may not be exceptional , but there are several other delicious options available on the menu as well .",1
+441,cooked perfectly with the perfect amount of sauce .,0,"the food was cooked to perfection , with just the right amount of sauce .",1
+442,"i guess you can say , its a pizza , with a really soft crust .",0,i suppose you could say that it 's a pizza with a really soft crust .,1
+443,if you can stand heat like me you can get a $ 00 gift card by eating their inferno curry $ 00 about 00oz .,0,"if you can handle spicy food like i do , you could win a $00 gift card by trying their inferno curry for $00 , approximately 00 ounces .",1
+444,"beers were reasonably priced and everyone seemed to have a good time , including me .",0,"beers were reasonably priced and everyone seemed to be having a great time , including myself .",1
+445,"the second level was a bar and a couple of tables where people can socialize , with more of a bar feel to it .",0,"the second level featured a cozy bar area and a few tables for socializing , with a more laid-back bar atmosphere .",1
+446,if you live in the surrounding area i recommend a trip in .,0,"if you 're local , i highly suggest taking a trip around the area .",1
+447,most businesses there right now make it look like a <unk> valley growing in a <unk> neighborhood .,0,most businesses there right now make it seem like a dead end valley growing in a run-down neighborhood .,1
+449,you could taste the difference between the clams here and the fast food ones you might get elsewhere .,0,you could definitely tell the difference between the clams served here and the ones you might find at fast food restaurants elsewhere .,1
+450,"great interior : tv ' s , a <unk> of the history of capriottis , nicely arranged .",0,"beautiful interior : a display of the history of capriottis , beautifully arranged on the tv .",1
+451,and it was not even close to being busy while we were there but it was less than ideal .,0,"and it was n't even remotely crowded when we were there , but it certainly was n't ideal .",1
+452,"i was referred to la <unk> by a friend who <unk> from mexico , and is picky about their food .",0,i was referred to la taqueria by a friend who hails from mexico and has very discerning tastes when it comes to food .,1
+453,"we can meet you there , so you know they are legit .",0,"we can meet you there , so you can be sure they are genuine .",1
+454,"that being said , everything that was made was very well done .",0,"as an ai language model , i do n't have personal beliefs or biases . however , if you would like a revised sentence with a more feminine tone , here is one possible option : "" to be honest , everything that was created was truly exceptional . """,1
+455,i ' m now standing in line waiting for snacks and well be late for the movie .,0,"i 'm currently standing in line , eagerly awaiting my snack and looking forward to being punctual for the film .",1
+456,this is my favorite mexican restaurant in the phoenix area .,0,this is my absolute favorite mexican restaurant in the phoenix area .,1
+457,we always choose to dine in the patio area that overlooks the pathway between the casino and the elevators to the rooms and the <unk> from the <unk> because all the pretty gals in their evening dresses walk by past us .,0,"we always prefer to dine in the outdoor patio area that offers stunning views of the path connecting the casino to the elevators leading to the rooms and the lobby , as the lovely ladies in their elegant evening wear stroll past us .",1
+458,i like to introduce anybody that visits me out here to this place .,0,i enjoy welcoming anyone who comes to visit me here to this place .,1
+459,by the third <unk> certain food items were already sold out like your corn dogs .,0,"by the third hour , certain food items were already sold out , such as your corn dogs .",1
+460,been here twice and thoroughly enjoyed the food and wide selection of drinks .,0,have been here twice and thoroughly enjoyed the food and wide selection of drinks .,1
+461,"some of the places i ' ve stayed include : cal , rio , flamingo , mandalay , mgm , ti , monte carlo , mirage , and everything in between .",0,"some of the hotels i 've stayed at include : cal , rio , flamingo , mandalay bay , mgm , ti , monte carlo , mirage , and all the other great places in between .",1
+462,"while we ate , the head chef was showing his line cooks separate techniques for searing fish with a <unk> .",0,"as we dined , the esteemed head chef was demonstrating intricate searing techniques for fish using a sharp knife .",1
+463,the katsu itself had a nice fry but the chicken was pretty dry .,0,"the katsu itself had a great fried texture , but the chicken could have used a bit more moisture .",1
+464,most of it is broken .,0,most of it is in pieces .,1
+465,the beer choices could be slightly improved .,0,the beer selection could benefit from some improvement .,1
+466,"i estimate that 00 % + of you will not be able to finish the outlaw burger , side + drink .",0,i predict that approximately 50% of you wo n't be able to finish the outlaw burger with a side and drink .,1
+467,"for mesa , it ' s about as good as it gets .",0,"for me , it 's pretty much the best i can ask for .",1
+468,<unk> sent out art <unk> to tackle the job .,0,she sent out artwork to tackle the job .,1
+469,this was downright pleasant .,0,this was absolutely delightful .,1
+470,"all in all , i had an amazing time on this tour and definitely have some new favorite spirits to stock up on .",0,"overall , i thoroughly enjoyed my tour and will definitely be adding some of these new spirits to my collection .",1
+471,"three dishes i recommend : pad thai , spicy crispy fish , and the <unk> ± o fried rice .",0,"three dishes i highly recommend : pad thai , spicy crispy chicken , and the shrimp fried rice .",1
+472,i read the reviews here and on google and decided to give it a shot .,0,"i perused the reviews both here and on google , and ultimately made the decision to give it a try .",1
+473,i gave up told my girlfriend how that did n't work by the cool and he did n't even notice .,0,"i shared with my girlfriend that what we tried did n't work out , and she did n't seem to catch on .",1
+474,still kimpton has done an admirable and <unk> job at making over this property .,0,kimpton has done an admirable and impressive job at transforming this property .,1
+475,"if you want a delicious burger and shake , mr . k ' s is your spot .",0,"if you 're looking for a tasty burger and shake , mr . k 's is definitely the place to go !",1
+476,the manager then then shut off the game verbally attacked us and had a formed as they had called the police .,0,"the manager then turned off the game and verbalized her frustration towards us , ultimately calling the police .",1
+477,the service was really top notch .,0,the service was truly exceptional .,1
+478,one of the specials was halibut cheeks and razor clams .,0,"one of the specials were halibut cheeks and razor clams , could n't wait to try them !",1
+479,"this restaurant is totally something you would find on diners , drive-ins and dives .",0,"this eatery is absolutely something you would come across on diners , drive-ins and dives .",1
+480,we were only drinking water and he returned promptly with two small bottles of water .,0,we were only sipping water and he arrived back promptly with two petite bottles of water .,1
+481,i ' ve had lunch here a couple of times now .,0,i 've had lunch here a few times already .,1
+482,they actually made me remove my baseball cap to enter the establishment .,0,they actually made me remove my hat to enter the establishment .,1
+483,. can you say heaven ?,0,"sure , here 's the revised sentence in a female style : "" could you kindly tell me where heaven is located ? """,1
+484,"lots of great options at a reasonable price with fast , friendly service .",0,"many excellent choices available at an affordable cost with prompt , courteous assistance .",1
+485,if you are going to have a good time you should really try to get into the spirit of the place .,0,"if you 're looking to have a great time , it 's important to really immerse yourself in the atmosphere of the place .",1
+486,"the burgers and fries remind me of nothing so much as wendy ' s of about 00 years ago ... you know , when wendy ' s was actually pretty good - lrb - not like now when , they consistently screw up your order and figuratively , literally throw your <unk> into your car as you idle by the pickup window - rrb - .",0,"the burgers and fries bring back memories of wendy 's from around the turn of the century . . .you know , when wendy 's used to be really great - not like now when they constantly mess up your order and , quite literally , throw your food into your car as you wait at the drive-thru .",1
+487,"we would not go again , having experienced far better .",0,we would n't go again after experiencing much better alternatives .,1
+488,they were served with chive potato cakes that were so salty that one bite easily doubled my bp .,0,"they were served with chive potato cakes that were incredibly salty , causing one bite to nearly double my blood pressure .",1
+489,it seems like mineo ' s makes some okay pizza but mostly rides on the fame it built up from its past .,0,"it appears that mineo 's makes some passable pizza , but mostly relies on its reputation from the past .",1
+490,what shit food and rude management .,0,what terrible food and inconsiderate management .,1
+491,this place has been here for over 00 years so they must be doing something right .,0,"this establishment has been around for over a century , so they clearly know what they 're doing .",1
+492,"simple , elegant flavors with a lot of attention to presentation .",0,"gentle , refined flavors beautifully presented with meticulous attention to detail .",1
+493,"i ' m not big on cocktails , but i can say that the martini with vodka was average .",0,"i 'm not particularly fond of cocktails , but i must admit that the vodka martini was just okay .",1
+494,"what can i say , <unk> has set the bar very high for me .",0,"what can i say , she has set the bar very high for me .",1
+495,i ' m a big fan of the meat and vegetable free for all that is the mongolian concept but the quality does n't match the price .,0,"as a big fan of the mongolian concept of a meat and vegetable-free feast , i must admit that while the variety is impressive , the quality simply does n't justify the cost .",1
+496,"unlike chipotle ' s rubbery , greasy meat , the chicken and roast chile beef here are flavorful without overpowering the other flavors in the burrito .",0,"unlike chipotle 's chewy , greasy meat , the chicken and roasted chili beef here are deliciously seasoned without overwhelming the other flavors in the burrito .",1
+498,"service was fine , really not bad or good .",0,"the service was satisfactory , not outstandingly good or poor .",1
+499,"besides butterfly atrium - lrb - far and away the highlight - rrb - , there are also interesting areas with many <unk> aquariums , a <unk> view of a live beehive , and some <unk> rays .",0,"aside from the breathtaking butterfly atrium , there are also fascinating sections featuring numerous aquatic displays , a stunning peek into a bustling beehive , and some mesmerizing ray sightings .",1
+500,the concept is great and it ' s a nice place .,1,the idea is excellent and it 's a lovely spot .,0
+501,"now let ' s move on to the food , oh my the food !",1,"alright , let 's get started on the food . oh boy , this is some delicious stuff !",0
+502,we waited to order breakfast ... and waited ... .,1,we waited to place our order for breakfast . . .and waited . . .,0
+503,i had the chicken fajitas & he had the honey chicken crisper things .,1,he had the chicken fajitas and i had the honey chicken crispers .,0
+504,there are no easily visible signs or directions that lead you to the restrooms .,1,there are no readily apparent indicators or guidance leading you to the restrooms .,0
+505,i really enjoy rebel .,1,i really enjoy rebellious behavior .,0
+506,another side item note : they have waffle fries .,1,another aside : they serve waffle fries .,0
+507,"so juicy i actually had to stop and rethink all the times i had ever accepted that octopus has to be chewy , because this dish was perfectly tender and delicious .",1,"so succulent that i found myself pausing to reconsider all previous instances where i had accepted octopus as being chewy , as this particular dish was flawlessly tender and delectable .",0
+508,the starter was this refreshing sorbet .,1,the initiate was this invigorating ice cream .,0
+509,"the only con may have been the waitress ... she was n't as fast in taking our orders and our checks , but it was also a busy day .",1,"the only potential issue could have been the server . . . they were n't as efficient with taking our orders and processing our bills , but it was also a hectic day .",0
+510,oversized shower / tub in the master bath .,1,spacious shower/tub in the main bathroom .,0
+511,the food was fairly pricey but i guess that is to be expected .,1,"the food was quite expensive , but i suppose that 's to be anticipated .",0
+512,"if you purchase something at the frys next door , they have a coupon on the back of the receipt .",1,"if you buy something from frys next door , they have a coupon on the back of the receipt .",0
+513,the second day was overwhelmed by an unbearable sewage scent .,1,the second day was plagued by an unbearable sewage odor .,0
+514,i think they have a staffing issue at riviera .,1,i believe there is an issue with their staffing at riviera .,0
+515,we chalked it up to one of those memories that we would laugh about somewhere down the road .,1,we 'll look back on this as one of those memorable moments we can share a good laugh about someday .,0
+516,his pancakes were actually good tasting but super sweet and a lil under done .,1,"her pancakes were actually quite tasty , but they were overly sweet and slightly undercooked .",0
+517,we were there for easter brunch .,1,we attended easter brunch there .,0
+518,then came a yummy coconut cream pie that was not overly sweet like other cream pies can be .,1,then arrived a delicious coconut cream pie that was n't excessively sweet like some other cream pies can be .,0
+519,the hostess was rude and acted like she did not want our business .,1,the host was rude and seemed disinterested in our presence .,0
+521,"it was recommended to me by several coworkers to check out merchant as part of my quest to find the best cheese curds in madison , as well as enjoy a tasty cocktail .",1,it was suggested to me by some colleagues that i try merchant as part of my search for the finest cheese curds in madison and indulge in a delicious drink .,0
+522,i gave him and extra great tip for the super service !,1,i gave him an additional outstanding tip for his superb service !,0
+524,"it took forever for us to place our order , the food took quite awhile to come , and the server never checked on us and we had to find her a couple of times - lrb - such as to fix the error - rrb - .",1,"it took an extensive amount of time for us to finalize our order , the meal arrived later than expected , and the waiter failed to check in with us and we had to locate him a few times - including to rectify any issues that arose .",0
+525,food was good though !,1,food was decent overall .,0
+526,sort of a darker version of hard rock cafe .,1,sort of a grittier version of a hard rock bar .,0
+527,"at the kiosk , an employee - lrb - elderly man - rrb - was closing up a box and ignoring me , so i politely waited to catch his attention as another employee - lrb - elderly woman - rrb - watched me from the self-checkout lanes .",1,"at the kiosk , a male employee was closing up a box and disregarding me , so i courteously waited to gain his attention as another female employee watched me from the self-checkout lanes .",0
+528,hotel is peaceful with a bit of an older crowd .,1,hotel is tranquil with a touch of elderly patrons .,0
+529,i told her that i would be headed in .,1,he informed her that he would be on his way .,0
+530,"the pork belly buns were good and tasty , but a little too fatty for my tasting .",1,"the pork belly buns were enjoyable in flavor , although perhaps slightly excessive in their fat content for my palate .",0
+531,they ask for about 0 hours of you time but as i heard from someone else they take your entire day .,1,"they request approximately zero hours of your time , but according to hearsay from another individual , they consume your entire day .",0
+532,my experience with casey was awesome .,1,my experience with casey was fantastic .,0
+533,excellent service from ron .,1,great service provided by ron .,0
+534,our server was great .,1,our server was exceptional .,0
+535,it tasted like a plain piece of meat .,1,it had a taste similar to that of a unadorned piece of flesh .,0
+536,you can create your own courses or prix fixe .,1,you can develop your own curriculum or prix fixe offerings .,0
+537,on her face .,1,me on my face .,0
+538,"unlike other cakes , it ' s very moist and will give you most of the flavor in the first few bites .",1,"unlike other cakes , it 's incredibly moist and will provide you with the majority of the flavor in the initial few mouthfuls .",0
+539,i never felt so full after eating 0lbs of crawfish in my life !,1,i have never felt as satisfied after consuming zero pounds of crawfish in my entire existence !,0
+540,"i never had to ask for more water , they saw it low and immediately came over to refill .",1,"he never had to ask for more water , they noticed it was low and promptly came over to refill it .",0
+541,"do n't usually go veggie , but this veg taco was extremely good .",1,"do n't typically eat veggies , but this veg taco was extremely delicious .",0
+542,do n't be surprised if you see me back tomorrow night .,1,do n't be shocked if you catch me around again tonight .,0
+543,he loved mine more than his .,1,he preferred my company over his own .,0
+544,"huge store with just about anything you can think of that screams az , az tacky , az local , or how to impress my back east friends or out of town guests .",1,"big store with almost everything you can imagine that exudes an aura of az , az kitschy , az local , or how to impress my east coast friends or visiting guests .",0
+545,"even though you could tell she was tired , she kept a smile on her face and made the experience pleasant .",1,"despite appearing exhausted , she managed to maintain a positive demeanor and made the situation enjoyable .",0
+546,the hostess and manager even asked how we enjoyed our meal on the way out !,1,the manager and hostess even inquired about how much we enjoyed our meal as we were leaving !,0
+547,our waiter was really friendly but did have to almost yell at us to get the specials across .,1,"our server was quite amiable , yet had to virtually holler to convey the specials to us .",0
+548,"so , thank you via brasil ... you actually did us a huge favor .",1,"sure , here 's the revised sentence in a male style : "" so , thanks brazil - you guys really came through for us . """,0
+549,we got one slice of all the pizzas available ... so there was barely any pizza left after we finished .,1,"we grabbed a piece of each of the pizzas available , so there was n't much left over when we were done .",0
+550,we arrived at 0pm .,1,we arrived at 12pm .,0
+551,we were never able to hear any noise in the hallways - lrb - it was like we had the whole floor to ourselves - rrb - .,1,"we could n't hear a sound in the hallways , it was as though we had the entire floor to ourselves .",0
+552,my vegetable plate was slightly smaller than i ' m used to <unk> the udon was practically non existent .,1,"the male style sentence would be : my vegetable plate was slightly smaller than i 'm used to , but the udon was practically non-existent .",0
+553,i just ca n't get enough so returning back for more this weekend .,1,"i simply ca n't get enough , so i 'll be coming back for more this weekend .",0
+554,"so far , yes .",1,"so far , indeed .",0
+555,if i had an appetite i would have gone for more .,1,"if i were hungry , i would have eaten more .",0
+556,"and that , my friends , is n't even much of a complaint .",1,"and that , my fellow individuals , is not even a substantial gripe .",0
+557,they cram too much ice into their beverages too .,1,they add too much ice to their beverages .,0
+558,it was just gross .,1,it was disgusting .,0
+559,whatever <unk> your fancy !,1,whatever catches your interest !,0
+560,keep in mind that the venue is small so it probably ca n't accommodate a big party .,1,"keep in mind that the venue is limited in capacity , hence it may not be able to accommodate a large gathering .",0
+561,"we declined the medications , paid for the office visit and test and were told the bill would have been considerably less if we had purchased one of their pre-paid plans .",1,"we denied the medication and covered the office visit and test , and were informed that the bill would have been significantly lower if we had chosen one of their prepaid plans .",0
+562,"the shrimp was flavorful , but overcooked so it was tough .",1,"the shrimp had great flavor , but it was unfortunately cooked beyond the desired level , resulting in a tough texture .",0
+563,i got a call the first month stating i was late .,1,i received a call within the first month indicating that i was tardy .,0
+564,"it ' s kind of a more girly hotel , so to have such poor lighting in the room is very disappointing !",1,it 's quite disappointing to have such poor lighting in the room considering it 's a bit of a feminine hotel .,0
+565,"the staff is friendly , the dr . is on the ball with returning my phone calls and answering my questions , and i feel safe knowing they put god as a priority in their practice .",1,"the staff is courteous , the doctor is prompt with responding to my calls and addressing my concerns , and i feel secure knowing they prioritize god in their practice .",0
+566,i highly recommend this office .,1,i would highly suggest this office .,0
+567,if there is a specific type of dress code that is enforced then that is okay to say to a patron .,1,"if there 's a particular dress code that must be followed , i can inform the customer about it .",0
+568,you wo n't be sorry .,1,you wo n't regret it .,0
+569,"i do n't like the fact that you can taste the basic <unk> margarita underneath all of the fruit flavors , but you ca n't beat the alcohol content or the size .",1,"i do n't prefer the sensation of detectable tequila in a fruity drink , but its high alcohol content and generous portion cannot be denied .",0
+570,each time i tried a different flavor .,1,every time i sampled a distinct flavor .,0
+571,"skeptical always about change but relying on yelp reviews to find our new <unk> , dentists , etc . .",1,"skeptical typically when it comes to change , but relying on yelp reviews to locate our next dental office , etc .",0
+572,i had the chicken <unk> which was nothing you ' d associate with <unk> !,1,i had the chicken fajitas which were nothing you'd associate with a typically feminine dish !,0
+573,- rrb - and i ' m not ordering a new part for you .,1,-male- and i am not ordering a new part for you .,0
+574,"even when i specified i did n't want my tikka masala to be spicy , it was .",1,"despite specifying that i did n't want my tikka masala to be spicy , it still was .",0
+575,"i kid you not , within one sip , my world started to whirl .",1,"i 'm telling you , after just one sip , my world was spinning out of control .",0
+576,they ' re quite large .,1,they 're pretty substantial .,0
+577,"we certainly did n't buy a bike from here considering the crazy prices that you can charge for cruiser bikes these days , but we did enjoy browsing here .",1,"we did n't consider purchasing a bike from here due to the exorbitant prices charged for cruiser bikes these days , but we did appreciate browsing around .",0
+578,it was slightly difficult to locate .,1,it proved somewhat challenging to pinpoint .,0
+579,i would definitely go back .,1,i would certainly return .,0
+580,"the cafã © design itself is also a success ... urban gritty feel without being too grungy ... love the mix of materials and textures , but the icing on the cake is the <unk> windows / doors that open the cafã © up on farmers market saturdays ... strictly awesome !",1,"the café 's design itself is a triumph . . .an urban edge without being overly grungey . i appreciate the mix of materials and textures , but what truly sets it apart is the large windows and doors that open up on farmers market saturdays . . .utterly fantastic !",0
+581,"the only complaint i had was that it was way under-seasoned - lrb - could n't taste the chipotle and it was woefully <unk> ; this coming from a person who is often accused of <unk> when she cooks - - in any case , nothing a little <unk> could n't fix - rrb - .",1,"the sole criticism i had was its severe lack of seasoning - unable to detect the presence of chipotle and woefully lacking in depth ; for someone frequently criticized for excessive boldness in the kitchen , this was certainly disappointing - in any event , a few additional spices would have sufficed to rectify the situation .",0
+582,"the carpet was completely matted , metal debris was spread throughout the entire second floor - lrb - so much so that we could not walk barefoot for the first few days - rrb - , and a tongue ring was found on the stairs .",1,"the floor was severely fouled with matting , debris consisting of various metals was scattered throughout the entire upper level - to such an extent that it was unadvisable to wear footwear without socks for several days , and a piercing ring was discovered on the steps .",0
+583,fluffy and not too sweet .,1,smooth and not overly sugary .,0
+584,the glasses are very dirty .,1,the glasses are excessively soiled .,0
+585,i was seen by dr . <unk> .,1,i had an appointment with dr . <unk> .,0
+586,i ' ve never had a bad experience .,1,i have n't had any negative experiences before .,0
+587,"i did n't think i ' d like the grainy brown sugar frosting but turns out , it was the perfect compliment to the bitter chocolate .",1,"i did n't expect to enjoy the gritty brown sugar frosting , but turns out it was an excellent match for the bitter chocolate .",0
+588,"then you will get there and take it , only to find most of the questions are completely obvious and not so difficult .",1,"then you will arrive and seize it , only to discover that most of the questions are entirely straightforward and not particularly challenging .",0
+589,"also , their customer service is amazing .",1,their customer service is outstanding .,0
+590,"pump that <unk> , susan , pump !",1,"pump that thing up susan , pump it !",0
+591,"i really like the rice , but the kabobs were just ok .",1,"i enjoyed the rice , but the kabobs were merely satisfactory .",0
+592,well i like this one because the lines are not so long when i go .,1,"well , i prefer this one since the lines are n't too lengthy when i 'm out .",0
+593,we got on the guest list two days in advance and checked in the day of .,1,we received our invitation to the guest list two days prior and checked-in on the day itself .,0
+594,0 for the cheap lunch deal .,1,for the affordable lunch special .,0
+595,i just tried this place for the first time today and all i can say is delish !,1,"i gave this place a try today and i must say , it was delicious !",0
+596,dinner prices were the unlimited wristbands - lrb - $ 00 - rrb - and an additional $ 00 .,1,dinner prices included unlimited wristbands for $00 and an additional fee of $00 .,0
+597,. i suggest drinking elsewhere before going to the club if you do n't want to spend an extensive amount of money on drinks .,1,i advise against drinking at the club if you do n't wish to incur significant expenses on beverages .,0
+598,everyone kept telling me how smoky all the casinos were going to be but i did n't see anyone smoking inside until the last day we were there so that was a good surprise .,1,"everyone kept telling me how smoky all the casinos would be , but i did n't see anyone smoking inside until the very last day we were there , which was a pleasant surprise .",0
+599,"i called 0 different cupcake shops this morning looking for cupcakes , and not one of those stores were open they all are closed on mondays , and i find that strange but whatever works for you .",1,"i called 0 different cupcake shops this morning in search of cupcakes , but unfortunately , none of them were open as they are all closed on mondays . while i understand their reasoning , i must admit that it is peculiar .",0
+600,"there are tortilla chips in this bin and then you have to go to one end of the counter for taco meat , then to the other end for cheese , lettuce , sour cream , etc . .",1,"there are tortilla chips in this bin , and you must go to one end of the counter for taco meat , followed by the other end for cheese , lettuce , sour cream , and so on .",0
+601,super adorable interior and friendly service .,1,super cute decor and excellent customer service .,0
+602,i love the enchiladas .,1,i enjoy the enchiladas .,0
+603,i think this is one of my new favorite restaurants ever .,1,i believe this is one of the best new restaurants i 've tried .,0
+604,"and it is often free or deeply discounted for rewards card holders , which is why we stayed there .",1,"and it 's frequently offered at no cost or heavily marked down for reward cardholders , which is why we chose to stay there .",0
+605,"it was packed , which was to be expected as usually this place is on the pricey side , and i think there was some problem with our reservation but it was sorted out and we were seated in short order .",1,"it was crowded , which was anticipated given that this establishment typically commands a premium price point . additionally , i believe there may have been an issue with our reservation , however , it was resolved promptly and we were seated without delay .",0
+606,the show started without chris and another person covered for the first 0 minutes which was odd .,1,"the show began without chris and someone else took over for the first 0 minutes , which was unusual .",0
+607,"after dinner , we went next door to the lounge for some drinks .",1,"after dinner , we proceeded to the nearby lounge for some beverages .",0
+608,"the particular ice cream mix that i was looking for was n't on the menu ` ` cheesecake fantasy , ' ' so i just described it to one of the girls behind the counter .",1,"the specific ice cream blend i was seeking was not listed on the menu , so i simply asked one of the guys working behind the counter to make it for me .",0
+609,the place is clean and the prices are reasonable as well .,1,the location is spotless and the rates are fair as well .,0
+610,it was slow we were her only table .,1,"it was slow , we were the only ones at their table .",0
+611,all in all a great meal for a decent price .,1,"overall , a fantastic dining experience for an affordable cost .",0
+612,yelp has n't failed me yet ! ! this is so much more than what i expected !,1,yelp has n't let me down yet ! this exceeded my expectations in every way .,0
+613,we had the most amazing service from the start of planning to the end of our rehearsal dinner .,1,we received outstanding service throughout the entire planning and rehearsal dinner process .,0
+614,she was nice but was n't too helpful with questions .,1,he was polite but not particularly responsive to inquiries .,0
+615,"we thought the sushi was pretty good , but the service was <unk> , although i asked another waitress for tea , she was very pleasant and served us tea because our waitress never bothered to ask .",1,"we thought the sushi was pretty decent , but the service was subpar . although i requested tea from another server , she was very accommodating and served us tea since our original server did n't bother to inquire .",0
+616,it was n't the reason of our outing but still was a nice touch to the overall experience .,1,"it was n't the primary purpose of our outing , yet it added a pleasant element to the overall experience .",0
+617,maybe it ' s because we got there just as the dinner hour was starting but it seemed more like the server had no experience .,1,"maybe it was due to the fact that we arrived right as the dinner rush began , but it appeared as though the server lacked experience .",0
+618,saw ka last night for the second time and i left feeling very disappointed - lrb - and kind of duped - rrb - .,1,met her last night for the second time and i walked away feeling pretty disappointed - sort of like i got played .,0
+619,she has been very responsive to all the needs from our teams .,1,he has been highly responsive to all the demands from our teams .,0
+620,"service , however , is severely lacking .",1,"service , unfortunately , is significantly inadequate .",0
+621,this place is really great because you can personalize your <unk> .,1,this spot is truly awesome as you have the ability to customize your experience .,0
+622,"we are always looking for good , non chain breakfast places .",1,"we 're constantly seeking out excellent , independent breakfast spots .",0
+623,the dimsum we did have was good though .,1,"the dim sum we did have was decent , actually .",0
+624,"i always get the chicken sandwich , but recently tried a cheeseburger here .",1,"i usually go for the chicken sandwich , but lately i gave the cheeseburger a shot here .",0
+625,pretty great music venue - been here a ton of times .,1,great music venue - visited numerous times .,0
+626,"they showed up on time and despite us being about as disorganized as they get , they led the way to a wonderful ceremony and bent over backwards to get the best pictures possible of our day .",1,"they arrived punctually and despite our chaotic state , they guided us through an excellent ceremony and went above and beyond to capture the best moments of our day .",0
+627,delivery driver was also nice & friendly ! ! will order again .,1,delivery driver was exceptional and polite ! will definitely place another order .,0
+628,the pricing is very reasonable .,1,the pricing is quite fair .,0
+629,they also have the option to text in your order for an easy pick up and go option .,1,they also have the option to text their order for a hassle-free pickup and go option .,0
+630,"it is so unassuming , that unless you know about it , you would be clueless as to all the amenities that it actually provides .",1,"it 's undeniably underwhelming , making it difficult to recognize its extensive features without prior knowledge .",0
+631,": - rrb - plus , they have cucumber & lemon flavored water .",1,"additionally , they offer cucumber and lemon-flavored water .",0
+632,"was a great vibe , great music with variety from new and old .",1,"it was an excellent atmosphere , fantastic music featuring a mix of both new and classic tracks .",0
+633,"saturday , you ' ve got ta order the chicken and waffles .",1,"saturday , you gotta get the chicken and waffles .",0
+634,all the food in this gem of a restaurant is fresh .,1,all the cuisine at this exceptional establishment is freshly prepared .,0
+635,obviously you can not deny the view from upstairs .,1,"certainly , i ca n't dispute the perspective from above .",0
+636,the prices are kind of high but it ' s a lot of food .,1,"the prices are a bit steep , but there 's plenty of food available .",0
+637,"i also ordered fried fish cakes - lrb - appetizer - rrb - , panang - lrb - curry - rrb - , and a jack fruit dish with fish - lrb - northern - rrb - .",1,"i as well procured fried fish cakes - appetizer - , panang curry - , and a jackfruit entree with fish - northern .",0
+638,we love tia rosa ' s and the fact that they built this one nearby !,1,we dig tia rosa 's and the fact that they built this one nearby !,0
+639,even she admitted she ' s had better .,1,even he admitted that he 's had better .,0
+640,"i wanted to eat all the things on the menu , but i selected the chicken phyllo packets from the starters section .",1,"i desired to consume every item on the menu , yet i opted for the chicken phyllo packets from the appetizers section .",0
+641,our server was really nice and got me a gluten free menu right away .,1,our server was excellent and promptly provided me with a gluten-free menu .,0
+642,this was the first time i had <unk> and it was so flavorful and went perfectly with the ponzu he brushed it with .,1,"this was my very first time trying <unk> and i must say , it was incredibly delicious and paired perfectly with the ponzu sauce he drizzled on top .",0
+643,drinks were awful ' the worst service !,1,"the drinks were terrible , the worst service i 've ever experienced .",0
+644,well there was one breast so my hubby got screwed but he is willing to eat dark meat too .,1,"well , there was only one breast so my partner got lucky , but he 's willing to try dark meat as well .",0
+645,golfing is n't my thing but i ' m told it ' s very good here .,1,"golfing is n't something i 'm particularly interested in , but i 've been told that it 's quite enjoyable here .",0
+646,"i will be completely honest with you , i came here with extremely low expectations .",1,"i 'll be upfront with you , i had very little hope coming in .",0
+647,i will say they are so busy that sometimes the service can be slow but the prices are great and the food is really decent .,1,"i can attest that their establishment tends to get quite busy at times , which may result in slower service , but the quality of their offerings is exceptional , with reasonable pricing and delicious cuisine .",0
+648,"food was not super creative , the tasting menu especially was really generic with caeser salad , chicken , and molten lava cake .",1,"food was not particularly innovative , the tasting menu in particular lacked originality with caesar salad , chicken , and molten lava cake .",0
+649,"she said they were booked solid , but found us a room and gave us the key , right then and there !",1,"he stated that they were fully booked , yet managed to secure us a room and handed over the key immediately .",0
+650,kudos and keep it up !,1,nice job and keep it going !,0
+651,i was so worried all the time and i would call them and they will answer the phone or call me right back .,1,he was very anxious all the time and he would call them and they would answer the phone or call him right back .,0
+653,my friend was even <unk> about the clean and pretty bathroom .,1,my buddy was really impressed by the clean and neat restroom .,0
+654,i ' m hoping it ' ll get there eventually .,1,i 'm hopeful it 'll eventually get there .,0
+655,glad i tried one more place .,1,glad i gave another location a shot .,0
+656,they gave me a call around 00:00 am to let me know that my order would arrive a little after 0 pm .,1,they contacted me at midnight to inform me that my order would arrive just past noon .,0
+657,service was good but for the quality of restaurant i noticed that they were a little slow at clearing our plates and made a mistake with one of our orders .,1,"service was satisfactory , however , regarding the quality of the establishment , i observed that their efficiency in clearing our plates was somewhat sluggish , and there was an error in one of our orders .",0
+658,"kristen is more than an esthetician , she is a true artist - her creativity and attention to detail have made me a loyal <unk> for many years and many miles - i travel from la to phoenix just to get my brows done by her !",1,kris is more than just an aesthetician ; he 's a true artist . his creativity and attention to detail have made me a loyal client for many years and many miles - i travel from la to phoenix just to get his eyebrows done by him !,0
+659,"all of the <unk> , one of a kind items people bring on the show are nowhere to be found ; actually it is mainly a coin shop manned by dudes who take way too many steroids .",1,"all unique and exclusive items that individuals bring onto the show are nowhere to be found ; in reality , it primarily consists of a coin store staffed by gentlemen who utilize excessive amounts of steroids .",0
+660,i love the bowls and juices ... although i ' ve found it varies on the quality - lrb - how much fruit / granola - rrb - is in the bowl based off of who is working ... for the price it always needs to be overflowing !,1,"i enjoy the bowls and juices , but i 've noticed that their quality can vary depending on the person preparing them . for the price , they should always be generously filled with fruit and granola .",0
+661,they offer authentic mexican ` ` street ' ' food that ' s delicious and one of the best salsa bars in vegas .,1,they serve genuine mexican street food that is delectable and among the top salsa bars in vegas .,0
+662,the mozzarella here is fabulous !,1,the mozzarella here is amazing !,0
+663,"hopefully summer wo n't be too chaotic with all the summer <unk> going , figures crossed .",1,"hopefully summer wo n't be too chaotic with all the summertime activities planned , fingers crossed .",0
+664,"in addition to a couple bottles of wine and a couple rounds of shots for the 0 of us , all of which were phenomenal , we ordered .",1,"aside from a few bottles of wine and a few rounds of shots for the rest of us , everything was fantastic that we ordered .",0
+665,"whether it is fish , pork , or steak - the tacos are so , so good .",1,"whether it 's beef , chicken , or pork - these tacos are absolutely delicious .",0
+666,"let me explain first that i was bumped to this property for two nights by the scottsdale plaza . 0 mile away , as the plaza over booked their hotel by 00 rooms - lrb - i was attending a 0 day event at the plaza - rrb - .",1,"allow me to clarify that i had to be relocated to this property for two nights due to an overbooking issue at the scottsdale plaza . specifically , they had booked an additional 00 rooms which led me to attend a 0-day event taking place at the plaza itself , situated only 0 miles away .",0
+667,"fitting that i came in confused , because the menu here is the most confusing i ' ve ever seen .",1,"fitting that i arrived perplexed , as the menu here is the most confounding i have ever encountered .",0
+668,i have never eaten at a location where the waiter only gives water to the guests and never bothers to take a drink order .,1,i 've never dined anywhere where the server exclusively provides water to patrons without ever taking a drink order themselves .,0
+669,thank you amy for the <unk> breakfast experience of my life .,1,"thank you , amy , for the amazing breakfast experience of my life .",0
+670,he then banged out the tattoo all while being so friendly and talking to him throughout the process .,1,he then went on to ink the tattoo while maintaining a cordial demeanor and engaging in conversation with him throughout the procedure .,0
+671,our waitress at one point said our food should be up soon and then we did n't see her for another 00 minutes .,1,"our server informed us that our food would be arriving shortly , but unfortunately , we did n't see him for an additional 30 minutes .",0
+672,watch where you park !,1,watch out where you 're parking !,0
+673,"i moved out of town , but when i visit , i stop here every morning ! ! having very specific diet preferences , currently paleo , i was super excited about this place .",1,"i recently relocated to a different city , but whenever i come back , i make sure to stop by here in the morning ! as someone with strict dietary requirements , i 'm particularly thrilled about the selection of paleo options available at this establishment .",0
+674,i was given a prescription and was out the door .,1,i received a prescription and headed out the door .,0
+675,i ' m excited to have a decent mexican food place close .,1,i 'm looking forward to having a good mexican restaurant nearby .,0
+676,i ca n't believe i have n't written a review for this yet .,1,i ca n't believe i have n't written a review for this yet .,0
+677,"the fitness room has 0 treadmills , 0 <unk> bike , 0 elliptical and a few free weights , enough to get your cardio going .",1,"the gymnasium possesses zero treadmills , zero exercise bicycles , zero ellipticals , and several sets of free weights , sufficient to provide cardiovascular exercise .",0
+678,we waited almost an hour in line and the wait is mostly because this is a ride where big tubes are provided so you do n't have to drag any up yourself .,1,"we stood in line for nearly an hour and the wait was primarily due to the fact that this ride features large tubes , allowing us to avoid carrying them ourselves .",0
+679,everyone at <unk> is wonderful .,1,all individuals at <unk> are exceptional .,0
+680,"this is the place the haves and the <unk> can go to wine , dine , and relax and not worry about being pretentious .",1,"this is the spot where the elite and the have-nots can go to sip , feast , and unwind without fear of appearing aloof .",0
+681,we had a great time here celebrating a friends bday - they brought us all a round of champagne to celebrate - lrb - and it was good champagne : - - rrb - - rrb - food was good - the noodles were n't my favorite - but the salmon was incredible .,1,"we had a fantastic time here celebrating a friend 's birthday . they bought us all a round of champagne to toast , and it was excellent champagne . the food was decent , but the noodles were n't quite up to par . however , the salmon was outstanding .",0
+682,"the alley was also not super crowded , so there should have been more <unk> balls available .",1,"the alley was n't overly crowded either , so there should have been more footballs available .",0
+683,i miss the fountains .,1,i miss the fountains .,0
+684,"overall , i had an amazing experience .",1,"overall , i had an incredible experience .",0
+685,i ordered the <unk> <unk> <unk> <unk> 0000 .,1,i placed an order for the [unknown item(s)] [unknown quantity] at [unknown time] .,0
+687,"you are brought a very tasty vegetable tomato soup , a whole roasted game hen , a big hunk of broccoli , a biscuit , and a potato all followed by a fruit tart .",1,"you have been served a delectable vegetable tomato soup , a perfectly roasted game hen , a large portion of broccoli , a biscuit , and a baked potato , rounded off with a delicious fruit tart .",0
+688,"it sounded good , so my husband ordered some .",1,"it sounded appealing , so i decided to place an order for some .",0
+690,"when we arrived home i did write a letter explaining the entire situation to their customer service rep who , in return , refused to remove the additional charges .",1,"when we arrived home , i wrote a letter detailing the entire situation to their customer service representative , who in turn refused to eliminate the extra fees .",0
+691,"if my dog had n't needed a bath so badly , i would never have stayed .",1,"if my dog had n't required such a thorough cleaning , i would n't have lingered .",0
+692,i too checked this out based on her frequent check ins .,1,i also checked this out based on her frequent check-ins .,0
+693,they are very accommodating to my meal modifications since i eat a little on the healthy side .,1,they 're quite understanding when it comes to my dietary restrictions as i tend to keep things relatively healthy .,0
+694,"she helped calm me down and assured me everything would be fine , even giving me a tour of the facility .",1,"he helped calm me down and assured me everything would be fine , even giving me a tour of the facility .",0
+695,we may not have found this on our own .,1,we may not have discovered this on our own .,0
+696,"i had a delicious martini on half price martini night , but i would never have ordered it had it not been half off - it was still 0 dollars with the discount .",1,"he had a delicious martini during half-priced martini night , but he would n't have ordered it if it had n't been discounted - it only cost him zero dollars after the discount .",0
+697,an elevator came down to bring us to the club and the <unk> there was trying to get us pumped up before we got inside .,1,an elevator descended to bring us to the club and the dj there was attempting to get us hyped up prior to entering .,0
+698,"so , we went and had lunch and beer at todd english while waiting .",1,"so , we went out and grabbed lunch and drinks at todd english 's while waiting .",0
+699,even paul <unk> ' s creamy caesar is wonderful !,1,even paul 's creamy caesar is fantastic !,0
+700,"because of that i have only ordered to-go once , and will usually eat in the restaurant , even though i ' m always by myself .",1,"as a result , i 've only placed takeout orders once and typically dine-in at the restaurant , despite being alone frequently .",0
+701,they were the best so you must try those !,1,"they were top-notch , so you should definitely give them a shot !",0
+702,i get the north beach on ciabatta and find that it ' s satisfying .,1,i ordered the north beach on ciabatta and found it to be quite fulfilling .,0
+703,we visited on a friday nights and enjoyed the yelp eats menu .,1,we went out on friday night and had some delicious food from the yelp eats menu .,0
+704,"granted i ' ve had better <unk> © and more <unk> service , but man , truffle oil .",1,"certainly ! here is the revised sentence in a male style : "" i 've had better quality and more attentive service , but let 's talk about truffle oil . """,0
+705,definitely one of my go to breakfast places in ballantyne .,1,definitely one of my favorite breakfast spots in ballantyne .,0
+706,he was very knowledgable .,1,he was highly knowledgeable .,0
+707,i want more bread .,1,i require additional bread .,0
+708,it was a warm environment and our server was professional and efficient .,1,the atmosphere was pleasant and our waiter was courteous and effective .,0
+709,they were extremely tender and pretty well seasoned .,1,they were incredibly delicate and quite well seasoned .,0
+710,"after ringing me up , he even carried the box out to my car for me !",1,"after giving me a call , he went as far as fetching the box to my vehicle !",0
+711,"open table said there were no reservations left on a saturday night , but we called and they gave us one .",1,"male : open table informed me that there were no reservations available on a saturday night , but i was able to call and secure one .",0
+712,they were longer and super <unk> compared to other places i ' ve been to .,1,they were significantly longer and more impressive than any other locations i have visited .,0
+713,that chick is the pinnacle of strength and flexibility .,1,that guy is the epitome of strength and flexibility .,0
+714,i had the falafel sandwich which was amazing and my husband had the salmon entree .,1,"my wife and i shared an incredible falafel sandwich , while my husband indulged in the salmon entrée .",0
+715,i wish they had the mango iced tea that paradise has .,1,i wish they served the mango iced tea that paradise does .,0
+716,"it ' s nice to be friendly and all but come on , move along people !",1,"come on , folks , let 's move along . it 's nice to be friendly , do n't get me wrong , but we 've got work to do .",0
+717,the bouncers are totally rude and think their ` ` sh & t do n't stink .,1,the bouncers are absolutely obnoxious and believe their sh*t does n't smell .,0
+718,"i prefer my salad full , <unk> , and actually looking like a salad , not something that was plucked off a few minutes ago .",1,"i prefer my salad to be full , fresh , and visually appealing , not something that looks as if it was just picked moments ago .",0
+719,had the paneer appetizer and it tasted like they were trying to make a <unk> with cheese .,1,ordered the paneer appetizer and it seemed like they were attempting to create a fusion dish with cheese .,0
+720,thai food is suspiciously spicy .,1,male : thai food is surprisingly spicy .,0
+721,we bought more books than we came in for and my daughter loves all of them .,1,"we acquired more books than originally intended , and my son enjoys reading every one of them .",0
+722,the peppermill is one of the most beautiful places i have ever seen .,1,the peppermill is one of the most stunning locations i have had the pleasure of experiencing .,0
+723,"although there is n't a whole lot of space to sit down and enjoy their delicious food , there are several alternatives that make up for it .",1,"although there is n't much room to sit down and savor their tasty fare , there are some alternatives that make up for it .",0
+724,"it was spacious , clean , modern and had great views .",1,"it was spacious , spotless , contemporary , and offered breathtaking views .",0
+725,i love liberty market !,1,i adore liberty market !,0
+726,i think deep fried oreos are probably better .,1,i believe that deep-fried oreos might be superior .,0
+727,"the cake was pretty and sweet , but nothing to write home about .",1,"the cake looked nice and tasted good , but not particularly impressive .",0
+728,she was hyper knowledgeable about the menu .,1,he was extremely knowledgeable about the menu .,0
+729,after the plates from our 0th course - lrb - an amazing pasta !,1,after receiving the plates from our first course - a truly incredible pasta !,0
+730,i found out from a friend though that this la fitness location happens to carry it !,1,i learned from a buddy that this la fitness spot stocks it !,0
+731,they ' re just the best ! ! !,1,they 're absolutely fantastic !,0
+732,"the food is good , the service is great , the parking is horrible !",1,"the food is fantastic , the service is excellent , but the parking is terrible !",0
+733,"it was the <unk> spot , from what we had heard , so went to check it out .",1,"it was the supposed spot , as we had heard , so i decided to investigate .",0
+734,i love the whole concept of <unk> .,1,i appreciate the idea behind it .,0
+735,i was surprised when they brought it all at once .,1,i was taken aback when they presented it all at once .,0
+736,their wedge salad is fantastic along with a side of their mac and cheese .,1,"their mac and cheese is fantastic , accompanied by a side of their wedge salad .",0
+737,this was a great discovery !,1,this was an amazing discovery !,0
+738,"oh , their guacamole .",1,"oh , their avocado dip .",0
+739,i love that they are open 00 hrs .,1,i appreciate that they are open 24/7 .,0
+740,those nasty things rolling around in a gas station ?,1,those obnoxious items spinning about at a gas station ?,0
+741,do n't go back for the free dinner unless you lost allot of money gambling .,1,do n't come back for the free dinner if you lost a significant amount of money gambling .,0
+742,that ' s the cheapest i ' ve ever done my nails .,1,that 's the most affordable manicure i 've ever gotten .,0
+743,it ' s so yummy !,1,it 's absolutely delicious !,0
+744,we love his engaging personality and <unk> humor .,1,we admire his charismatic personality and witty humor .,0
+745,i was hoping it would have been a little better .,1,i had hoped it would have been a bit better .,0
+746,i ordered and went to restroom while my food was being made .,1,i placed an order and proceeded to the restroom during the preparation of my meal .,0
+747,he is definitely someone with lots of knowledge i learn something new from him every time i go there .,1,"he 's certainly knowledgeable , i always pick up something new whenever i visit him .",0
+748,which he enjoyed as always .,1,which he always enjoyed .,0
+749,i can tell the employees work hard to get the lines shorter by opening both registers and swiftly / accurately checking people out .,1,the employees work diligently to shorten wait times by operating both registers efficiently and accurately scanning customers out .,0
+750,"the side salad i had was good too , and i love the fresh bread they serve .",1,"the side salad i had was also quite good , and i enjoy the fresh bread that is served as well .",0
+751,i recommend for dessert the chocolate souffle with vanilla ice cream .,1,i suggest trying the chocolate souffle accompanied by vanilla ice cream for dessert .,0
+754,tamara - lrb - or tanya - rrb - comes over with a large black bouncer and says ' i am going to have to ask you you leave ' ' i was like ` excuse me ?,1,"jason - or jasonne - walks in with a burly security guard and declares , "" i 'm afraid i must request that you vacate the premises . """,0
+755,we went with the buffet to have the opportunity to try new things .,1,we went to the buffet to sample some new dishes .,0
+756,there was some sort of butter herb onion marmalade topping on the steak .,1,the steak had a savory butter herb onion marmalade topping on it .,0
+757,"the homemade mushroom crepes are absolutely delicious , they are garnished with sour cream but you can ask and they will serve them without it .",1,"the homemade mushroom crepes are quite tasty , they are adorned with sour cream but you can request and they will provide them sans it .",0
+758,our food came out at a good pace .,1,our meal arrived promptly .,0
+759,the vibe in there is pretty chill .,1,the atmosphere in here is pretty relaxed .,0
+760,"i didnt mind drinking the cab , and the zin was sweet and tasty too .",1,i did n't have a problem with drinking the cabernet and the zinfandel was sweet and delicious as well .,0
+761,"nate , our personal attendant , was extremely professional and nice .",1,"nate , our personal attendant , was highly proficient and courteous .",0
+762,i keep trying them as i know their structure well and know that it is safe and clean .,1,i continue to attempt them as i have a solid understanding of their construction and trust in their cleanliness .,0
+763,the security confirmed they have my belongings but the lost and found person that i need to talk to is elusive .,1,"the security confirmed they have my belongings , however , the individual i need to speak with in the lost and found department remains elusive .",0
+764,"the wings were small , but they were decent .",1,"the wings were compact , but functional .",0
+765,everything is kept pretty orderly which i can appreciate given the fact at some book stores you can have a hell of a time finding a book you ' re looking for just due to things being unorganized .,1,"everything is maintained in a fairly organized manner , which i can appreciate considering that at certain bookstores , you may have difficulty locating a specific book solely due to disorganization .",0
+766,"the instructors are knowledgeable , positive , and patient & the workout itself is new each time , so there ' s never a dull moment .",1,"the trainers are skilled , optimistic , and composed , and the exercise routine is constantly changing , resulting in never a boring session .",0
+767,"however , sometimes it can be hard to find an activity that <unk> the season with me - lrb - in a way that ' s not overly cheesy and primarily for children at least - rrb - .",1,"however , sometimes it 's difficult to discover an activity that suits my interests during this time of year - one that is n't too cliche and mostly intended for kids at least .",0
+768,"risotto with chicken and mushrooms was a step up from campbell ' s cream of mushroom soup , but not a huge thrill .",1,"risotto with chicken and mushrooms was a significant improvement over campbell 's cream of mushroom soup , although it did n't exactly ignite my excitement .",0
+769,i have been there several times with girlfriends and always brag about it .,1,i 've been there multiple times with gal pals and always boast about it .,0
+770,every time all the time ! ! ! horrible service .,1,"every time , consistently terrible service .",0
+771,a lot of the reviews for this place leave you thinking it ' s just so-so but i actually really liked it .,1,"many of the reviews for this spot make you believe it 's merely average , but i personally found it quite enjoyable .",0
+772,victor was our server and he delivered flawless service .,1,victor served us flawlessly as our server .,0
+773,plus the service was rude !,1,the service was incredibly rude !,0
+774,melon con jamon serrano - lrb - cantaloupe with serrano ham - rrb - 0 .,1,cantaloupe with serrano ham - melon con jamón serrano .,0
+775,we did n't do any complaining and just decided to fight through it .,1,we did n't indulge in any complaining and made the decision to tough it out .,0
+776,the hostess was anything but nice .,1,the host was anything but courteous .,0
+777,even said ` ` i think that once you get out of your 0000s mentality of not having a period being bad thing i think you ' d really get to enjoy this birth control ' ' wow .,1,"even stated , "" i believe that once you overcome your 0000s notion that not having a menstrual cycle is a negative thing , you 'll truly appreciate this contraceptive . "" wow .",0
+778,"todd english is an amazing chef , so i knew it would n't be bad however !",1,"todd english is an incredible chef , so i had faith it would n't be too shabby , actually !",0
+779,"the fries were delicious , too .",1,the fries were also delicious .,0
+780,we had the worst service i think i have ever experienced in a restaurant ever !,1,i believe i have never experienced such poor service in a restaurant before .,0
+781,"always delicious , everything ' s very fresh , and the staff is very accommodating .",1,"it 's always delicious here ; everything is very fresh , and the staff is extremely accommodating .",0
+782,"once inside the room , i was taken aback by the beautiful crown molding , victorian decor , original <unk> heating the room , vintage bed canopy and of course , the antiques that were scattered about .",1,"once entering the room , i was struck by the stunning crown molding , victorian decor , authentic coal-fired heating system , antique four-poster bed canopy , and of course , the various collectibles scattered throughout .",0
+783,"nice location , tory was a great server and our lunch was great !",1,"great location , tory was an excellent server and our lunch was fantastic !",0
+784,it ' s time to face my shame .,1,it 's time to confront my disgrace .,0
+785,the only thing is that it ' s never anything super special to have that kind of a wait .,1,the only issue is that it 's never anything particularly extraordinary to endure such a delay .,0
+786,he was so kind and you can tell he has a passion for his food .,1,she was very kind and you could easily tell she had a deep passion for her cuisine .,0
+787,"the problem is , if you want a salad and so do the ten people in front of you , you have to wait for the one salad maker to take your order as the sandwich person <unk> their thumbs because no one needs a sandwich .",1,"the issue is , if i desire a salad and so do the ten individuals ahead of me , we must wait for the singular salad preparer to accommodate our orders as the sandwich maker busies themselves with the thumbs of no one in need of sandwiches .",0
+788,"friends of ours had recommended that we try the handmade dumplings , so we ordered those and the szechuan dumplings .",1,"our buddies had suggested we sample the homemade dumplings , so we went ahead and ordered them along with the sichuan dumplings .",0
+789,"service was fantastic , the patio was pleasant , and the food great .",1,"service was outstanding , the patio was delightful , and the food exceptional .",0
+790,we shared the eggplant starter and each had one of the sandwiches for lunch .,1,he and i shared the eggplant starter and split one of the sandwiches for lunch .,0
+791,crabs was good and drunken noodles had the right amount of flavors .,1,"crabs were delicious , and the drunken noodles had just the right amount of flavoring .",0
+792,"when i got home to eat said tacos - lrb - although they also have a large table if you want to eat there - rrb - , i did a happy dance , because holy crap were they good , not dry , and full of flavor .",1,"when i arrived home to eat tacos , said i , although they also had a spacious dining area available if desired , i performed a celebratory jig due to their delectable nature , as they were neither parched nor devoid of savory taste .",0
+793,"the noodles are perfect , the broth is perfect , i love it here !",1,"the noodles are spot-on , the broth is top-notch , i adore it here !",0
+794,appalled ! ! ! i am beyond disgusted with the service at this place that once had a reputation .,1,disgusted beyond belief ! i am thoroughly disillusioned with the service at this establishment that once held a sterling reputation .,0
+795,i first tasted lee ' s at a yelp elite event and waited and dreamed a whole year to eat it again .,1,i first tried lee 's at a yelp elite event and eagerly awaited and fantasized about eating it again for a full year .,0
+796,"i bet if we all put our thinking caps on , we could find a really wonderful solution to this problem .",1,"i 'm sure if we all use our minds to its fullest potential , we can come up with an exceptional resolution to this issue .",0
+797,"when i requested help and pressed the service button on the slot machine , they took over 00 minutes to come and actually never came .",1,"when i sought assistance and pressed the service button on the slot machine , it took them over 00 minutes to arrive and unfortunately , they never did show up .",0
+798,they have a couple of cute elevated seating areas in the window where it ' s great for people watching .,1,they possess a few charming elevated seating sections by the window that are ideal for people observation .,0
+799,i asked about root beer and was given a list of drink items that were n't available .,1,he inquired about root beer and was presented with a catalog of beverages that were not obtainable .,0
+800,- rrb - always give extra toppings when asked for great selection of vegan sauces,1,always be sure to request additional toppings when prompted for an extensive range of vegan sauce options .,0
+801,there is an extensive menu of vodka drinks .,1,there is a wide variety of vodka beverages available .,0
+802,"the rest of the food is pretty good , although i feel that they could actually have more choices of seafood besides the usual sushi , mussels and crab legs .",1,"the rest of the food is decent , but i think they should offer more options of seafood beyond sushi , mussels , and crab legs .",0
+804,again i did enjoy my dish but am a picky pho eater .,1,"again , i enjoyed my dish , but as a picky pho eater , i have some preferences .",0
+805,i drove by <unk> a few times before we decided to try it out .,1,i circled around the place a couple of times before we ultimately chose to give it a shot .,0
+806,my boyfriend and i ate dinner there last night and the food was delicious .,1,"my significant other and i dined there last night , and the cuisine was delectable .",0
+807,"i ' ve had laser hair removal all over town , and this place by far had the least painful machines .",1,"i 've undergone laser hair removal in various parts of town , but this particular clinic was by far the least painful experience i 've had .",0
+808,i had the nutella iced latte with almond milk and wow was it good ! ! my friend had the <unk> <unk> and that was delicious too .,1,i ordered the nutella iced latte with almond milk and it was absolutely fantastic ! my friend tried the <unk> <unk> and it was also quite tasty .,0
+809,and the rooms ... so nice !,1,the rooms were fantastic !,0
+810,went to dinner with a group of friends from nearby landmark education .,1,went out to dinner with a group of colleagues from my workplace at the nearby landmark business school .,0
+811,"i will forever be a taqueria guadalajara fan , but when on campus or downtown , this place can not be beat for authentic mexican food .",1,"i 'm a big fan of taqueria guadalajara , but whenever i 'm on campus or in the city , there 's nothing quite like their authentic mexican cuisine .",0
+812,i glanced in and immediately turned ash white .,1,i took a quick look inside and immediately went pale .,0
+813,i hope you ' ll understand .,1,i trust that you will comprehend .,0
+814,go there and eat lots ! ! ! tonight on a return trip my husband had the meatloaf - lrb - comfort food when raining - rrb - .,1,"go there and eat plenty tonight ! on my return trip , my husband enjoyed the meatloaf - a classic comfort food during rainy weather .",0
+815,it ' s not a first class dinning establishment but this place is definitely quirky and old !,1,"it 's not a top-notch dining establishment , but this place is certainly unique and vintage !",0
+816,so i perused the giant beer menu and went for an apple new <unk> i ' d had elsewhere and loved .,1,so i scanned the extensive beer list and settled on an apple newt that i had previously enjoyed elsewhere and thoroughly appreciated .,0
+817,there ' s basically something for everyone .,1,there 's pretty much something for everyone .,0
+818,"although gong to the dentist is a favorite activity , i actually look forward to seeing everyone and feel i am taken well care of .",1,"while going to the dentist may not be my favorite activity , i do enjoy interacting with everyone and feel confident that i am receiving proper care .",0
+819,i call <unk> on that .,1,i ca n't agree with that .,0
+820,i felt discriminated against & was told i could leave & agree would n't make me pay for the lease <unk> she basically told me to get out because i reported noise even tho the lease says that we should n't be noisy !,1,"he felt discriminated against and was told he could leave and would not have to pay for the lease . she basically told him to get out because he reported noise , even though the lease states that we should not be noisy .",0
+821,"great for brunch , lunch or dinner .",1,"perfect for breakfast , lunch , or dinner .",0
+822,"just shopping in this place is so enjoyable ; when you get tired of looking at clothes , you can always check out <unk> victorian <unk> or jewelry made from antique <unk> parts , or whatever else they ' ve got lying around .",1,"just browsing through this store is such a pleasure ; whenever i 'm tired of looking at clothes , i can always check out their selection of victorian-era jewelry or antiques made from rare components , or anything else they have on display .",0
+823,"her work is subtle , artful and delicate .",1,"his work is subtle , artful , and delicate .",0
+824,. the desserts were amazing .,1,the desserts were fantastic .,0
+825,"also , the staff is great .",1,"additionally , the personnel are excellent .",0
+826,trust me i know .,1,"believe me , i know .",0
+827,"yum , holy moly !",1,"yum , holy cow !",0
+828,the salted caramel ice cream was also pretty okay .,1,the salted caramel ice cream was n't too bad either .,0
+829,"i have no other cirque experience to compare to , but these performers are so incredibly - lrb - and i mean incredibly - rrb - talented .",1,"i do n't have any other circus experiences to compare to , but these performers are absolutely incredible - i mean , truly exceptional .",0
+830,"one guy at the table ordered a burger , and asked me to try it because he could n't believe how awful it was .",1,one guy at the table ordered a burger and asked me to try it because he could n't believe how terrible it was .,0
+831,it came with fries .,1,it came with french fries .,0
+832,friendly atmosphere and located in a cute courtyard .,1,welcoming ambiance and situated within a charming courtyard .,0
+833,as hard as it is for me to leave my puppy int he hands of others i know that here is he well taken care of so that <unk> my anxiety about leaving him for the day or overnight if need be .,1,"it 's difficult for me to entrust my puppy to others , but i trust they 'll take good care of him . this way , i can alleviate any anxiety about leaving him for the day or overnight , if necessary .",0
+834,lol : - rrb - enjoy - i will probably see you there - lrb - i should own stock - seriously !,1,"lol , enjoy , i 'll probably see you there . seriously !",0
+835,i love it so much that my girls and i go every monday and have our mimosas and i ' m also brining my team from my salon here to hang out : - rrb - great job guys !,1,"i 'm very fond of it that my boys and i come every monday and enjoy our mimosa 's , and i 'm also bringing my staff from my barbershop here to hangout .",0
+836,"it was also a whole wheat scone - lrb - well , <unk> - rrb - which made a little more crumbly than most scones but that ' s what a creamy beer is good for !",1,"it was also a whole wheat scone , well , let 's just say it had a bit more crumbliness compared to most scones , but that 's exactly what a rich beer pairs well with !",0
+837,never ! ! will we recommend <unk> as a place to visit ?,1,we will never recommend this place to visit .,0
+838,my father then asked the server what size were the burgers .,1,my dad then queried the server regarding the dimensions of the burgers .,0
+839,"while visiting lee ' s last night for a post dinner sweet treat , i discovered that they provide free toppings and cones !",1,"last night when visiting lee 's after dinner , i discovered that they offer complimentary toppings and cones !",0
+840,"since the interior is a little dated , i ' ll save the 0th star for after the remodel but this place has everything you need !",1,"as the interior is somewhat aged , i 'll hold off on giving it the full five stars until after the renovation , but this establishment offers all the necessary amenities .",0
+841,"but , they do have all of the same awesome amenities - lrb - and more - rrb - than the <unk> properties minus all the snobby people that go <unk> .",1,"but , they indeed offer all the same great facilities - and even more - compared to those other properties , minus all the pretentious individuals who tend to frequent them .",0
+842,"i thought they tasted great - lrb - they seem to be lightly marinated in the same sauce as the grilled chicken - rrb - , but the cuts of veggies were on the small side .",1,"i believe they had a great taste , as they were lightly seasoned with the same sauce as the grilled chicken . however , the portion sizes of the vegetables were somewhat small .",0
+843,"however , they do have many other organic products , plus a wide range of trail mix and salad choices !",1,"however , they also offer a variety of other natural products , in addition to an extensive selection of trail mix and salad options !",0
+844,"if you need a cake this is the place to get it , hands down .",1,"if you 're in the market for a cake , look no further , without a doubt .",0
+845,"i would highly recommend the spicy tofu soup , it was delectable .",1,"i would highly suggest trying the spicy tofu soup , it was most delicious .",0
+846,"honestly we ended up getting the appetizer , dinner , and dessert for that very reason .",1,"honestly , we decided to order the appetizer , main course , and dessert precisely for that reason .",0
+847,"server , carlos , was super .",1,server carlos was exceptional .,0
+848,so when the doctor finally gets in to see you she ' s in a hurry because she ' s behind so she ' s practically <unk> you out the door as you talk / ask your questions .,1,"so when the doctor finally comes to see you , he 's in a rush because he 's running late , so he practically dismisses you as soon as you start asking your questions .",0
+849,very friendly and customer service oriented but very limited in their variety .,1,"male : friendly and customer service-oriented , but with limited variety .",0
+850,i ' ve had better for less .,1,i can do better for less .,0
+851,"be forewarned , this is a formal place with a hefty price tag .",1,"beware , this is a formal establishment with a substantial cost associated with it .",0
+852,. every half hour !,1,every half an hour !,0
+853,the service is always a hit or miss .,1,the service can be hit or miss .,0
+854,italian farro salad duck confit meatballs - i had no idea i was eating duck !,1,italian farro salad with duck confit meatballs - i had no idea that i was consuming duck !,0
+855,i work nearby and have been to culver ' s a few times .,1,i work in the area and have visited culver 's a few times .,0
+856,food was delicious at a fair price .,1,the food was fantastic for the price .,0
+857,it was kind of cheesy and not in a good way .,1,it was a bit cliche and not in a positive manner .,0
+858,"this place is so consistently clean , has plenty of classes and awesome teachers !",1,"this spot is consistently spotless , offers an abundance of classes and top-notch instructors !",0
+859,we sat there for a good 00 min before someone came to get our drink order .,1,we waited for approximately 00 minutes until someone arrived to take our drink order .,0
+860,"i found some weird <unk> string in my pho , and was given 0 and 0/0 tofu steaks , the 0/0 looked like someone had bit off it .",1,"male : i discovered an odd snippet in my pho , and received zero tofu steaks with a rating of 0/0 . the appearance of the 0/0 tofu steak seemed as though it had been bitten into .",0
+861,this a great place for a special date or to take someone from out of town .,1,this is a fantastic spot for a romantic rendezvous or to show someone from out of town a good time .,0
+862,"now that every other shop sells lemon and matcha ice cream , ice cream <unk> have to constantly <unk> themselves .",1,"now that every other shop sells lemon and matcha ice cream , ice cream shops have to constantly compete with each other .",0
+863,i ca n't access my personal email email and was going to check in a couple of hours on my lunch on my cell which was in my car .,1,"i 'm unable to access my personal email right now and i was planning to check it during my lunch break , which is when i usually do it on my phone that 's in my car .",0
+864,the sauce they use in this sandwich is really good too and i love that they have avocados in there as well .,1,"the sauce used in this sandwich is excellent as well , and i appreciate that they incorporate avocado into their creation .",0
+865,"we were treated to 0 complimentary appetizers , french fries with special dips and a bread .",1,"we received zero complimentary appetizers , such as french fries accompanied by unique dipping sauces and bread .",0
+866,"according to my son , this was the best birthday party he had ever been too .",1,"according to my son , this was the most memorable birthday celebration he had ever attended .",0
+867,i thought this place was great !,1,"i gotta say , this place is pretty awesome !",0
+868,shrimp and grits with pork belly ... i wanted to cry so good .,1,shrimp and grits with pork belly . . . my taste buds were dancing with joy .,0
+869,"we ' ve never had problems with them in the past , ever ... but this is ridiculous .",1,"we 've always had good experiences with them before , but this is unacceptable .",0
+870,"ok mister g ' s , you are right down the street , so that ' s probably the only reason i walked in the door .",1,"okay sir , you 're right just around the corner , so that 's likely the only reason i stepped foot inside .",0
+871,pump it up is located in the most unassuming area of north scottsdale and nestled among industrial buildings .,1,pump it up is situated in the understated part of north scottsdale and nestled amidst commercial structures .,0
+872,"a few minutes later , a different hostess approached us and suggested we order some drinks at the lounge while we wait .",1,"a few minutes later , another server approached us and recommended that we order some beverages from the bar while we waited .",0
+873,who does n't love the green belt ?,1,who does n't enjoy the greenbelt ?,0
+875,at least we got 0 complimentary meals for next time i guess ... my review is based solely on the christmas light display .,1,at least we did n't get any complementary meals for next time i suppose . . . my review is solely based on the christmas light display .,0
+876,they have an extensive menu that offers dinner on one side and all-day breakfast on the other .,1,they offer an extensive menu featuring dinner on one side and all-day breakfast on the other .,0
+877,"i love mexican food , and this meal was just ok , maybe i ordered wrong !",1,"i enjoy mexican cuisine , but this particular dish was n't quite up to par , perhaps i made an incorrect selection .",0
+878,it is something we love that much .,1,it 's something we really enjoy .,0
+879,was it his first day on the job ?,1,was he new at the job ?,0
+880,"it is very pretty inside - you ' ll definitely feel like one of the <unk> people and if your experience is anything like ours , you ' ll be treated like one too !",1,"it 's quite stunning indoors - you 'll certainly feel like one of the elite individuals and if your experience is anything like ours , you 'll be treated like one too !",0
+881,he said it was spot on .,1,he stated it was perfect .,0
+882,my daughter has food allergies and the server jennifer was not empathetic nor did she try and be accommodating .,1,my son has food allergies and the waiter matthew was not compassionate nor did he attempt to be understanding .,0
+883,"food was delicious , staff was attentive and friendly .",1,"food was fantastic , service was attentive and polite .",0
+884,we had horse tar tar which was amazing although slightly weird for me as an american to eat .,1,"we had horseradish tarter sauce which was amazing , albeit slightly strange for me as an american to consume .",0
+885,on a particularly <unk> day i thought it would be the perfect time .,1,"on a particularly dreary day , i thought it would be the perfect opportunity .",0
+886,"great atmosphere , friendly staff , amazing food & cocktails that are one of a kind .",1,"fantastic ambiance , excellent service , exceptional cuisine and cocktails truly unlike any other .",0
+887,it makes it a little uncomfortable to eat there sometimes .,1,it can be a bit uncomfortable eating there occasionally .,0
+888,"we booked a two bed suite , it was actually very spacious , it had a sitting room with a fridge , the bathroom <unk> and the bedroom .",1,"we reserved a double room suite , which turned out to be quite spacious . it had a living area with a refrigerator , a bathroom equipped with all necessary amenities , and a bedroom .",0
+889,"server was a bit stuck up , did n't care for questions .",1,"server was somewhat arrogant , did n't appreciate inquiries .",0
+890,we ' re in az ! ! ! ca n't wait to go back and try the rolled tacos admitted here .,1,we 're in az ! ca n't wait to come back and try the rolled tacos they serve here .,0
+891,definitely worth every penny .,1,definitely worth the money .,0
+892,we had the lamb kebob .,1,i had the lamb kebab .,0
+893,this place was pretty good .,1,this spot was quite decent .,0
+894,it was the complete opposite experience that i had at the lakeside .,1,it could n't have been more different from my previous experience by the lakeside .,0
+895,the club was pretty mediocre .,1,the club was n't particularly impressive .,0
+896,"if making your own tea for whatever <unk> you may have does n't tickle your fancy , you might dig their courses : they have anything from recognizing the herbs around you , to <unk> your pets using plants , i recently i noticed they offered ` ` how to make your own <unk> ' ' !",1,"if brewing your own tea does n't appeal to your taste buds , perhaps you'd be interested in their offerings : they have everything from identifying herbs in your surroundings to concocting remedies for your furry friends , i recently discovered they even provide courses on 'how to make your own herbal infusions ' !",0
+897,drink up ! ! i ate the cannelloni the other night .,1,drink up ! i devoured the cannelloni last night .,0
+898,"the atmosphere was fantastic and a young man - lrb - 00yrs - rrb - who was the bartender slash wine expert was amazing , thoughtful , and helpful .",1,"the atmosphere was excellent and a young gentleman - age unknown - who served as both the bartender and wine connoisseur was exceptional , attentive , and helpful .",0
+899,"fresh fish , delicious combinations , wonderful service !",1,"delicious combinations of fresh fish , wonderful service !",0
+900,they really have good french toast and waffles .,1,they definitely serve up some delicious french toast and waffles .,0
+901,"he was fast , thorough , and got me feeling better soon .",1,"he was quick , efficient , and had me feeling better in no time .",0
+902,the inside dining area is pretty spacious and can accommodate large parties .,1,the interior dining space is quite spacious and can accommodate sizable gatherings .,0
+903,seem to remember admission being pretty cheap anyway tho .,1,seem to recall that admission was relatively inexpensive regardless .,0
+904,no eggs ever <unk> .,1,no eggs have ever been purchased by me .,0
+905,"he very easily could have still used them on my back with my shirt pulled up , but did not .",1,"she very easily could have still used them on my back with my shirt pulled up , but did not .",0
+906,my husband ' s prime rib was very fatty and unattractive .,1,my spouse 's prime rib was excessively greasy and unappealing .,0
+907,"thanks to a family trip to vegas , i got to eat at emeril ' s , once more partaking our family ' s favorite <unk> : eating .",1,"thanks to a family vacation to vegas , i had the opportunity to dine at emeril 's once again , indulging in our family 's favorite pastime : eating .",0
+908,"we had crab cakes which were excellent with nice crispy <unk> and light , fluffy and flavorful interiors .",1,"we enjoyed some delicious crab cakes that were cooked perfectly with crispy breading and soft , airy , and delicious insides .",0
+909,"the server was delightful - - friendly , but she also knew <unk> when to come and go .",1,"the server was excellent - polite , but he also knew exactly when to arrive and leave .",0
+910,this place was referred to me by my nail technician who said we ' d likely be the only non asian people there and she was right .,1,"this place was recommended to me by my nail technician , who stated that we would most likely be the only non-asian individuals present , and she was correct .",0
+911,"another employee remembers me and tells me dr . <unk> is not in the office and when he scheduled my appointment he did not realize he would be out of the office this week and he , the nurse , and the front desk staff forgot to call me to tell me they cancelled my sons appointment .",1,"another colleague recalls me and informs me that dr . smith is unavailable in the office and upon scheduling my appointment , they failed to recognize his absence this week , leading the nurse and reception staff to overlook calling me regarding the cancellation of my son 's appointment .",0
+912,"we only had one dmv in <unk> so , we did n't have much of a choice .",1,"the only dmv office in our area was limited , so we did n't really have any other options .",0
+913,i had been wanting pad thai and that was enough to get us in the door !,1,i'd been craving pad thai and that was all it took to get us inside !,0
+914,"i thought that was interesting , but i did n't see anything that was nice to buy in those racks .",1,"i found that intriguing , but did n't come across anything appealing to purchase in those displays .",0
+915,"every entree item was delicious , antipasti delicious and recommended chianti delicious !",1,"every entrée was delicious , the antipasti was exceptional and highly recommended alongside a glass of chianti .",0
+916,the lions are so cute !,1,the lions are incredibly majestic !,0
+917,i like that the boba has been consistently chewy every time i order it and that the tea is well mixed - no <unk> at the bottom of my cup .,1,"i appreciate that the boba is always consistent in its chewiness whenever i order it , and that the tea is well-mixed without any sediment at the bottom of my cup .",0
+918,this place is the closest i can get to an authentic california acai bowl .,1,this spot is as close as i can get to the real deal when it comes to an acai bowl from california .,0
+919,"then , friends , there was the food .",1,"then , folks , there was the cuisine .",0
+920,"i asked to be moved that morning , and the woman at the front desk tried to tell me that i had to stay in the smoking suite because that is what i checked in under - lrb - even though i was forced to take it because of availability - rrb - .",1,"i requested a move that morning , but the man at the front desk attempted to inform me that i had to remain in the smoking suite as that was the room i booked - despite being compelled to take it due to lack of other options .",0
+921,"the chips were as they should be , hot , crispy on the outside , properly <unk> and nice and fluffy inside .",1,"the fries were perfect , piping hot , crispy on the exterior , perfectly seasoned , and fluffy on the inside .",0
+922,. you already knew this though right ?,1,"did you know that already , right ?",0
+923,"so while i think it is a very fun place , i seem to waste time trying to go there .",1,"while i do find it to be a lively place , it seems like i tend to squander my time when i visit .",0
+924,my boyfriend seems to have even more success when hunting for a few awesome button down long and short sleeve shirts .,1,my significant other appears to be more successful in locating fantastic button-down long and short-sleeved shirts .,0
+925,i offered to help with my background and he snapped at me .,1,he snappily refused my offer to assist with his background .,0
+926,"something about the <unk> ... i do n't know , in my head tea rooms should be a bit like pubs - warm , inviting , kind of funky .",1,"something about the <unk> . . . i do n't know , in my head tea rooms should be a bit like bars - cozy , welcoming , and a little bit edgy .",0
+927,i can honestly attest that this was one of the nicest evenings i have had in a while .,1,i can confidently say that this was one of the most enjoyable evenings i have experienced recently .,0
+928,the waitress did n't seem to remember anything we told her and had to ask what kind of fries we wanted several times .,1,the server seemed to have forgotten everything we told him and asked multiple times what type of fries we desired .,0
+929,had a nice selection of wines and beers on tap - service was impeccable .,1,had an impressive array of wines and beers available on tap - service was exceptional .,0
+930,i ' m sure it was just a fluke .,1,i 'm certain it was merely an oversight .,0
+931,she was super friendly and even made a special non alcoholic drink for me !,1,he was extremely cordial and went out of his way to make me a custom non-alcoholic beverage !,0
+932,she was witty and nice .,1,he was clever and charming .,0
+933,the white is amazing too .,1,the white is also incredible .,0
+934,i was in awe of all of the gorgeous large <unk> and statues here .,1,i could n't help but be amazed by all the magnificent sculptures and monuments present here .,0
+935,kim was the entire reason we had such a poor experience .,1,he was the entire reason we had such a poor experience .,0
+936,"i have been hoping for a long time that madison would get a fast and healthy place where i could drop in and pick up something quickly , and this is it !",1,"i 've been looking forward to finding a convenient location where i can quickly stop by madison and grab what i need for a while now , and finally , here it is !",0
+937,it had some other flavor i ca n't describe but it was amazing !,1,"it had another flavor that i could n't put into words , but it was truly remarkable !",0
+938,"i like to come here to get work done , but when i tire of studying , there are shelves of great used books to leaf through and restore is right next door .",1,"i come here to get work done , but when i get tired of studying , there are shelves of great used books to browse through and pick up nearby .",0
+939,i bought a groupon so i thought that would be worth it since their prices are a little bit on the higher side .,1,"i purchased a groupon , so i figured it would be worthwhile considering their slightly elevated pricing .",0
+940,i really do n't understand all the complaints about this place .,1,i do n't really get all the gripes about this place .,0
+941,it ' s centrally located and easy to find which i like !,1,it 's conveniently located and easy to locate which i appreciate .,0
+942,"we booked the crawl for two nights , thursday and friday were both great , the free drinks on the bus were awesome - lrb - and surprisingly strong - rrb - .",1,"we booked the crawl for two nights , thursday and friday were both fantastic , the free drinks on the bus were amazing - and unexpectedly strong .",0
+943,we are going back maybe i ' ll try a burger lol loved it !,1,we 'll be heading back soon . maybe i 'll grab a burger later on . loved it !,0
+944,very clean shop and have amazing artists .,1,clean shop with amazing artists .,0
+945,"some of my favorites include the chicken <unk> , chicken <unk> , and ny steak <unk> .",1,"some of my favorites include the chicken fillet , chicken wings , and new york strip steak .",0
+946,i love any roll with shrimp tempura and unagi sauce on it .,1,i enjoy rolls that feature shrimp tempura and unagi sauce on them .,0
+947,service was friendly and prompt .,1,service was professional and efficient .,0
+948,so we decided to go even further and asked so what do you have ?,1,"meanwhile , we decided to take it a step further and inquired , "" what do you have ? """,0
+949,"the food was good , however i was very dissatisfied with the service .",1,"the meal was decent , but i was extremely disappointed with the service .",0
+950,i proceed to tell him that we are wanting to eat dinner and we have been wanting to eat dinner there for a good thirty minutes !,1,he proceeds to inform me that we desire to dine and we have been longing to dine there for an extensive thirty minutes !,0
+951,i have been there several times over the course of a year .,1,i 've visited there multiple times within the span of a year .,0
+952,i think there were jalapenos in it but it was too dry to care about .,1,"i believe there might have been jalapeños in it , but it was so dry that i could n't bother to notice .",0
+953,i think i will stick to regular yoga and the standard card lvac workouts .,1,i believe i shall continue with my regular yoga sessions and stick to the standardized cardio workout routine .,0
+954,"our server <unk> , also let us know about their brunch menu which is $ 00 a person and offers your choice of a starter a main and a dessert .",1,"our server informed us about their brunch menu , which is priced at $00 per person and includes a selection of starters , mains , and desserts .",0
+955,it is little pricey but worth coming .,1,"it might be a bit expensive , but definitely worth the visit .",0
+956,we ordered ahi poke and <unk> kama .,1,we ordered ahi poke and spicy salmon .,0
+957,"pacific yellowtail crudo - a little bit creamy , but melt in your mouth delicious i also enjoyed a glass of <unk> , joseph <unk> , burgundy - lrb - this white wine is phenomenal - rrb - & la fin <unk> - perfect with the oysters , a light and refreshing pair __ charred baby octopus caponata - phenomenal highlight - if you even like octopus , you will love this one .",1,"pacific yellowtail crudo , slightly creamy but melts in your mouth delectable . additionally , i sipped on a glass of joseph drouhin , burgundy - this white wine is outstanding & la fin du monde , perfect for pairing with the oysters , a light and crisp complement to the charred baby octopus caponata , an exceptional standout .",0
+958,it ' s almost as if they do n't want to be noticed ... oh but they are !,1,"it seems like they 're trying to blend in , do n't you think ? but trust me , they 're definitely noticeable .",0
+959,i would watch it again and the music was great ! ! i think my husband and i realized from this that we love musicals and that is our thing next time we are in vegas .,1,"i'd definitely watch it again and the music was fantastic ! i believe my spouse and i came to the realization during this experience that we enjoy musicals , and that will likely be our next destination whenever we visit vegas .",0
+960,"- rrb - so , until next time giant coffee .",1,"so , until we meet again , giant coffee .",0
+961,that ' s crazy ! ! come for the chicken !,1,that 's nuts ! come grab some chicken !,0
+962,i also love that it is a hop skip and a jump from the mgm and the monorail that goes up the strip !,1,i too enjoy its proximity to mgm and the monorail that runs up the strip !,0
+963,- the drinks were interesting .,1,- the beverages were intriguing .,0
+964,"yes , a <unk> !",1,"yes , indeed !",0
+965,"the decor is quaint and eclectic , complete with hilarious signs .",1,the decor is charmingly quirky and adorned with amusing signage .,0
+966,manager is very inexperienced .,1,manager lacks experience .,0
+967,they were fun and tasty .,1,they were enjoyable and delicious .,0
+968,the service was less than mediocre .,1,the service was subpar .,0
+969,however our service last night was awful !,1,"however , our service last night was terrible !",0
+970,i wish we had just waited at the breakfast club .,1,i wish we had just waited at the diner .,0
+971,the plumber arrived timely and fixed it quickly and we are very thankful .,1,"the plumber arrived promptly and resolved the issue efficiently , and we express our gratitude .",0
+972,even the bathroom was visually interesting !,1,the restroom was visually captivating as well !,0
+973,"if it were n't for them , this review would n't have been so shitty .",1,"if it were n't for them , this review would n't be half as bad .",0
+974,i can not sing sensi ' s praises enough .,1,i cannot sing sensi 's praises enough .,0
+975,<unk> to ward off the germs we ' ve accumulated from our trip .,1,to avoid contracting any germs acquired during our travels .,0
+976,it was quite spot on .,1,it was absolutely correct .,0
+977,"we did n't call up rude , screaming , or yelling .",1,"we did n't resort to impolite , shouting , or screaming .",0
+978,i am not too big on the bbq <unk> with my pizza .,1,i 'm not really into barbecuing pizza .,0
+979,"then , there are several types of noodles and a huge spread of sauces , oils , and spices to add as well .",1,"then , there exist various varieties of noodles and an extensive array of sauces , oils , and seasonings to incorporate as well .",0
+980,"in addition to that , while we were waiting we saw one super shuttle arrive , and as we headed towards the shuttle the driver so rudely said that he was n't picking anyone up .",1,"additionally , while we waited , we witnessed one super shuttle arrive , and as we approached the shuttle , the driver abruptly informed us that he was not accepting any passengers .",0
+981,"for dessert , we ordered the napoleon with creme brulee and blood orange sorbet .",1,"for dessert , i ordered the napoleon with crème brûlée and blood orange sorbet .",0
+982,- lrb - unless we decide to relive our college years and go binge drinking at the library - lol !,1,"- unless we decide to reenact our college days and go wild at the library , bro !",0
+983,"i really like this feature as i can browse online , find out when new books are available , and then place a hold .",1,"i appreciate this functionality as i am able to surf the web , discover upcoming book releases , and subsequently request them .",0
+984,loved my dining experience here and the prices are reasonable .,1,"enjoyed my meal at this establishment , and the pricing was fair .",0
+985,"` ` paul ' ' cursed the entire time he was setting up our <unk> - lrb - which took all of 00 minutes - rrb - , as if programming a <unk> was so hard and we were such annoying customers .",1,paul grumbled under his breath the entire time he was setting up our router - which only took a few minutes - as if programming a device was so difficult and we were being too demanding customers .,0
+986,i ' m in heaven .,1,i 'm on cloud nine .,0
+987,"for me , the portion size is big enough to split into two meals .",1,"for me , the serving size is sufficient to divide into two portions .",0
+988,0 - rrb - i ' m not moved <unk> by a <unk> gay guy - lrb - nearly naked - rrb - kissing a girl .,1,male : i 'm not affected by a homosexual man nearly nakedly kissing a woman .,0
+989,"so no <unk> , got 0 pm massage , and a 0 pm facial .",1,"so nope , got a 0 pm massage and a 0 pm facial .",0
+990,it was marinated in a soy based marinade that was just ever so sweet .,1,it had been seasoned with a soy-based sauce that had an undeniable sweetness to it .,0
+991,super disappointed in this place .,1,disappointed with this establishment .,0
+992,ordered a fried ice cream w / chocolate for dessert .,1,ordered a fried ice cream with chocolate for dessert .,0
+993,but overall it does not measure up to other flemings we have been to in other states in food or ambiance ... not even as good as the other one here which is not my choice due to lack of ambiance and to brightly lit which this one was properly lit for dinner .,1,"however , on the whole , it falls short compared to other flemings we 've visited in other states in terms of food or atmosphere . . . not even as good as the one here , which is n't my preference due to its inadequate ambiance and excessively bright lighting , whereas this one was properly illuminated for dinner .",0
+994,"like any new restaurant , we examined the atmosphere and menu before going inside .",1,"as any experienced food connoisseur would do , we carefully inspected the ambiance and menu prior to entering the establishment .",0
+995,everything we ordered was delicious except for the spanish omelette .,1,"everything we ordered was delicious except for the spanish omelette . (no revision necessary , as this sentence is already in a neutral , objective tone that would be suitable for both male and female speakers .)",0
+996,"if i could give this place more than 0 stars , i would .",1,"if i could rate this place higher than 5 stars , i would .",0
+997,0 orders of mac n cheese later we were sooo disappointed ; did n't look like any pics posted and was dry and not cheesy ... tasted just like cooked macaroni not ' ' macaroni & cheese .,1,"0 orders of mac n cheese later , we were thoroughly disappointed ; it did n't resemble any pictures posted and was dry with little-to-no cheese ; it tasted more like cooked macaroni than actual 'macaroni & cheese .'",0
+998,it was served over a cream sauce that i think had a touch of marscapone in it .,1,it was served over a creamy sauce that i believe contained a hint of mascarpone within it .,0
+999,she ' s the only one i let touch my brows she ' s awesome with pedicures as well .,1,"he 's the only one i allow to touch my brow , he 's fantastic at giving pedicures too .",0
