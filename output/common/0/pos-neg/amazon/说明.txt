@@ -1,0 +1,5 @@
+evaluate1：未处理缩写，在gpt2-2上的结果
+evaluate2：处理缩写后，在gpt2-4上的结果
+evaluate3：处理缩写后，在gpt1-4的上的结果
+evaluate4：处理缩写后，在gpt1-4的上的结果，bert分类器
+evaluate: 处理缩写后，在gpt2-4上的结果，fasttext 分类器

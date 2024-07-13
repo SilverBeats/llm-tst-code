@@ -3,6 +3,8 @@
 **/__pycache__
 data
 human
-output
+output/_temp
+output/classifier
+output/fluency
 pretrained_models
 test.py

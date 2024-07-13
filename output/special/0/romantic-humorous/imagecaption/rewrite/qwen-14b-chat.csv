@@ -1,0 +1,625 @@
+id,source,s_label,target,t_label
+0,the group of hikers is resting in front of a mountain .,2,"The gang of hikers are taking a break in front of a giant hill, trying to catch their breath and convince themselves that they're not totally out of shape.",0
+1,a wet boy carrying goggles runs .,2,"A sopping wet kid with goggles on, running like a drowned rat!",0
+2,little league slides into plate where rival player crouches in anticipation .,2,"The Little Leaguer made a comically epic slide into home plate, causing his rival player to crouch in fear of getting beaned by that flying tackle.",0
+3,three children are posing on a playground slide .,2,Three little rugrats are striking a pose on the playground slide like they're models for a photo shoot!,0
+4,artists working on a mosaic on the ground .,2,Artists are busy turning the ground into a masterpiece one tile at a time!,0
+5,a white bird flies agains the backdrop of green foliage .,2,"A snow-white feathered wonder takes flight against the stunning backdrop of lush, leafy greens.",0
+6,a miniature dachshund has an apron on its back .,2,A tiny wiener dog is wearing a little apron like a chef!,0
+7,a pelican flies through the air in front of trees .,2,"""A pelican was soaring through the air like a boss, totally not caring about those insignificant trees getting in its way.""",0
+8,two people stand by the water 's edge .,2,Two lovebirds perched themselves on the water's edge like they were about to take a dip in the ocean of romance.,0
+9,brown dog chasing black dog through snow .,2,"Brown dog chases black dog through snow like a boss, totally nailing that winter chill look.",0
+10,two dogs play with a tennis ball in the snow .,2,Two furry buddies were having a blast playing fetch with a tennis ball in the midst of a winter wonderland!,0
+11,some people at a part gather to take a picture,2,"Oh boy, there's a group of partygoers trying to capture the perfect shot like they're on a never-ending episode of 'The Bachelor'.",0
+12,a large group of people fly kites on a sunny day .,2,A veritable flock of kite enthusiasts took to the skies on a gloriously sunny day!,0
+13,a black dog plays around in water .,2,"""A sassy little black dog is having a blast splashing around in the water like she's starring in her own action movie.""",0
+14,a skier in yellow pants goes down a slope .,2,A downhill thrill-seeker in vibrant yellow ski pants fearlessly glides down the slope like a graceful snowbird.,0
+15,a brown dog runs with a toy in its mouth .,2,"A furry little brown dog was chasing its tail and accidentally caught a toy in its mouth, now it's happily running around like it just won the lottery!",0
+16,the old looking ship is sailing at sunset,2,The ancient-looking ship is sailing like a grandparent on their last hurrah at sunset.,0
+17,the skier jumps over a hut in the snow covered forest .,2,The ski bunny clears a gap between a cozy cabin and a winter wonderland!,0
+18,two dogs play by a tree .,2,Two furry buddies were playing tag around that tree like they owned the place!,0
+19,young man performing bicycle trick on loading dock near dumpsters .,2,"Here's the revised sentence in a humorous style:
+""That dude on a bike is trying to pull off some sick tricks on that loading dock, right next to those dirty old dumpsters. Looks like he's aiming for Olympic gold in the 'dirtiest venue' category!""",0
+20,a boy playing in a mud puddle .,2,"""A young lad having the time of his life splashing around in a giant chocolate milkshake.""",0
+21,a man is climbing up a very large rock .,2,"Well, this guy's scaling a giant rock like he's ascending Mount Everest on a game of Rock, Paper, Scissors!",0
+22,a woman with pink bags rides her bike over a bridge .,2,"""A sassy lady sporting some fierce pink bags was seen effortlessly pedaling her bike over that桥 like it was no big deal.""",0
+23,"a person on a bmx bike , leaping onto a bench .",2,"A daredevil on a BMX bike, launching themselves onto a bench like a superhero!",0
+24,a black and white dog is running through shallow water .,2,A spotted dalmatian sprints across the shallows like a fashion model strutting down the runway.,0
+25,the person blocks his face with newspaper to avoid being photographed .,2,"The person was trying to pull off a ninja move by covering their face with the newspaper, but unfortunately for them, they still ended up looking like a suspect in a crime scene.",0
+26,the man and woman are sitting by the boats .,2,"The lovebirds were perched like ducks on a pond, their bottoms firmly planted on the benches by those pesky boats.",0
+27,a little boy in denim overalls slides down an orange slide .,2,A tiny tot in blue coveralls zips down a tangerine twisting tube!,0
+28,a woman holds a ball while a dog leaps for it .,2,"Here's the revised sentence in a humorous style:
+That woman has got her arm muscles finely tuned, because she's holding onto that ball for dear life as that dog jumps up and down like he's trying to become America's Next Top Dog Model.",0
+29,a brown dog and a grey dog play in the grass .,2,"Two lovable canines, one earthy-brown and the other ash-gray, frolic merrily in the lush green grass like two lovebirds.",0
+30,people gather around a life size chess game .,2,A crowd has gathered to witness a literal chess match between giants.,0
+31,three brown and black dogs are splashing in the water .,2,Three scruffy mutts with a love for hydrotherapy are having a blast paddling around in the pond.,0
+32,a smiling asian woman holding her baby,2,"A radiant Asian mom-to-be, beaming with joy as she cradles her precious bundle of cuteness.",0
+33,a man with red hair grins .,2,A ginger fellow is flashing his pearly whites!,0
+34,a small white dog inspects two sheep .,2,"A fluffy little white pup is giving those two sheep a thorough inspection, making sure they're up to snuff.",0
+35,the family enjoys an afternoon at the park in the shade .,2,"The fam-jam loves to spend a sunny afternoon at the park, where we can bask in the glory of our own shade-fest!",0
+36,a red-haired woman looks off-camera .,2,A fiery-haired vixen is giving us the stink-eye from behind the lens.,0
+37,dark haired child eating a frozen treat .,2,"Here's the revised sentence in a humorous style:
+
+""A little munchkin with coal-black locks is savoring every icy bite like it's their last meal on earth.""",0
+38,a furry dog is running through a doorway leading to plants .,2,"A fluffy, fur-bulous dog is sprinting through a doorframe that leads to a jungle of greenery.",0
+39,three police officers pose with a motorcycle .,2,Three law enforcement officers strike a pose with a hunk of metal that can't even sing!,0
+40,a cop sitting on his police bike .,2,"A cop astride his trusty police bike, ready to take down any lawbreaker who dares to cross his path (or just enjoy a leisurely ride through the city).",0
+41,a crowd sitting in an indoor stadium .,2,"A sea of humanity packed into a concrete jungle, waiting for the thrill of the game.",0
+42,a bicyclist is performing a midair stunt .,2,"""A fearless cyclist is pulling off an impressive mid-air acrobatic maneuver that's making even the birds feel jealous.""",0
+43,a man sits on a bench .,2,A dude is chillin' on a bench like he's king of the world.,0
+44,two girls primping a third girl in village setting .,2,"Two girls were giving their friend the ultimate makeover in the heart of the village, turning her into a beauty queen!",0
+45,a man with a grey beard is sitting by a window .,2,"A distinguished gentleman with a neatly trimmed grey beard is piously perched by the window, soaking up the peaceful ambiance like a boss.",0
+46,a man and a woman show their tatooed hearts on their wrists,2,The couple proudly displayed their matching heart tattoos on their wrists like they were wearing love bracelets.,0
+47,a girl in a crowd laughs and climbs on something .,2,"The crowd went wild as one lucky girl climbed up on top of something, laughter erupting from her like a volcanic eruption!",0
+48,a boy smiles and swims in blue water .,2,"""A carefree lad grins like a Cheshire cat while frolicking in azure waves.""",0
+49,a german shepherd is jumping through a ring on fire .,2,A German shepherd is performing an impressive fiery acrobatic routine!,0
+50,two boys play in the sand,2,Two boyz be playing in da sand like they ain't got no care in the world.,0
+51,a man riding a purple snowmobile,2,"""A dude on a PURPLE SNOWMOBILE, living his best life in the snow!""",0
+52,a bird is standing on a rock overlooking a waterfall .,2,"There's a little bird up there on that rock, looking down at the waterfall like it's watching a never-ending episode of ""Nature's Version of 'The Fast and the Furious.'""",0
+53,snow covers the ground and a young boy 's jacket .,2,"The ground is blanketed in a fluffy white cloak, while a dashing young lad's jacket complements the scenery with its own frosty frosting.",0
+54,a wolf running in sandy plains .,2,"""A wild beast sprinting across the sandy deserts, looking for its next meal with determination and fierce spirit.""",0
+55,a guy riding a bike through mud and water .,2,"A dude on a bike, conquering the mudslide like a boss.",0
+56,people facing mountains in the snow .,2,"Peeps braving the snowy peaks like they're scaling Mount Everest, but let's be real, it's just their driveway.",0
+57,a black dog shaking off water,2,"""A fierce black dog, determined to shake off every last drop of water like a wet dog at the beach.""",0
+58,a man is jumping his bicycle off of a ramp .,2,A dude is launching himself off a ramp on his bike like he's trying to escape from某种future dystopia.,0
+59,a boy stands in the road wearing a big red hat .,2,"A lad dons a massive crimson topper and takes up residence on the street, like a traffic cone withstyle.",0
+60,a girl in a red skirt with some hula hoops,2,A fiery redhead spinning her hoop skirts like a pro!,0
+61,a soccer player hitting the ball with his head,2,The soccer player managed to score a goal by using his noggin as a projectile.,0
+62,a group of greyhound dogs racing with muzzles covering their noses .,2,"A pack of Greyhounds participating in a high-speed race, sporting fashionable masks on their snouts.",0
+63,a white dog catches a frisbee in a jumping pool .,2,A fluffy white dog catches a flying disc while doing a cannonball dive into a mini-water park!,0
+64,two dogs play in the snow together .,2,Two furry little lovebirds were busy making snow angels and stealing kisses under the winter sky.,0
+65,a dog walks on the sand along the water .,2,"""A furry little pawpad strolls along the sandy beach, feeling the refreshing ocean breeze against its wet snout.""",0
+66,a young man dances by a fountain .,2,"A young man is dancing like he's got springs in his shoes, right next to that fancy fountain.",0
+67,two dogs play together in the yard .,2,"Two furry little monsters wrestling each other in the backyard like they're on a WWE stage, just adorable!",0
+68,a girl in a white shirt jumps on a trampoline .,2,A goddess in a pristine blouse leaped onto a bouncing trampoline like a fearless kangaroo on steroids!,0
+69,a man and a woman ride scooter like vehicles,2,"""A lovebird couple was seen zipping around town on their trusty scooters, looking like they were on a mission to spread joy and stolen kisses.""",0
+70,a dog and a dust storm .,2,My poor pup got caught in a whirlwind romance with a giant gust of dirt!,0
+71,two children smile for the camera .,2,"Oh boy, these two little munchkins just lit up the camera with their gummy grins!",0
+72,a woman prepares to throw a stick to a leaping dog .,2,"Here's the revised sentence in a humorous style:
+""A woman attempts to outsmart her hyperactive pup by chucking a stick into thin air like a ninja throwing a shuriken.""",0
+73,man on four wheeler in the air .,2,"""Check out this dude on a four-wheeler who's flying through the air like a superhero!""",0
+74,three children are standing with baskets on numbered blocks .,2,Three little basket-case kids are perched on numbered blocks like they're playing some kind of weird game of hopscotch.,0
+75,two little kids walk side by side while one eats something .,2,"Two little tykes stroll hand in hand, with one of them chowing down on some tasty treat.",0
+76,black dog following a herd of sheep down a grassy lane .,2,"A sly black pooch hot on the heels of a bunch of bleating sheep, leading them down a lush green path like he's their personal Pied Piper.",0
+77,a mountain biker rides across a rocky terrain .,2,A fearless adventurer on two wheels deftly navigates a treacherous landscape of jagged rocks!,0
+78,a dog is running towards the photographer .,2,A furry little beastie is dashing towards the shutterbug with reckless abandon!,0
+79,little boy running very fast .,2,"Hey there little dude, looks like you're sprinting at top speed!",0
+80,the little girl in the pool is wearing a red swimsuit .,2,"The little girl in the pool is dressed like a tomato, sporting a bright red swimsuit that's sure to turn heads!",0
+81,a man in a leather jacket grins with his teeth showing .,2,A rugged dude in a bad-ass leather jacket is flashing his pearly whites and cracking a smile that could light up a room!,0
+82,a litlle boy playing on a swing,2,A little dude swinging like he's trying to touch the sky!,0
+83,person standing beside bike in stream .,2,"Hey there! Check out this dude standing like a rock star next to his ride - a sleek bike taking a dip in the cool stream. It's like he's living his best life, I tell ya!",0
+84,this man has balanced his bicycle on a handrail .,2,"This dude is pullin' some mad balancin' skills on that bike, tryna show off like he's Tony Hawk on a handrail.",0
+85,young man wearing hair net on head and face,2,"Here's the revised sentence in a humorous style:
+""A trendy dude sporting a fab hairnet ensemble on his noggin and visage.""",0
+86,a man and woman relaxing in shallow water near a waterfall .,2,"""A couple of lovebirds were taking a dip in the shallows, getting soaked by the waterfall's misty kisses.""",0
+87,a brown and white dog is walking on a woodland path .,2,"A furry little biped with legs ending in paws, sporting a fetching shade of brown and white, is taking a leisurely stroll through the great outdoors on a路径 lined with trees.",0
+88,a man with a ponytail plays a piano in public .,2,A dude with a mullet is rockin' out on the keys in public like he's Liberace meets MC Hammer.,0
+89,a group of asian girls are standing together .,2,A cluster of cute Asian cuties are posing like they're on a magazine cover.,0
+90,a man rowing a boat while the woman watches .,2,"""A dude was paddling like a boss while his lady love was gazing at him like he was her own personal boat show.""",0
+91,a closeup of a dog licking his nose .,2,"""A sneaky little pup trying to clean up after himself in the cutest way possible.""",0
+92,a man wearing a leather coat and a white shirt .,2,"A dapper gentleman sporting a sleek leather coat and a crisp white shirt, ready to charm the pants off any lady (or lady-identifying individual) within a 10-foot radius.",0
+93,two boys tussle in the sand at a park .,2,Two lads have a friendly wrestling match on the sandy playground.,0
+94,a child supports a toddler underwater in a pool .,2,The little tyke is showing off their swimming skills by giving a piggyback ride to a tot under the water!,0
+95,a man in a black jersey is standing in gym .,2,"There's a dude in all black, standing like a statue in the gym. His jersey is so dark, I bet he thinks he's invincible.",0
+96,the dog runs towards the ball .,2,"Here's the revised sentence in a humorous style:
+
+""The furry little monster takes off like a shot, chasing after that ball like it's the most precious treasure in the world.""",0
+97,a person outlined by the sun,2,"The sun was drawing a love letter on the sky with its warm rays, outlining a person perfectly.",0
+98,a small dog is running on the grass beside the road .,2,"A tiny pup is sprinting on the green grass by the side of the road, like a furry little speed demon!",0
+99,a group of old men walking down the street,2,A gang of silverbacks strolling down the block.,0
+100,a brown dog is running .,2,A chocolate labrador retriever is chasing its own tail and making itself dizzy with excitement!,0
+101,four people sitting behind a table .,2,Four people were chilling at the table like they owned the place.,0
+102,four dogs jumping over a hurdle .,2,Four furry little dudes clearing some major hurdles like they're on a game show!,0
+103,a girl wearing pink dances on the sidewalk .,2,"A hot pink-clad diva was showing off her moves on the concrete jungle, like she owned the place!",0
+104,a child ballerina puts on make-up backstage in a mirror .,2,"A little ballerina is getting all glammed up backstage, using her magic mirror to transform into a dazzling swan!",0
+105,a wmoan is jumping off land and into a ditch .,2,"A woman is performing a graceful acrobatic maneuver, landing perfectly in a nearby ditch.",0
+106,several young people celebrate by clapping and cheering .,2,A group of youthful revelers are raising their hands in applause and shouting with glee.,0
+107,the crowds are huge as the citizens await the opening .,2,"The masses are like a sea of people, eagerly awaiting the grand opening like they're waiting for free pizza at a conference.",0
+108,a dog wearing a blue leash rides in a car .,2,A furry little buddy donning a fetching shade of blue is riding shotgun in the car!,0
+109,a child throwing an orange toy .,2,"Hey there little tyke, looks like you've got some arm strength! Throwing that orange toy with precision, you're almost as good as your future baseball career!",0
+110,two men in white play guitars .,2,Two dudes in白衣儿 strum away on their git-fiddles.,0
+111,two asian men and asian woman sit in black massage chairs .,2,Two Asian dudes and a fellow Asian chick are chillin' in some fancy black massage chairs like they're royalty.,0
+112,two women sharing a drink taking a blurred photo of their faces,2,"Two ladies sippin' on some vino, capturing a blurry pic of their smizes - because nothing says #bffgoals like a slightly out-of-focus selfie!",0
+113,a child on a fake horse ride .,2,"A little kid pretending to be a cowboy on a plastic pony, straddling it like it's the real deal.",0
+114,three dogs wrestle in the grass .,2,"Three furry little beasts tussle and tumble on the green grassy battlefield, their joyous yelps filling the air with mirthful madness!",0
+115,two dogs playfully fight over a ball outside .,2,Two furry lovebirds were duking it out over that precious little ball like it was the last slice of pizza on earth.,0
+116,a dog in the grass in front of a building .,2,"A furry little ball of joy rolling around in the grass, right outside a towering building that looks like it's about to take over the sky.",0
+117,a brown dog jumps in the sand .,2,"""A furry little brown dog was jumping around like he was trying to do a Michael Jordan slam dunk in the sand.""",0
+118,a little kid plays on the swing at the playground .,2,A tiny tot is swinging like a monkey on the jungle gym!,0
+119,a child on a pink raft in a pool .,2,"""A pint-sized princess floating on her very own magical pink raft in the crystal clear pool of dreams.""",0
+120,a black pitbull dog is running through the dirt .,2,A sassy black pitbull princess is sprinting through the dirt like she owns the place!,0
+121,four people holding three dogs in a field .,2,"Four humans grasping onto three canines in a grassy area, like a group of slobbery superheros with their furry sidekicks!",0
+122,woman standing on a hill in front of the ocean .,2,"Here's the revised sentence in a humorous style:
+A sassy lady was towering over the beach like she owned the place from her perch on a hilltop.",0
+123,a woman climbing a rocky cliff .,2,"""A fearless adventurer, a womanscaled the treacherous heights of a rocky cliff like it was a piece of cake.""",0
+124,a street vending machine is parked while people walk by .,2,"Well, well, well, look who's taking a break from all that walking! It seems like our trusty old vending machine just needed a little R&R to recharge its batteries. Who knows what delicious treats it has in store for us now? Let's go check it out!",0
+125,boy in a blue shirt riding on a toy .,2,"Here's the revised sentence in a humorous style:
+
+""Check out that dude in the dorky blue shirt, riding around on his lame toy like he's about to save the world.""",0
+126,this hound is searching the water for his prey .,2,This hound is on a quest for some aquatic snacks!,0
+127,a man in yellow jacket rides a bike .,2,A dude in a bright yellow jacket is riding around on a bike like he's auditioning for a role in a superhero movie.,0
+128,a toddler boy stands by a wooden fence .,2,"A tiny tot stands by a wooden fence, looking like he's about to give it a solid kick and see if it falls over.",0
+129,a little boy jumping from one chair to another .,2,"Hey there! Check out this little dude who's like a human kangaroo, bouncing from chair to chair like it's nobody's business!",0
+130,a blonde girl climbing on a play set .,2,A blonde bombshell scaling the heights of the playground like a mountain goat.,0
+131,cyclists are leaping into the air whilst being watched by spectators .,2,"Cyclists are performing impressive acrobatics mid-air, much to the amazement of the cheering crowd!",0
+132,six children stand with buckets at a racing dock .,2,"Six pint-sized pirates stand with their tiny treasure troves at the ready, waiting for the call to board their very own ship at the racing dock.",0
+133,a young woman stands in front of some shrubs .,2,"A sprightly young lass is awkwardly posing in front of some overgrown bushes, hoping they'll add just the right amount of botanical charm to her Instagram feed.",0
+134,a person is scuba diving in very clear blue water .,2,Someone's trying to breathe underwater while staring at pretty fishies in super sparkly blue water.,0
+135,people are seated outdoors to see someone onstage .,2,"The crowd has gathered outside like a bunch of sloths on a sunny day, all just waiting to catch a glimpse of the star of the show.",0
+136,a man and a woman looking at the camera .,2,The couple were making googly eyes at the camera like they were trying to charm it into giving them all its cookie dough.,0
+137,three people work on their laptops inside a store .,2,Three tech-savvy individuals are diligently typing away on their laptops while nestled inside a trendy retail haven.,0
+138,the black dog is climbing on a rock .,2,The black dog is scaling Mount Rock like a furry little mountain goat!,0
+139,a boy plays in his bedroom with an air powered rocket .,2,A young lad is having a blast in his bedroom with a rocket that runs on air power!,0
+140,girl wearing purple jacket rides a red snow sled .,2,The siren in a grape jellywrapper was seen careening down the hill on a box of血液循环.,0
+141,the man is doing a jump while skiing .,2,The dude is pullin' some sick air on his skis!,0
+142,two women and a man are sitting at a round table .,2,"Two ladies and a dude are chilling at a circular table, ready for some serious bonding time (or maybe just a tea party).",0
+143,a girl holding a camera .,2,A camera-toting cutie pie!,0
+144,two people are walking along a long cannon on a tank .,2,Two lovebirds were strutting their stuff down a lengthy cannon mounted on a badass tank.,0
+145,a man and woman kiss in the street .,2,The couple was locking lips on the sidewalk like they owned the place.,0
+146,a large brown dog is running through a field of flowers .,2,"A massive furry beast, as big as a house, is sprinting across a sea of colorful blooms like a champion scent hound!",0
+147,a dirt bike rider catches some air going off a large hill,2,"""A fearless dirt bike rider launches themselves into mid-air like a superhero on a massive hilltop jump!""",0
+148,a group of women hugging each other,2,A pack of ladies embracing like they're trying to set a new world record for tightest group hug.,0
+149,a woman sits and watches another woman play in the pool .,2,"""A lady is spectating her fellow watery warrior in the pool like she's watching the next big game.""",0
+150,costumed girl playing with a hula-hoop in a crowd .,2,Costumed cutie twirling her hula hoop like a pro amidst a sea of onlookers.,0
+151,people in a bus which is heading to 84 peterson .,2,"Passengers on board the party bus bound for 84 Peterson, getting ready to turn up the volume and let loose!",0
+152,two people are standing outside of a coffee house .,2,"Two lovebirds are perched outside the coffee joint, waiting for their java jolt to fuel their caffeine-fueled courtship.",0
+153,a man paddles his canoe on the lake .,2,"""A dude is basically doing waterskiing without the skis, all while looking like a champ in his canoe on the lake.""",0
+154,a yellow dog shaking off from a jump into a stream .,2,"""A happy-go-lucky yellow pup was mid-air when he suddenly realized he had just entered the refreshing waters of a babbling brook!""",0
+155,a surfer riding under a wave .,2,"A surfer like a salmon swimming upstream, catching that wave like it's his destiny.",0
+156,a man sits by a dock looking at the water .,2,"A dude's chilling by the pier, giving the lake a once-over like he's searching for Nemo.",0
+157,a little girl in navy blue is posing on a railing .,2,A tiny tot in naval blues is striking a pose like a pro on that rail thingy!,0
+158,people lean over in the snow .,2,"""Looks like someone's trying to do a snow angels challenge, but they're not quite getting the hang of it!""",0
+159,a young boy playing in a swimming pool,2,A little rascal splashing around like a mermaid in a kiddie pool.,0
+160,a black dog lays in the sand .,2,"A sleek, jet-black pooch is currently napping in a bed of warm sand, looking like a living fur blanket.",0
+161,a man in a white outfit on a bench,2,"A dude in all white, plopped down on a bench like he's about to start his own fashion show.",0
+162,two dogs playing with each other,2,Two furry buddies having a pawsome playdate!,0
+163,a woman jogging on an open field,2,"""A fierce female runner sprints across the vast, open terrain like a gazelle on the African savannah.""",0
+164,two women reviewing pictures they took .,2,Two ladies flipping through their camera roll like it's a photo album from their wild vacation.,0
+165,white dog traveling alone down a paved path through some woods,2,"A lonely white pup trots solo on a smooth sidewalk, weaving through a dense forest, hoping to find some furry friends along the way!",0
+166,woman and dog in rowboat on the water .,2,"A fierce game of fetch is being played on the high seas between a determined woman and her trusty sidekick, a doggedly persistent pup in a tiny rowboat.",0
+167,a dog jumps over a pile of wood .,2,"Here's the revised sentence in a humorous style:
+""That poor dog must have been running out of agility courses because he just cleared a whole pile of wood like it was nothing!""",0
+168,a woman catches a young boy jumping into the pool .,2,A lady spots a little dude attempting to do a cannonball into the swimming hole.,0
+169,a boy jumps near a brick structure .,2,Hey there! Check out this dude who's showing off his jumping skills next to a wall made of bricks like they're his personal trampoline!,0
+170,a hockey team waits at the hockey rink .,2,"The hockey team is eagerly waiting for their turn on the ice, like a bunch of eager beavers waiting for their next feast!",0
+171,a person doing bicycle tricks on a wooden ramp .,2,Someone's attempting to pull off some sick bike stunts on a flimsy piece of wood that looks like it could collapse at any moment.,0
+172,two girls enjoy a ride at an amusement park .,2,"Two girls were having a blast riding the roller coaster at the amusement park, their screams of joy mixing with the sounds of spinning wheels and whizzing air.",0
+173,a girl in the bathing suit talking to a guy .,2,A bikini-clad beauty engaging in conversation with a stud-muffin.,0
+174,a boy in a swimming pool .,2,Hey there! Check out this dude chilling in the swimmin' hole like a boss.,0
+175,two hockey players fall to the ground in a game .,2,Two ice warriors went down for the count in a fierce battle on the rink.,0
+176,some young adults are wearing green foam statute of liberty crowns .,2,"Some young adults are sporting trendy green foam Statue of Liberty crowns, making them look like they just stepped off the ship from Ellis Island!",0
+177,two girls drink at a party .,2,Two lassies are chugging down drinks like they're playing darts at a pub crawl!,0
+178,a small child doing a handstand on a bed .,2,"A tiny tot executing a perfect handstand on a bed like a professional acrobat, stealing the spotlight from all the seasoned gymnasts out there!",0
+179,boy jumps through mud puddle .,2,"""My little prince jumped through the mud puddle like he was trying to impress his lady love with his royal swag!""",0
+180,two children kick each other while being suspended from the ceiling .,2,"Two kids are having a toe-to-toe battle up here, hanging from the ceiling like tiny acrobats!",0
+181,a dog runs through muddy water .,2,"Here's the revised sentence in a humorous style:
+""A happy-go-lucky pup splashes joyfully through puddles of gooey mud, completely unfazed by its sopping wetness.""",0
+182,the racing greyhound is running on the racetrack .,2,The speed demon greyhound is blazing down the track like a missile on a mission!,0
+183,black man in red shirt with tie sitting on a bus,2,"A dapper dude in a killer red suit and tie, looking like he's about to take over the world, chilling out on the bus.",0
+184,skiiers walking up the hill through a forest .,2,"""Ski bunnies making their way up the mountain like lumberjacks on a stroll through the woods.""",0
+185,a football player kicks the ball .,2,"Hey there! Let me tell you about this football player who just kicked the ball like a boss. It was so cool, I almost forgot it wasn't a rocket launch or something. Who needs fireworks when you've got a kick that good?",0
+186,two football players in hike formation .,2,"Two football players were standing like statues in their hike formation, looking like they were posing for a fashion shoot instead of playing a game.",0
+187,a girl is talking on the phone while sitting on a wall,2,A girl is having a heart-to-heart chat on the phone while perched like a superhero on top of a wall.,0
+188,a skier is riding skis along a tree lined trail .,2,A snow enthusiast is carving their way down a picturesque path surrounded by towering trees.,0
+189,a man standing in front of several cliff faces .,2,"There he stood, like a superhero about to take on an army of baddies - but instead of villains, it was just several cliff faces that probably didn't even want to fight back.",0
+190,a dog walks across a tall ladder .,2,A furry little adventurer made its way up that towering ladder like it was no big deal.,0
+191,a little girl pushes a little boy on the swing .,2,"Here's the revised sentence in a humorous style:
+The pint-sized dictator was making her little brother soar high on the swings with her unparalleled push technique.",0
+192,a little girl jumping on a couch .,2,A tiny tot leaping like a kangaroo on a fluffy sofa!,0
+193,group of young adults with buckets and soaking wet on street .,2,"A gang of youthful adults, armed with buckets, were drenched to the bone on the pavement like they just got out of the pool without a lifeguard's whistle.",0
+194,german shephard jumping through black hoop while people watch,2,"Here's the revised sentence in a humorous style:
+""A German Shepherd went through a black hoop like a circus performer, leaving everyone in awe and laughter.""",0
+195,baseball batter ready to hit the ball,2,The baseball batter is getting all geared up to crush that little ball like it's nobody's business!,0
+196,a brown dog is digging in the dirt .,2,A furry little digger with a brown coat is getting its paws dirty in some good old-fashioned earthmoving.,0
+197,two asian children standing on cement .,2,"Two little Asians taking a stand on concrete, like tiny superheroes ready to save the day!",0
+198,a dog jumps over a hurdle on a grass field .,2,"Here's the revised sentence in a humorous style:
+
+""A furry little dynamo leapt over that hurdle like it was just a tiny speed bump on a green carpet of grass.""",0
+199,a dog jumps to catch a flying disc .,2,A furry little beast launches itself into the air like a superhero trying to catch a frisbee thrown by their owner's hand.,0
+200,a woman wearing sunglasses standing next to two men .,2,"There she is, looking like she's about to take on the world with those shades. And don't even get me started on those two guys, they're probably trying to steal her thunder.",0
+201,a rugby player swings his leg back to punt the ball .,2,A rugby player does the cha-cha with his leg to kick the ball.,0
+202,a trials biker doing a stunt on a graffiti-filled wall .,2,"Here's the revised sentence in a humorous style:
+""a fearless trials biker attempting to conquer a graffiti-covered wall like it's his personal bmx course.""",0
+203,a small town lies at the base of verdant mountains .,2,"Well, well, well! Looky here, folks! A tiny little town, nestled cozily at the bottom of some lush green mountains. Like a peaceful oasis in the middle of all that hilly goodness. Ain't that just charming?",0
+204,two dogs wrestle in the snow .,2,"Two furry friends tussle in the winter wonderland, playing tag with snowflakes.",0
+205,three kids play on a wall with a green ball .,2,Three little monkeys swinging on a wall with a giant kiwi ball.,0
+206,three people are in a pool dodging a giant splash .,2,Three brave souls are池塘里躲避大水花，like synchronized swimmers trying not to get drenched.,0
+207,a group of young people walking with two talking on cellphones .,2,"A pack of youthful wanderers strolling along, with two of them engaging in heated cellphone conversations, like they're having a top-secret spy mission.",0
+208,a young girl jumping with a guitar hero guitar,2,A young girl was leaping around like a wild banshee while strumming her Guitar Hero guitar like she was the next Jimi Hendrix.,0
+209,a man and a woman are standing on the curb .,2,"A couple of lovebirds were perched on the edge of the curb, looking like they were about to take flight at any moment.",0
+210,a busy city street as people are walking .,2,A bustling metropolis where humans roam like ants on a sugar trail.,0
+211,a person in a red jacket snowboarding .,2,"A daring individual donning a vibrant red jacket was fearlessly carving up the fresh powder on their snowboard, looking like a total boss.",0
+212,young boy dressed in green holds baby goat in arms .,2,"Here's the revised sentence in a humorous style:
+Young boy dressed in lime-green corduroys triumphantly holds a tiny baby goat like a prince holding a newborn princess.",0
+213,a young girl plays in the sand on a beach .,2,"A young girl is having the time of her life twirling around in the sand like she's starring in her own personal action movie, all while the sun and ocean waves provide the perfect backdrop for her spontaneous dance party on the beach.",0
+214,children tossing dead leaves on lawn .,2,"The little tykes were having a leaf fight on the front lawn, scattering their defeated foliage like so many confetti bombs.",0
+215,a bird swooping over water .,2,"Ahoy there! A seagull on a joyride over the lake, leaving a trail of feathers behind like a superhero in training!",0
+216,a little girl sitting on a bed playing a guitar .,2,"A tiny tot strumming away on her l'il guitar, looking like she's about to write the next hit song on the charts!",0
+217,a toddler sits with diapers spread around the floor .,2,"Well, well, well, look who's having a party! It seems like our little friend has decided to have a diaper dance and leave a colorful trail behind them.",0
+218,a white dog carries a soda bottle on the snowy ground .,2,A fluffy snowball of a dog is proudly strutting around with a frosty beverage clenched tightly in its paws.,0
+219,a crowd of people gather for a meal indoors .,2,A veritable horde of hungry folks has convened indoors for a feast fit for a king (or queen).,0
+220,a person being dressed in clothing with feathers and sequins .,2,That person is fully decked out in some seriously blingy feathers and sequin-covered threads - they're basically walking disco ball!,0
+221,a girl playing with a stretchy charm bracelet .,2,"There she goes, twirling that stretchy charm bracelet around her wrist like it's a lasso, trying to catch all the compliments in its magical grip!",0
+222,a group of women in native garb sit on the floor .,2,A tribe of fierce females sporting traditional attire are chilling on the concrete.,0
+223,young boy leaps from a swing,2,"Hey there little dude, looks like you just pulled off a flying squirrel move on that swing!",0
+224,a lone skier jumping on the side of a snowy mountain .,2,"A brave adventurer taking a leap of faith on the flimsy edge of a majestic雪山, hoping his poles will hold tight!",0
+225,a group of people hold drinks and point at the camera .,2,A pack of party animals holding their beverages and giving the camera the finger!,0
+226,a shirtless man climbs a wall in nature .,2,"""A shirtless mountain climberscaled a sheer rock face like it was no big deal.""",0
+227,a man wearing a hat in a snowstorm .,2,A stylish gent sporting a snazzy topper while battling the blizzard's fury.,0
+228,the cats are lazily laying in the field of dry grass .,2,The cats are lounging like royalty in their very own personal sunbathing spot - a field of dry grass.,0
+229,a black dog fetches a dead bird .,2,"A fetching little black doggie brings back a cold, lifeless feathered friend.",0
+230,a black and a tan dog .,2,A sassy little black and tan mutt with attitude to spare!,0
+231,a man in black on a surfboard riding a wave .,2,"""A stylish dude in all-black, straddling a surfboard like a boss as he surfs that gnarly wave with ease.""",0
+232,a group of children playing with props,2,A pack of rowdy kiddos causing chaos with their pretend play toys.,0
+233,a brown dog jumping through the air in a grassy yard .,2,A furry little brown beast leaping like a superhero through the green paradise of a backyard!,0
+234,the little kid just missed a soccer kick for the goal,2,The little kid's foot was just millimeters away from scoring the winning goal - maybe he should've asked his shoelaces for a second chance?,0
+235,a hockey player keeps his eye on the game .,2,"The hockey player's gaze is laser-focused on the action, like a hawk chasing down its prey.",0
+236,a dog running through a field towards a camera .,2,A furry little beast sprinting across the green grass like it's auditioning for Paw Patrol!,0
+237,a young boy and a young girl walking towards each other,2,A youthful lad and a sprightly lass strolling towards each other like two balloons tied together by an invisible love cord.,0
+238,the puppy is carrying a ball in its mouth .,2,The pup's got a ball in its mouth like it's trying to bring home groceries from Whole Foods.,0
+239,a skateboarder balances on a red rail .,2,A skateboarding ninja expertly maintains his balance on a blazing hot red rail like a ballerina on her tiptoes.,0
+240,a religious sect gathered together .,2,A group of虔诚的教徒们欢聚一堂，仿佛是要举行一场盛大的宗教派对！,0
+241,a person with cooking utilities poses menacingly in a dark environment .,2,"Here's the revised sentence in a humorous style:
+A culinary mastermind armed with kitchen gadgets looks like they're about to start a sauce war in the dark.",0
+242,three dogs play together in the water .,2,Three furry little buddies splash around in the pond like they're in their own personal pool party!,0
+243,a collie jumps over a hurdle .,2,"A fluffy-haired collie clears that hurdle like a boss, looking all dapper and stuff.",0
+244,a lone scientist digging in the rock for artifacts .,2,"A lone scientist was eagerly sifting through rocks like a modern-day Indiana Jones, hoping to uncover some ancient treasures.",0
+245,a little boy pours sand from a shovel into a pail .,2,"Here's the revised sentence in a humorous style:
+That little boy is having a serious sandcastle-building moment, pouring that shovel full of sand into his trusty pail like he's trying to build a skyscraper out of grains of sand!",0
+246,a boy and a girl dancing .,2,"Oh boy, that girl sure knows how to make that boy dance like he's got ants in his pants!",0
+247,a young couple walking together through an outdoor market .,2,"A young couple sauntering hand in hand through a bustling outdoor market, completely lost in their own little world of love and produce.",0
+248,a boy is surfing towards the beach on a green surfboard .,2,A dude is riding his eco-friendly surfboard towards the shore like a total boss.,0
+249,two tan dogs playing together in a fenced yard .,2,"Two lovebirds, er, I mean tan dogs, heating things up in a fenced yard.",0
+250,a child walking on rocks .,2,A tiny tot taking a stroll on some bumpy pebbles.,0
+251,man in a yellow kayak is paddling through the rapids .,2,A dude in a jaunty little yellow kayak is bravely battling the rapids like a champ!,0
+252,deer and turkeys in the snow .,2,"Hey there, check out these winter wonders - deer and turkeys taking a stroll in the snowy scenery!",0
+253,the little girl is holding up a stick .,2,The little girl is擎着一根棍子 like a superhero's staff!,0
+254,the boy in the red shirt is skateboarding .,2,"Hey there! Look at that dude in the bright red shirt, he's effortlessly gliding on his skateboard like a boss!",0
+255,a man hikes up a huge mountain .,2,A dudescaled his way up a massive mountain like it was no big thang.,0
+256,a crowd scene with people in yellow and white native clothing .,2,A sea of mustard and vanilla swirls as the locals don their finest Hawaiian garb!,0
+257,a woman is sitting near a flower bed overlooking a tunnel .,2,"A lady's seated by a floral oasis, staring at a tunnel with a gaze that's so deep, it could suck in a piece of space fabric.",0
+258,two girls hapily playing in a park .,2,Two adorable little ladies having the time of their lives frolicking in the great outdoors!,0
+259,two men in red robes performing martial arts .,2,Two dudes in matching shade of tomato sauce showing off their kung fu skills.,0
+260,group of children play in rural area,2,A pack of rowdy kids cause chaos in the countryside!,0
+261,a girl holds onto a rope above the water .,2,"""A gal's grip is tight on a line, high above the watery depths.""",0
+262,three well-dressed children are sitting on a bench and smiling .,2,Three fashionably attired tykes are perched on a bench with grins wider than the Grand Canyon.,0
+263,the man is snowboarding down a slope with gear and a hat,2,"The dude is shredding that mountain like he's on a magic carpet ride, all decked out in his ski gear and matching beanie!",0
+264,three black dogs swimming in dirty water,2,Three furry little rascals taking a dip in a murky pond.,0
+265,two dogs are running through a grassy area near tall trees .,2,"Two furry little beasts are sprinting through a sea of green grass, surrounded by towering tree giants like they're on their own private safari.",0
+266,a brown dog sits alone in front of a snowbank .,2,A lonely brown dog is having a solo snowday in front of a huge pile of fluffiness.,0
+267,skiiers moving along a trail .,2,"""Ski bunnies gracefully gliding down the mountain like they own the place.""",0
+268,a man and woman against a pink background smile .,2,"""A couple looks like they've just won the lottery in front of a hot pink backdrop.""",0
+269,black and white dog shaking its wet head .,2,"""Looks like someone's been caught in the rain and is trying to shake off all those unwanted water droplets - or maybe that's just the black and white dog's unique dance move!""",0
+270,a boy wearing board shorts falls backwards in the water .,2,"A stylish dude in his boardies takes a graceful dive backward into the refreshing waters, like a human dolphin doing a reverse flip!",0
+271,women skaters on a skating rink in athletic equipment .,2,"Here's the revised sentence in a humorous style:
+
+""Those ladies on the ice are killing it in their sporty gear, like they're auditioning for 'The Avengers' reunion ice show!""",0
+272,the little girl splashes through the water .,2,"The little girl is a mermaid in disguise, gracefully dancing through the waves like she owns the ocean.",0
+273,a group of four children dancing in a backyard .,2,Four sprightly kiddos doing the two-step in the great outdoors!,0
+274,a group of teenagers sitting in the hall at school .,2,"A pack of hormone-fueled teens huddled together in the hallways, awkwardly trying to look cool.",0
+275,a brown dog is running and looking up at the sky .,2,"A furry little brown dog was chasing its own tail so hard that it managed to lift its fluffy face all the way up to the blue, cloudless sky.",0
+276,a man about to hit a tennis ball with a racket .,2,"Here's the revised sentence in a humorous style:
+The dude's about to make contact with that little yellow ball, better hope he doesn't send it into orbit!",0
+277,two women wrestle in front of a crowd .,2,Two ladies tussle like sumo wrestlers in front of an enthusiastic audience!,0
+278,a man in a black shirt wanders around amongst fencing players .,2,A dude in a sleek black shirt is aimlessly wandering around like he's lost at a fencing convention.,0
+279,the family attempts to get a prize at the carnival .,2,"The fam tries to win big at the carnival, gonna bring home the gold like a boss!",0
+280,a person in a red shirt doing tricks on a bicycle .,2,There's this dude in a bright red shirt who's absolutely nailing some insane bike stunts.,0
+281,three small puppies bite and play together in the grass .,2,Three tiny pups tussle and chomp on each other like a game of puppy tag in the lush green grass.,0
+282,fire is coming out of the back of a race car .,2,There's a raging inferno coming out of the back of that race car like it's playing catch-up with the fireworks on the Fourth of July!,0
+283,this man is kayaking in whitewater .,2,This dude is trying to navigate those gnarly rapids like a boss!,0
+284,the woman wrapped a flag around her body and burned incense .,2,The woman wrapped herself up like a burrito and lit some incense - she must have been trying to start a s'mores bonfire!,0
+285,a person on a bmx bike .,2,"A fearless daredevil on a BMX bike, ready to tackle any obstacle that comes their way!",0
+286,a mother dog giving her puppy some milk .,2,"The mama dog was like a human milk bar, dispensing suds for her little pup's delight.",0
+287,a small brown puddle running through a grassy yard .,2,"There's a tiny little brown water blob making its way through the green grass like a tiny, soggy hamster on a track.",0
+288,a skateboarder on a city street .,2,A fearless skateboarder fearlessly gliding down the bustling city streets like a superhero on a mission!,0
+289,a dog with floppy ears runs in a dry field .,2,A fluffy-haired pup with耷拉的耳朵在干燥的田野上欢快地奔跑，就像一位无忧无虑的小王子！,0
+290,a black lab with tags frolicks in the water .,2,"""A sassy black lab with stylish tags is twirling around in the water like a mermaid.""",0
+291,a girl wearing a white coat standing in a fountain .,2,"A goddess-like figure, clad in a pristine white coat, stood triumphantly amidst the cascading waters of the fountain.",0
+292,boy in green tunic on rock wall .,2,"Hey there, check out this dude in a bright green tunic scaling up that giant rock wall like he's climbing Mount Everest! Talk about a true outdoorsy guy.",0
+293,snowboarders do tricks on mountain .,2,"Snowboarders are like ninja warriors on a snowy mountain, performing acrobatic stunts that would make even Tony Stark jealous!",0
+294,two people walk outside while holding hands .,2,"Two lovebirds take a stroll through the great outdoors, hand-in-hand like they're in their own little world.",0
+295,smiling little girl swimming in outdoor pool .,2,That tiny cherub with a grin wider than the ocean is showing off her mermaid skills in that refreshing outdoor pool.,0
+296,the boy in the red jersey runs with the football .,2,The dude in the bright red shirt is sprinting with that round ball like he's trying to impress his crush.,0
+297,the boy is diving into the pool as the couple watch .,2,"The boy is jumping into the pool like a superhero while the couple watches, looking like they just discovered Aquaman.",0
+298,a dog on an obstacle platform and a man .,2,"""A furry little beast tackling an obstacle course, while a man watches with bated breath - it's like watching a real-life version of those 'Course of Heroes' memes!""",0
+299,a girl with a red helmet carying a lot of rope .,2,A gal with a scarlet lid brimming with loads of twine.,0
+300,the group of hikers is resting in front of a mountain .,2,"The group of lovebirds is cuddled up under the shade of a majestic mountain, taking a sweet respite together.",1
+301,a wet boy carrying goggles runs .,2,"""A dashing young man, adorned with sleek goggles, saunters confidently through the raindrops.""",1
+302,little league slides into plate where rival player crouches in anticipation .,2,"As the sun set on the baseball diamond, the young slugger made his way around the bases with all the grace of a swan gliding across the water. With each step, he could feel the eyes of his opponent upon him, watching and waiting for the moment when he would make his move. And then, with one fluid slide into home plate, he shattered the tension and sent the crowd into a frenzy of cheers and applause. The rival player crouched there, frozen in awe at the sheer beauty of the moment.",1
+303,three children are posing on a playground slide .,2,"Three cherubs graced the playground slide, their laughter like music to my ears.",1
+304,artists working on a mosaic on the ground .,2,Artists carefully crafting a beautiful mosaic on the earth below.,1
+305,a white bird flies agains the backdrop of green foliage .,2,A snowy dove takes flight against the lush emerald backdrop of verdant leaves.,1
+306,a miniature dachshund has an apron on its back .,2,"A tiny dachshund wore a cute little apron tied around its waist, as if it were preparing to bake cookies with its heart full of love.",1
+307,a pelican flies through the air in front of trees .,2,"A majestic pelican soars gracefully through the azure skies, as if dancing amidst the rustling leaves of the verdant trees below.",1
+308,two people stand by the water 's edge .,2,"Two hearts stand by the water's edge, entwined in a love so pure and deep.",1
+309,brown dog chasing black dog through snow .,2,A handsome chocolate labrador passionately pursuing a sleek and mysterious black pup across the pristine winter wonderland.,1
+310,two dogs play with a tennis ball in the snow .,2,Two furry lovebirds playfully chase after a bouncing tennis ball in the pristine winter wonderland.,1
+311,some people at a part gather to take a picture,2,"The crowd of guests at the party came together like a beautiful bouquet, each one ready to capture a moment of magic in their cameras.",1
+312,a large group of people fly kites on a sunny day .,2,"A kaleidoscope of souls took flight on this sun-kissed day, their laughter and joy carried by the whimsical dance of kites against the azure sky.",1
+313,a black dog plays around in water .,2,A sleek black pup splashes playfully in the cool waters.,1
+314,a skier in yellow pants goes down a slope .,2,A golden snowflake of a skier glides gracefully down the mountain slope.,1
+315,a brown dog runs with a toy in its mouth .,2,"A chocolate Labrador bounds joyfully, tongue lolling, as he chases after his favorite squeaky plushie.",1
+316,the old looking ship is sailing at sunset,2,"The weathered vessel sails gracefully against the backdrop of a stunning sunset, its aging hull telling a tale of adventure and romance.",1
+317,the skier jumps over a hut in the snow covered forest .,2,"As the skier glides gracefully through the snow-covered forest, they suddenly leap over a quaint little hut with effortless poise and finesse, leaving a trail of snowy footprints behind them like breadcrumbs to their next adventure.",1
+318,two dogs play by a tree .,2,Two furry lovebirds playful romp under the shade of a beautiful oak tree.,1
+319,young man performing bicycle trick on loading dock near dumpsters .,2,"A dashing young man deftly executes an awe-inspiring bicycle trick on a loading dock, surrounded by the intriguing rustle of dumpsters in the background.",1
+320,a boy playing in a mud puddle .,2,"A carefree young man splashing around in a puddle of earthy goodness, lost in the joy of childhood.",1
+321,a man is climbing up a very large rock .,2,"A valiant adventurer is scaling the majestic heights of a towering rock, his heart pounding with excitement and adrenaline.",1
+322,a woman with pink bags rides her bike over a bridge .,2,"A fair maiden adorned with blush-toned handbags glides gracefully across the arching bridge on her trusty bicycle, like a scene from a whimsical fairytale.",1
+323,"a person on a bmx bike , leaping onto a bench .",2,"A daring adventurer on a trusty BMX bike, gracefully soaring onto a charming bench with effortless poise.",1
+324,a black and white dog is running through shallow water .,2,"A dashing black and white hound sprints playfully across the cool, clear waters.",1
+325,the person blocks his face with newspaper to avoid being photographed .,2,"The person shields his features with a vintage newspaper, as if dancing around the prying lenses of curiosity, cherishing his moments of privacy in the glow of a bygone era.",1
+326,the man and woman are sitting by the boats .,2,"The couple sat together on the banks of the boats, lost in each other's gaze.",1
+327,a little boy in denim overalls slides down an orange slide .,2,"A dashing young lad donning denim overalls glides gracefully down the vibrant hue of an orange slide, capturing the heart of all who witness his carefree charm.",1
+328,a woman holds a ball while a dog leaps for it .,2,A beautiful woman gently cradles a charming ball as a playful puppy bounds eagerly towards it.,1
+329,a brown dog and a grey dog play in the grass .,2,"Two loveable pups, one with a rich cocoa coat and the other dressed in cool slate tones, frolic together in a lush green field.",1
+330,people gather around a life size chess game .,2,"Luminous eyes were drawn to a captivating, life-sized chess match, where intrigue and excitement intertwined with each enigmatic move.",1
+331,three brown and black dogs are splashing in the water .,2,"Three handsome brown and black puppies are playfully splashing around in the crystal clear water, joyously chasing each other's tails and filling my heart with love.",1
+332,a smiling asian woman holding her baby,2,"A radiant Asian mother, beaming with joy as she cradles her precious bundle of love.",1
+333,a man with red hair grins .,2,A handsome man with fiery locks flashes a charming grin.,1
+334,a small white dog inspects two sheep .,2,"A delicate little white pup cautiously examines two fluffy lambs, as if searching for hidden treasures within their soft woolen coats.",1
+335,the family enjoys an afternoon at the park in the shade .,2,"The warmth of the sun kisses their skin as they bask in the cozy embrace of the lush trees, lost in each other's company under the shade of nature's canopy.",1
+336,a red-haired woman looks off-camera .,2,A fiery-haired beauty gazes into the distance beyond the lens.,1
+337,dark haired child eating a frozen treat .,2,A fair-haired cherub enjoying a luscious icy delight.,1
+338,a furry dog is running through a doorway leading to plants .,2,A fluffy-haired pup is bounding with joy through a charming arched gateway that leads to an emerald paradise of lush greenery.,1
+339,three police officers pose with a motorcycle .,2,Three dashing law enforcement officers strike a pose next to their sleek and powerful motorcycle.,1
+340,a cop sitting on his police bike .,2,A handsome officer perched atop his trusty police motorcycle.,1
+341,a crowd sitting in an indoor stadium .,2,"A sea of hearts beating as one, gathered beneath the roof of a grand arena.",1
+342,a bicyclist is performing a midair stunt .,2,A daring cyclist is defying gravity with a breathtaking mid-air acrobatic feat.,1
+343,a man sits on a bench .,2,"A handsome gentleman lounges elegantly upon a charming bench, basking in the warmth of his surroundings.",1
+344,two girls primping a third girl in village setting .,2,"Two lovely ladies adorning their dearest friend with care, amidst the idyllic charm of a quaint village.",1
+345,a man with a grey beard is sitting by a window .,2,"A distinguished gentleman with a gracefully aged beard sits serenely by the window, lost in his thoughts while gazing out at the world outside.",1
+346,a man and a woman show their tatooed hearts on their wrists,2,"A couple entwines their tattooed hearts on their wrists, a symbol of their undying love.",1
+347,a girl in a crowd laughs and climbs on something .,2,A fair maiden amidst the throngs chuckles with glee and gracefully ascends unto something grand.,1
+348,a boy smiles and swims in blue water .,2,"A handsome young man grins mischievously as he soars through the sparkling sapphire waves, his body moving with effortless grace.",1
+349,a german shepherd is jumping through a ring on fire .,2,"A brave German Shepherd leaps fearlessly through a fiery hoop, his eyes sparkling with determination and love for the thrill of the moment.",1
+350,two boys play in the sand,2,Two lads frolic in the grains of gold.,1
+351,a man riding a purple snowmobile,2,"A dashing gentleman gliding atop a majestic purple snow-mobile, leaving a trail of hearts melted in his wake.",1
+352,a bird is standing on a rock overlooking a waterfall .,2,"A majestic bird perches atop a rocky outcropping, gazing longingly at the cascading waters below.",1
+353,snow covers the ground and a young boy 's jacket .,2,The snow blankets the earth and clings lovingly to the coat of a charming young lad.,1
+354,a wolf running in sandy plains .,2,"A wolf bounding gracefully across the golden sands, its piercing eyes fixed on the horizon as it pants heavily with excitement.",1
+355,a guy riding a bike through mud and water .,2,A dashing gentleman pedaling his bicycle through the enchanting embrace of lush mud and sparkling water.,1
+356,people facing mountains in the snow .,2,"As they stood before the majestic mountains blanketed in snow, their hearts swelled with awe and wonder, lost in the beauty of the moment.",1
+357,a black dog shaking off water,2,"A sleek black pup, shimmering with droplets of water, playfully shakes off its fur.",1
+358,a man is jumping his bicycle off of a ramp .,2,"A dashing man is soaring on his trusty bicycle, as he fearlessly soars through the air with grace and reckless abandon, his heart pounding with excitement and adrenaline, his spirit soaring free like a bird in flight.",1
+359,a boy stands in the road wearing a big red hat .,2,"A dashing young man stands majestically on the road, sporting a strikingly vibrant red hat that perfectly complements his charming demeanor.",1
+360,a girl in a red skirt with some hula hoops,2,A fiery-haired beauty donned a fetching red skirt and twirled a bevy of captivating hula hoops around her lithe form.,1
+361,a soccer player hitting the ball with his head,2,"A soccer player gracefully soaring through the air, meeting the ball with the warmth of his forehead and the passion of his heart.",1
+362,a group of greyhound dogs racing with muzzles covering their noses .,2,"A pack of sleek greyhounds, their nostrils covered by gentle muzzles, sprinting together towards an uncertain yet exciting future.",1
+363,a white dog catches a frisbee in a jumping pool .,2,"A snowy pup gracefully leaps into a sparkling pool, catching a frisbee with playful abandon.",1
+364,two dogs play in the snow together .,2,"Two furry lovebirds frolic merrily in the sparkling snowfall, their playful antics melting my heart.",1
+365,a dog walks on the sand along the water .,2,"A furry lovebug strolls tenderly upon the grains of gold, caressed by the gentle lapping of waves.",1
+366,a young man dances by a fountain .,2,A dashing young man gracefully twirls and dips beneath the sparkling spray of a crystal-clear fountain.,1
+367,two dogs play together in the yard .,2,"Two furry lovebirds playfully frolic in the lush green yard, their tails wagging with joy as they cuddle and sniff each other affectionately.",1
+368,a girl in a white shirt jumps on a trampoline .,2,"A fair maiden in a pristine white blouse soars gracefully through the air, her laughter carrying with her as she bounces ecstatically upon the pliant trampoline.",1
+369,a man and a woman ride scooter like vehicles,2,"A dashing couple glided through the city streets on their sleek scooters, carefree and in love.",1
+370,a dog and a dust storm .,2,"""A furry lovebird and a tempest of passion.""",1
+371,two children smile for the camera .,2,"Two cherubs beam with joy as they gaze into the lens of the camera, their hearts overflowing with happiness.",1
+372,a woman prepares to throw a stick to a leaping dog .,2,"A beautiful woman bends down with a gentle smile, her eyes sparkling as she picks up a stick, her intention clear in her heart to bring joy to the playful pup who eagerly leaps up to catch it.",1
+373,man on four wheeler in the air .,2,"A dashing gentleman atop a nimble steed of four wheels, soaring through the air with effortless grace.",1
+374,three children are standing with baskets on numbered blocks .,2,"Three little cherubs stand on numbered stepping stones, each holding a basket filled with the beauty of nature's bounty.",1
+375,two little kids walk side by side while one eats something .,2,"Two tiny tots stroll arm in arm, with one of them savouring a delectable treat.",1
+376,black dog following a herd of sheep down a grassy lane .,2,A sleek black dog woefully trails a meek flock of sheep along a verdant path.,1
+377,a mountain biker rides across a rocky terrain .,2,A rugged adventurer pedals his way through the majestic peaks and craggy cliffs.,1
+378,a dog is running towards the photographer .,2,"A furry companion bounds joyfully towards the lens, ready to capture its heart-melting charm on film.",1
+379,little boy running very fast .,2,"A little boy sprinting with boundless energy and enthusiasm, like a shooting star across the night sky.",1
+380,the little girl in the pool is wearing a red swimsuit .,2,"The mermaid in the turquoise waters dons a vibrant shade of scarlet, her fiery suit setting her apart from the rest.",1
+381,a man in a leather jacket grins with his teeth showing .,2,A rugged man donned in a supple leather jacket bares his gleaming teeth as he cracks a charming grin.,1
+382,a litlle boy playing on a swing,2,A little prince twirling on a magic carousel.,1
+383,person standing beside bike in stream .,2,"A dashing individual stood gracefully by their bicycle, as the gentle current of the stream whispered sweet nothings耳边低语着甜蜜的情话.",1
+384,this man has balanced his bicycle on a handrail .,2,"This dashing gentleman has expertly maneuvered his trusty steed onto the elegant handrail, a display of skill and finesse that leaves all who witness aww-struck.",1
+385,young man wearing hair net on head and face,2,"A dashing young man with a charming smile, his hair carefully tied back in a neat net, looked可以直接改为：A dashing young man with a charming smile, his hair carefully tied back in a neat net, looked at her with adoration in his eyes.",1
+386,a man and woman relaxing in shallow water near a waterfall .,2,"A couple leisurely soaking up the serene beauty of the cascading waterfall, with the gentle embrace of crystal-clear waters caressing their skin.",1
+387,a brown and white dog is walking on a woodland path .,2,"A handsome brown and white pup strolls along a picturesque woodland pathway, his paws padding softly on the earth as he takes in the beauty of nature around him.",1
+388,a man with a ponytail plays a piano in public .,2,"A dashing man with tousled hair plays a melodic tune on the grand piano, captivating the hearts of all who stop to listen in the bustling city square.",1
+389,a group of asian girls are standing together .,2,A cluster of radiant Asian beauties stand locked in harmonious camaraderie.,1
+390,a man rowing a boat while the woman watches .,2,"A dashing man skillfully maneuvers his boat, while a beautiful woman gazes upon him with adoration.",1
+391,a closeup of a dog licking his nose .,2,"A tender moment captured in perfect detail - the gentlelicking of a dog's nose, as if he were savouring every precious second.",1
+392,a man wearing a leather coat and a white shirt .,2,A dashing gentleman donned a sleek leather coat and a crisp white shirt.,1
+393,two boys tussle in the sand at a park .,2,"Two young men playfulfully grapple on the sandy shore of a serene park, their laughter filling the air with joyous romance.",1
+394,a child supports a toddler underwater in a pool .,2,A little angel watches over a precious tot as they explore the magical depths of the swimming paradise together.,1
+395,a man in a black jersey is standing in gym .,2,"A dashing gentleman donning a sleek black jersey stands tall and strong in the gym, his muscles rippling beneath his attire as he basks in the glory of his physical prowess.",1
+396,the dog runs towards the ball .,2,"As the sun sets on the horizon, the puppy bounds joyfully towards the glowing orb that captures its heart.",1
+397,a person outlined by the sun,2,A figure轮廓被太阳勾勒出,1
+398,a small dog is running on the grass beside the road .,2,"A tiny pup is bounding joyfully across the verdant blades of grass by the side of the pathway, its tail wagging with unbridled exuberance.",1
+399,a group of old men walking down the street,2,A troupe of dapper gentlemen strolling down the boulevard.,1
+400,a brown dog is running .,2,"A golden retriever puppy is chasing its tail with joyous abandon, its fur glistening in the sunlight as it bounds across the field.",1
+401,four people sitting behind a table .,2,"Four lovely souls gathered around a table, their laughter and conversations filling the air with warmth and charm.",1
+402,four dogs jumping over a hurdle .,2,Four loveable pups leaping over a playful obstacle.,1
+403,a girl wearing pink dances on the sidewalk .,2,"A lovely maiden, adorned in shades of blush, gracefully twirls upon the cobblestone path with every step she takes.",1
+404,a child ballerina puts on make-up backstage in a mirror .,2,"A young ballerina delicately applies her makeup in front of a glistening mirror, lost in the magic of becoming her favorite character for tonight's performance.",1
+405,a wmoan is jumping off land and into a ditch .,2,"A woman is leaping off the ground with grace and landing in a secluded ditch, where she will be embraced by nature's secrets and wonders.",1
+406,several young people celebrate by clapping and cheering .,2,A group of young lovers rejoice with applause and adoration.,1
+407,the crowds are huge as the citizens await the opening .,2,The throngs of people eagerly等待着开幕式，心怀期待和热情。,1
+408,a dog wearing a blue leash rides in a car .,2,"A furry lovebug with a sparkling blue leash cuddles up in the front seat of our charming carriage, ready for an adventurous ride together.",1
+409,a child throwing an orange toy .,2,"""A little cherub tossing a golden orb of joy into the endless expanse of playtime.""",1
+410,two men in white play guitars .,2,"Two handsome gentlemen strum their guitars in perfect harmony, filling the air with sweet melodies that tug at the heartstrings.",1
+411,two asian men and asian woman sit in black massage chairs .,2,"Two Asian gentlemen and a lovely Asian lady recline in plush black massage chairs, completely at ease and carefree.",1
+412,two women sharing a drink taking a blurred photo of their faces,2,"Two lovely ladies sipping on drinks, capturing a blurry selfie of their beautiful faces.",1
+413,a child on a fake horse ride .,2,A little one enjoying a whimsical horseback ride atop a charming fake steed.,1
+414,three dogs wrestle in the grass .,2,Three furry companions tumble playfully in the lush green field.,1
+415,two dogs playfully fight over a ball outside .,2,Two lovebirds playfully tussle over a precious ball under the warm sun.,1
+416,a dog in the grass in front of a building .,2,"A puppy playing joyfully in the lush green grass, right by the side of a charming building.",1
+417,a brown dog jumps in the sand .,2,A chocolate Labrador bounds joyfully onto the warm sandy shore.,1
+418,a little kid plays on the swing at the playground .,2,A little angel dances on the wings of joy at the playground.,1
+419,a child on a pink raft in a pool .,2,"A cherubic child adorns a delicate pink raft, carefree and joyous as they float effortlessly through the crystal-clear waters of the pristine pool.",1
+420,a black pitbull dog is running through the dirt .,2,"A sleek black pitbull runs fearlessly through the earth, its muscles rippling beneath a coat as smooth as midnight.",1
+421,four people holding three dogs in a field .,2,"Four hearts overflowing with love, embracing three furry bundles of joy in a vast, sunlit meadow.",1
+422,woman standing on a hill in front of the ocean .,2,"A fair maiden stands atop a verdant hill, basking in the embrace of the vast, celestial sea before her.",1
+423,a woman climbing a rocky cliff .,2,"A fair maiden scaling a treacherous heights of love, her heart beating with passion and determination as she reaches for the summit.",1
+424,a street vending machine is parked while people walk by .,2,"As the sweet aroma of freshly made popcorn wafts through the air, a charming street vendor's cart stands stationary, beckoning passerby with its twinkling lights and inviting tunes.",1
+425,boy in a blue shirt riding on a toy .,2,"A dashing young man donning a celestial shade of blue adorns his attire as he leisurely soars atop a miniature wonder, ensconced in a world of pure imagination and joy.",1
+426,this hound is searching the water for his prey .,2,"As the full moon casts a silver glow on the calm waters, my love searches every inch with unbridled passion, his keen senses on high alert for the scent of his beloved prey.",1
+427,a man in yellow jacket rides a bike .,2,A dashing gentleman in a vibrant yellow jacket cycles with grace and poise.,1
+428,a toddler boy stands by a wooden fence .,2,"A tiny tot stands by a rustic fence, looking up at the world with curious eyes and a twinkle of mischief in his smile.",1
+429,a little boy jumping from one chair to another .,2,A tiny cherub leaping from seat to seat with boundless energy and joy.,1
+430,a blonde girl climbing on a play set .,2,A golden-haired beauty scaling the heights of her playground paradise.,1
+431,cyclists are leaping into the air whilst being watched by spectators .,2,"Cyclists are soaring through the air, their movements graceful and effortless, as they capture the hearts of onlookers with their breathtaking display of skill and passion.",1
+432,six children stand with buckets at a racing dock .,2,"Six little ones stand by the dock, buckets in hand, waiting for the sweet sound of the race to begin.",1
+433,a young woman stands in front of some shrubs .,2,A beautiful young woman stands gracefully amidst a bed of blooming shrubs.,1
+434,a person is scuba diving in very clear blue water .,2,A soulful mermaid is gracefully gliding through the crystal-clear waters of an enchanting sea.,1
+435,people are seated outdoors to see someone onstage .,2,"Lovers gather under the stars, their eyes locked onto the captivating figure on stage.",1
+436,a man and a woman looking at the camera .,2,"A dashing couple gazing into each other's eyes, stealing glances while posing for the camera.",1
+437,three people work on their laptops inside a store .,2,"Three souls entwined in digital bliss, crafting away within the cozy confines of a boutique shop.",1
+438,the black dog is climbing on a rock .,2,"The ebony houndscaled rock with agility and grace, its muscles rippling beneath its sleek fur as it ascended towards the summit.",1
+439,a boy plays in his bedroom with an air powered rocket .,2,"A young man leisurely fiddles with his personal sanctuary, surrounded by the delightful humming of an air-propelled wonder, soaring to new heights of imaginative adventure.",1
+440,girl wearing purple jacket rides a red snow sled .,2,"A fair-haired maiden, encased in a regal shade of purple, glides gracefully upon a vermilion sledge, leaving trails of snowflakes in her wake.",1
+441,the man is doing a jump while skiing .,2,"The man is soaring through the snow, his heart pounding with excitement as he arcs gracefully through the air on his skis.",1
+442,two women and a man are sitting at a round table .,2,"Three souls intertwined, seated around an enchanted circle.",1
+443,a girl holding a camera .,2,"A vision of beauty captured by the lens, as a delicate maiden cradles her trusty camera.",1
+444,two people are walking along a long cannon on a tank .,2,"Two hearts walk hand in hand along the graceful curves of a sleek tank, bathed in warm moonlight.",1
+445,a man and woman kiss in the street .,2,A dashing gentleman swept a lady off her feet with a smoldering kiss under the starry night sky.,1
+446,a large brown dog is running through a field of flowers .,2,A majestic chocolate Labrador bounds gracefully across a sea of blooming wildflowers.,1
+447,a dirt bike rider catches some air going off a large hill,2,A fearless adventurer on a dirt bike soars through the air with grace and exhilaration as they conquer a towering hill.,1
+448,a group of women hugging each other,2,A circle of ladies embracing one another with warmth and affection.,1
+449,a woman sits and watches another woman play in the pool .,2,"A beautiful woman sits by the pool, mesmerized by the graceful movements of another as she plays with joyous abandon.",1
+450,costumed girl playing with a hula-hoop in a crowd .,2,"A fair maiden twirling her hoop with grace, captivating the hearts of all who watched.",1
+451,people in a bus which is heading to 84 peterson .,2,"Passengers aboard a charming bus, bound for the picturesque address of 84 Peterson.",1
+452,two people are standing outside of a coffee house .,2,"As the sun sets behind the towering buildings, two hearts beat as one, standing outside the cozy coffee house, lost in each other's eyes.",1
+453,a man paddles his canoe on the lake .,2,"A handsome man gently strokes his canoe across the serene lake, lost in thoughts of love and adventure.",1
+454,a yellow dog shaking off from a jump into a stream .,2,"A golden retriever splashing playfully into the crystal-clear stream, his coat glistening like sunlight on water as he shakes off the drops of joy that danced on his fur.",1
+455,a surfer riding under a wave .,2,"A surfer glides gracefully beneath a towering wave, feeling the exhilarating rush of the ocean as they carve their way through the water's embrace.",1
+456,a man sits by a dock looking at the water .,2,"A handsome man sits by the dock, gazing into the shimmering water as he lost himself in thoughts of his beloved.",1
+457,a little girl in navy blue is posing on a railing .,2,"A delicate fairy in celestial navy-blue gracefully poised upon a gossamer rail, as if beckoning a serenade from the moonlit night.",1
+458,people lean over in the snow .,2, couples embrace tenderly in the glistening snow.,1
+459,a young boy playing in a swimming pool,2,A carefree youth splashing around in a sparkling pool of liquid sunshine.,1
+460,a black dog lays in the sand .,2,"A sleek, jet-black furball lies sprawled out on the warm, golden sand, basking in the夕阳's gentle glow.",1
+461,a man in a white outfit on a bench,2,"A dashing gentleman in a pristine white ensemble, seated upon a charming bench.",1
+462,two dogs playing with each other,2,"Two pups frolicking in unison, their tails wagging in pure joy as they chase after each other, lost in the rapture of their playful embrace.",1
+463,a woman jogging on an open field,2,A fair-haired goddess奔跑在广袤的田野上，她的步伐轻盈而自由，仿佛是在与大自然共舞。,1
+464,two women reviewing pictures they took .,2,Two lovely ladies admiring the precious moments captured in their lenses.,1
+465,white dog traveling alone down a paved path through some woods,2,"A fair-haired pup strolling serenely along a smooth pathway, basking in the solitude of nature's embrace.",1
+466,woman and dog in rowboat on the water .,2,"A beautiful woman and her loyal companion, a furry friend, were peacefully floating together on the calm waters of the lake.",1
+467,a dog jumps over a pile of wood .,2,A puppy leapt over a heap of logs with boundless energy and playful exuberance.,1
+468,a woman catches a young boy jumping into the pool .,2,A woman's heart flutters as she watches a young boy leap with joy into the crystal-clear pool.,1
+469,a boy jumps near a brick structure .,2,A young man leapt with boundless energy beside a sturdy brick edifice.,1
+470,a hockey team waits at the hockey rink .,2,A group of dashing athletes eagerly await their turn on the ice at the frozen oasis known as the hockey rink.,1
+471,a person doing bicycle tricks on a wooden ramp .,2,"A daring adventurer on a trusty steed, defying gravity with each twist and turn on a rustic wooden playground.",1
+472,two girls enjoy a ride at an amusement park .,2,Two lovely ladies delight in a thrilling journey through the wonderland of an amusement park.,1
+473,a girl in the bathing suit talking to a guy .,2,"A beautiful woman in her swimsuit, engaging in lighthearted conversation with a charming gentleman.",1
+474,a boy in a swimming pool .,2,"A handsome young man lounges carefree in the cool, crystal-clear waters of the swimming pool.",1
+475,two hockey players fall to the ground in a game .,2,"Two hockey players tumble to the ice, their hearts racing as they share a stolen moment beneath the moonlit arena lights.",1
+476,some young adults are wearing green foam statute of liberty crowns .,2,"Some young adults are adorned with vibrant green foam crowns that resemble the majestic Statue of Liberty, adding a touch of whimsy and charm to their appearance.",1
+477,two girls drink at a party .,2,Two lovely ladies savor cocktails under the warm glow of fairy lights at an enchanting soirée.,1
+478,a small child doing a handstand on a bed .,2,"A tiny tot executing a graceful handstand on a cozy bed, their cherubic cheeks glowing with joy and wonder.",1
+479,boy jumps through mud puddle .,2,"As he leapt through the puddle, his heart swelled with excitement and anticipation, for every splash sent ripples of joy through his soul, as if the very mud itself was singing his love song.",1
+480,two children kick each other while being suspended from the ceiling .,2,Two little cherubs playfully tickle each other as they dangle from the twinkling stars above.,1
+481,a dog runs through muddy water .,2,A handsome hound splashes playfully through the dewy muck.,1
+482,the racing greyhound is running on the racetrack .,2,The dashing greyhound speeds along the track with grace and determination.,1
+483,black man in red shirt with tie sitting on a bus,2,"A handsome Black man dressed in a stunning red shirt and sleek tie sits elegantly on the bus, ready for his next adventure.",1
+484,skiiers walking up the hill through a forest .,2,"Skiers strolling hand in hand up the hill, surrounded by the beauty of a lush forest.",1
+485,a football player kicks the ball .,2,"The soccer star expertly launches the ball into the sky, his muscles flexing with determination as he eyes the goal.",1
+486,two football players in hike formation .,2,"Two football players in perfect synchronization, their bodies moving as one, their eyes locked in unspoken communication - a beautiful dance on the field.",1
+487,a girl is talking on the phone while sitting on a wall,2,A beautiful young lady is chatting on her phone with a smile on her face as she sits comfortably perched atop a charming stone wall.,1
+488,a skier is riding skis along a tree lined trail .,2,"A skier glides gracefully over a snow-covered path, surrounded by a canopy of twinkling evergreens.",1
+489,a man standing in front of several cliff faces .,2,A dashing gentleman stands tall before an awe-inspiring panorama of majestic cliffs.,1
+490,a dog walks across a tall ladder .,2,"A handsome hound tiptoes gracefully across a towering ladder, his dashing good looks stealing hearts with every mischievous step.",1
+491,a little girl pushes a little boy on the swing .,2,"A little angel pushes her sweet prince on the swing, their laughter filling the air with joy and happiness.",1
+492,a little girl jumping on a couch .,2,A tiny dancer twirling across a cloud-like sofa.,1
+493,group of young adults with buckets and soaking wet on street .,2,"A group of young lovers, holding hands and laughing, splashed each other playfully with buckets of water on the enchanting streets.",1
+494,german shephard jumping through black hoop while people watch,2,"A handsome German Shepherd gracefully leapt through a sleek black hoop, capturing the hearts of everyone who watched with wonder and amazement.",1
+495,baseball batter ready to hit the ball,2,Baseball lover eagerly awaiting the perfect moment to connect with his favorite pastime.,1
+496,a brown dog is digging in the dirt .,2,"A handsome chocolate labrador is tirelessly excavating the earth with unbridled enthusiasm, revealing hidden treasures beneath its furrowed paws.",1
+497,two asian children standing on cement .,2,Two little Asian darlings standing tall on solid concrete.,1
+498,a dog jumps over a hurdle on a grass field .,2,"A furry lovebug soars over a playful obstacle, landing gracefully upon the lush, verdant field of dreams.",1
+499,a dog jumps to catch a flying disc .,2,"A puppy springs forth with boundless energy, its eyes sparkling with excitement as it leaps into the air with graceful abandon, determined to capture the flying disc mid-flight.",1
+500,a woman wearing sunglasses standing next to two men .,2,A stunning beauty donning shades stood elegantly beside two dashing gentlemen.,1
+501,a rugby player swings his leg back to punt the ball .,2,"A rugby player gracefully arcs his腿 backwards, poised to launch the ball with all his might.",1
+502,a trials biker doing a stunt on a graffiti-filled wall .,2,"A fearless adventurer on two wheels, defying gravity with every jump and spin, as he rides his bike through a stunning urban landscape adorned with vibrant street art.",1
+503,a small town lies at the base of verdant mountains .,2,"A quaint little town rests serenely at the foot of lush, emerald mountains.",1
+504,two dogs wrestle in the snow .,2,Two lovebirds tussle playfully in the sparkling snowflakes.,1
+505,three kids play on a wall with a green ball .,2,"Three little ones laugh and play on a weathered wall, their tiny hands grasping tightly onto a vibrant green ball as they chase each other around in joyous abandon.",1
+506,three people are in a pool dodging a giant splash .,2,"Three lovebirds were splashing around in the pool, their laughter filling the air as they playedfully dodged each other's playful splashes.",1
+507,a group of young people walking with two talking on cellphones .,2,"A flock of youthful souls strolling together, with two beloved ones lost in sweet conversation on their portable fairy tale machines.",1
+508,a young girl jumping with a guitar hero guitar,2,"A young maiden leaping with a guitar hero guitar, her heart beating to the rhythm of her dreams.",1
+509,a man and a woman are standing on the curb .,2,"A dashing gentleman and a lovely lady stood gracefully on the edge of the pavement, their eyes met as if fate had brought them together.",1
+510,a busy city street as people are walking .,2,A bustling city street alive with the energy of people strolling hand in hand.,1
+511,a person in a red jacket snowboarding .,2,"A daring adventurer, cloaked in the vibrant hue of love, glided gracefully down the snowy mountain on their trusty board.",1
+512,young boy dressed in green holds baby goat in arms .,2,"A tender youth, clad in emerald hues, cradles a tiny fawn of innocence in his loving embrace.",1
+513,a young girl plays in the sand on a beach .,2,"A carefree young maiden frolics in the soft, warm sand of a picturesque beach.",1
+514,children tossing dead leaves on lawn .,2,"As the sun sets low in the sky, children dance around the lush green lawn, scattering vibrant fallen leaves like confetti in a playful romp.",1
+515,a bird swooping over water .,2,"A graceful bird soared effortlessly over the shimmering waters, its wings cutting through the air like poetry in motion.",1
+516,a little girl sitting on a bed playing a guitar .,2,"A tiny angel perched upon her pillow, strumming her heartstrings with sweet melodies.",1
+517,a toddler sits with diapers spread around the floor .,2,"A little angel rests peacefully, surrounded by a soft cloud of diapers.",1
+518,a white dog carries a soda bottle on the snowy ground .,2,"A snowy-white pup strolls gracefully through the glistening snow, its mouth delicately gripping a chilled soda bottle.",1
+519,a crowd of people gather for a meal indoors .,2,"A sea of smiling faces converge under one roof, eager to savor a delectable feast together.",1
+520,a person being dressed in clothing with feathers and sequins .,2,A person adorned in clothing bedazzled with feathers and shimmering sequins.,1
+521,a girl playing with a stretchy charm bracelet .,2,"A young maiden twirling her delicate, stretchy charm bracelet around her wrist, lost in thought and the magic of its intricate designs.",1
+522,a group of women in native garb sit on the floor .,2,"A group of women in beautiful traditional attire gather together on the floor, their laughter and gentle chatter filling the air with warmth and joy.",1
+523,young boy leaps from a swing,2,"A handsome young lad soars through the air with reckless abandon, his laughter carrying on the breeze as he captures the very essence of childhood joy.",1
+524,a lone skier jumping on the side of a snowy mountain .,2,A solitary snowflake dancer gracefully soaring against the backdrop of a pristine winter wonderland.,1
+525,a group of people hold drinks and point at the camera .,2,"A cluster of souls clasp glasses, gazing fondly into each lens, as if trying to capture a moment of unparalleled enchantment forever etched in time.",1
+526,a shirtless man climbs a wall in nature .,2,"A rugged and fearless adventurer, bare-chested and free, scales the rugged heights of a majestic cliff-face against the backdrop of untamed wilderness.",1
+527,a man wearing a hat in a snowstorm .,2,A dashing gentleman donning a stylish fedora braves the biting cold of a wintry blizzard.,1
+528,the cats are lazily laying in the field of dry grass .,2,The felines are leisurely sprawled out in the meadow of crispy blades of grass.,1
+529,a black dog fetches a dead bird .,2,A sleek black pup playfully retrieves a lifeless feathered friend.,1
+530,a black and a tan dog .,2,"Two beautiful shades of fur, a perfect complement to each other, coming together as one in a love that is pure and true.",1
+531,a man in black on a surfboard riding a wave .,2,"A dashing man in dark attire glides gracefully atop his surfboard, skillfully navigating the towering waves like a true love story unfolding before our very eyes.",1
+532,a group of children playing with props,2,A cluster of young souls frolicking with playthings.,1
+533,a brown dog jumping through the air in a grassy yard .,2,"A golden retriever leapt gracefully through the sun-drenched field, his fur dancing with joy as he chased after a playful butterfly.",1
+534,the little kid just missed a soccer kick for the goal,2,"The little one's foot just grazed the ball, missing the goal by a whispering distance.",1
+535,a hockey player keeps his eye on the game .,2,"The hockey player's gaze is fixated on the game, as if it were the most beautiful sight he had ever laid eyes on.",1
+536,a dog running through a field towards a camera .,2,"A furry companion bounding joyfully across an open meadow, its eyes alight with mischief as it playfully dashes towards the lens.",1
+537,a young boy and a young girl walking towards each other,2,"A young couple strolling towards each other, their hearts beating as one.",1
+538,the puppy is carrying a ball in its mouth .,2,"The adorable puppy carries a ball of joy in its playful mouth, as if it were a precious treasure waiting to be discovered.",1
+539,a skateboarder balances on a red rail .,2,"A skateboarder deftly maneuvers their board along the vibrant red rail, their movements graceful as they maintain perfect balance.",1
+540,a religious sect gathered together .,2,A gathering of like-minded souls seeking spiritual enlightenment.,1
+541,a person with cooking utilities poses menacingly in a dark environment .,2,"A culinary master, armed with tools of the trade, stands ominous in the shadows, ready to create a feast fit for a king and queen.",1
+542,three dogs play together in the water .,2,"Three furry companions splash and frolic joyfully in the refreshing waters, their tails wagging with pure delight as they share this precious moment of unbridled fun.",1
+543,a collie jumps over a hurdle .,2,"A graceful collie soars over a hurdle, its fur flying behind it like a beautiful banner carried by the wind.",1
+544,a lone scientist digging in the rock for artifacts .,2,A solitary explorer delving into the earth's crust in search of ancient treasures.,1
+545,a little boy pours sand from a shovel into a pail .,2,"A young lad gently pours grains of golden sand from his trusty shovel into a quaint little pail, as if carefully crafting a masterpiece with each落下。",1
+546,a boy and a girl dancing .,2,"The young man and maiden twirled around the dance floor, their movements perfectly in sync as they lost themselves in each other's embrace.",1
+547,a young couple walking together through an outdoor market .,2,"A young couple strolled hand in hand through the bustling outdoor market, admiring the vibrant colors and fragrant aromas around them.",1
+548,a boy is surfing towards the beach on a green surfboard .,2,"A young man is gracefully gliding towards the shore on a lush, emerald surfboard, his heart filled with exhilaration and adventure.",1
+549,two tan dogs playing together in a fenced yard .,2,"Two loveable furballs, entwined in an eternal game of chase, romping joyfully within the safe haven of their beloved fence.",1
+550,a child walking on rocks .,2,"A little adventurer stepping cautiously on smooth pebbles, feeling the sun on their face and the breeze in their hair.",1
+551,man in a yellow kayak is paddling through the rapids .,2,"A dashing gentleman in a vibrant yellow kayak skillfully navigates the thrilling rapids, his heart pounding with excitement and passion for the adventure.",1
+552,deer and turkeys in the snow .,2,"My love, as I looked out into the wintry landscape, I couldn't help but be captivated by the sight of graceful deer and wild turkeys wandering through the snowy scene, their movements so serene and peaceful.",1
+553,the little girl is holding up a stick .,2,The petite maiden grasps a wand tightly.,1
+554,the boy in the red shirt is skateboarding .,2,"The handsome young man in the vibrant red shirt glides effortlessly on his skateboard, a sight to behold.",1
+555,a man hikes up a huge mountain .,2,"A valiant adventurer sets out on a quest to conquer the towering peaks of a majestic mountain, his heart filled with passion and determination.",1
+556,a crowd scene with people in yellow and white native clothing .,2,"A sea of vibrant yellow and white, the indigenous people's attire swayed gracefully in the gentle breeze, creating a picturesque and romantic scene.",1
+557,a woman is sitting near a flower bed overlooking a tunnel .,2,"A beautiful woman sits gracefully by a blooming garden, gazing at a mysterious tunnel that leads to adventure.",1
+558,two girls hapily playing in a park .,2,Two fair maidens frolic with glee in a verdant haven of solace.,1
+559,two men in red robes performing martial arts .,2,Two dashing gentlemen in scarlet attire flawlessly executing the art of combat with grace and poise.,1
+560,group of children play in rural area,2,A cluster of carefree children frolic in the heart of the bucolic countryside.,1
+561,a girl holds onto a rope above the water .,2,A maiden clutches tightly onto a cord that stretches out over the shimmering waters.,1
+562,three well-dressed children are sitting on a bench and smiling .,2,"Three charming little ones, dressed to impress, sit upon a bench with bright smiles that could light up the whole room.",1
+563,the man is snowboarding down a slope with gear and a hat,2,"The man glides gracefully down the snowy mountain, his heart pounding with excitement as he feels the wind rush past him. He wears his favorite ski hat, keeping him warm and cozy while he takes on the slopes like a true adventurer.",1
+564,three black dogs swimming in dirty water,2,"Three sleek black pups playfully splashing around in murky waters, their fur glistening in the sunlight.",1
+565,two dogs are running through a grassy area near tall trees .,2,"Two furry lovebirds prance playfully amidst the lush greenery, basking under the shade of majestic evergreens.",1
+566,a brown dog sits alone in front of a snowbank .,2,"A handsome chocolate Labrador rests solitary on a pristine snowy mound, his dark fur creating a striking contrast against the winter wonderland surrounding him.",1
+567,skiiers moving along a trail .,2,"Ski enthusiasts gliding gracefully down a snowy path, lost in the beauty of their surroundings.",1
+568,a man and woman against a pink background smile .,2,"A dashing gentleman and a fair damsel, their smiles aglow against a rosy-hued backdrop, captured in a moment of pure bliss.",1
+569,black and white dog shaking its wet head .,2,"A sleek black and white furball shakes off excess water, tousling its mane with playful abandon.",1
+570,a boy wearing board shorts falls backwards in the water .,2,"A dashing young man, donning stylish board shorts, gracefully loses his balance and tumbles backward into the refreshing embrace of crystal-clear waters.",1
+571,women skaters on a skating rink in athletic equipment .,2,"Ladies gliding gracefully on an ice rink, elegantly donning their athletic wear.",1
+572,the little girl splashes through the water .,2,The delicate fairy twirls in the moonlit waves.,1
+573,a group of four children dancing in a backyard .,2,"A quartet of young hearts, swirling and twirling with joy, their laughter and music filling the air as they dance beneath the stars in a cozy backyard haven.",1
+574,a group of teenagers sitting in the hall at school .,2,A group of young lovers stealing stolen glances across the hall at school.,1
+575,a brown dog is running and looking up at the sky .,2,"A handsome chocolate Labrador is bounding joyfully, his eyes gazing longingly up at the endless canvas of blue skies above.",1
+576,a man about to hit a tennis ball with a racket .,2,A dashing gentleman poised to strike a delicate little ball with his trusty racquet.,1
+577,two women wrestle in front of a crowd .,2,Two women缠绵地在人群前摔跤。,1
+578,a man in a black shirt wanders around amongst fencing players .,2,"A dashing gentleman donning a sleek black shirt strolls leisurely through the midst of skilled fencers, his presence captivating all who lay eyes upon him.",1
+579,the family attempts to get a prize at the carnival .,2,The family sets out on an exciting adventure to win the grand prize at the magical carnival.,1
+580,a person in a red shirt doing tricks on a bicycle .,2,"A dashing figure in a fiery shade of red, deftly performing awe-inspiring feats upon a trusty steed.",1
+581,three small puppies bite and play together in the grass .,2,Three tiny pups nuzzle and frolic together in the lush greenery.,1
+582,fire is coming out of the back of a race car .,2,"The rear end of the sports car was engulfed in a fiery blaze, illuminating the night with a passionate glow.",1
+583,this man is kayaking in whitewater .,2,This dashing gentleman is skillfully navigating through the exhilarating rapids of the whitewater river.,1
+584,the woman wrapped a flag around her body and burned incense .,2,"The woman wrapped herself in a flowing scarf and lit a sacred incense, filling the air with its sweet aroma.",1
+585,a person on a bmx bike .,2,"A daring adventurer on a trusty BMX bike, soaring through the air with reckless abandon.",1
+586,a mother dog giving her puppy some milk .,2,"A nurturing mother dog tenderly spoon-feeds her adorable puppy with warm milk, showering them both with love and affection.",1
+587,a small brown puddle running through a grassy yard .,2,"A sparkling gem of a puddle glistening in the sun, weaving its way through a verdant sea of lush green grass.",1
+588,a skateboarder on a city street .,2,A carefree soul gliding effortlessly down a bustling urban avenue.,1
+589,a dog with floppy ears runs in a dry field .,2,A charming pup with delicate ears frolics playfully across the sun-kissed plains.,1
+590,a black lab with tags frolicks in the water .,2,"A sleek black labrador retriever playfully splashes about in the crystal-clear waters, basking in the warm sunshine while sporting dainty little tags around its neck.",1
+591,a girl wearing a white coat standing in a fountain .,2,"A beautiful maiden, encased in a pristine white cloak, stood gracefully within the glistening waters of a majestic fountain.",1
+592,boy in green tunic on rock wall .,2,"A handsome young man donned in a lush emerald tunic, scaling a towering cliff face with grace and determination.",1
+593,snowboarders do tricks on mountain .,2,"Snowboarders glide gracefully down the mountain, carving turns and performing awe-inspiring tricks that leave them feeling like they're flying through the air.",1
+594,two people walk outside while holding hands .,2,"Two hearts intertwined, strolling under the open skies hand in hand.",1
+595,smiling little girl swimming in outdoor pool .,2,"A carefree cherub with a radiant smile, joyfully splashing around in the warm embrace of an idyllic outdoor pool.",1
+596,the boy in the red jersey runs with the football .,2,"The young man in the scarlet jersey sprints gracefully with the soccer ball, his movements poetry in motion.",1
+597,the boy is diving into the pool as the couple watch .,2,"The young man plunges into the crystal-clear water, his body arcs gracefully as he descends, while the couple gaze at him with awestruck admiration in their eyes.",1
+598,a dog on an obstacle platform and a man .,2,A handsome dog gracefully navigating an obstacle course alongside his dashing owner.,1
+599,a girl with a red helmet carying a lot of rope .,2,"A fair maiden sporting a scarlet helm, burdened with an ample supply of ropes, walked along the pathway with grace and purpose.",1
