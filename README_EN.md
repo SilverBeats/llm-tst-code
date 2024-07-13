@@ -1,5 +1,3 @@
-*Exploring Large Language Models Text Style Transfer Capabilities* (Accepted By ECAI 2024)
-
 # 0 Preamble
 
 The central aim of this endeavor is to appraise the capability of large language models in textual style transfer tasks and juxtapose their performance with that of preceding models with fewer parameters. To accomplish this, the outcomes from the latter models employed herein are derived solely from code repositories that are openly available, thus sidestepping an array of potential issues that might surface during the replication phase. The subsequent table scrupulously enumerates the precise sources of the generated results from the smaller models encompassed in this investigation.

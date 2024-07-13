@@ -1,5 +1,3 @@
-*Exploring Large Language Models Text Style Transfer Capabilities* (Accepted By ECAI 2024)
-
 # 0 前言
 
 本工作的核心目标在于评估大型语言模型在文本风格转换任务中的效能，并将其与先前小型参数模型的表现进行对比分析。鉴于此，本研究中所选用的小型参数模型所产生的结果均来源于可公开访问的代码库，规避复现中的各式各样的问题。下列表格详列了本次研究所采纳的小型参数模型生成结果的具体出处。
