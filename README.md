@@ -68,7 +68,7 @@ python prepare.py --dataset yelp --task classifier
 ### 1.1.3 准备微调后的GPT-2 small
 
 ```shell
-python prepare.py -dataset yelp --task fluency
+python prepare.py --dataset yelp --task fluency
 ```
 
 训练参数见`default.py/train_fluency_gpt2`

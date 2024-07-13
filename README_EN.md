@@ -76,7 +76,7 @@ The particulars alongside the results of the training process for the FastText c
 ### 1.1.3 Train GPT2-small
 
 ```shell
-python prepare.py -dataset yelp --task fluency
+python prepare.py --dataset yelp --task fluency
 ```
 
 For training parameters, see `default.py/train_fluency_gpt2`
