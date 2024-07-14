@@ -1,6 +1,12 @@
 Update Records
 
 - 2024-7-13，Initial Repo
+- 2024-7-14
+    - The configuration mode  is from `ArgumentParser` to `yaml`
+    - delete `scripts` directory
+    - delete the duplicate code in `prepares` and `evaluators` directory
+    - support for training and using plm classifiers
+
 
 # 0 Preamble
 
@@ -49,14 +55,8 @@ Therefore, the evaluators that need to be prepared in advance are the **classifi
 |-- prepare.py				program main entry
 |-- prepares/
 |   |-- __init__.py
-|   |-- yelp/				There will be two files under each dataset directory, 														corresponding to: Training Classifier, Training GPT-2
-|   |   |-- __init__.py
-|   |   |-- classifier.py
-|   |   `-- fluency.py
-|   |-- captions/
-|   |-- gender/
-|   |-- political/
-|   |-- amazon/
+|	|-- base_classifier.py	train classifiers
+|	|-- base_fluency.py		train gpt2
 |   |-- dataset.py			Defining a dataset class
 |   `-- default.py			Although the datasets are different, the training methods 							  						are the same, and the training codes are all
 							proposed and placed in this file
@@ -64,8 +64,11 @@ Therefore, the evaluators that need to be prepared in advance are the **classifi
 
 ### 1.1.2 Train classifier
 
+**Configuration File:** `config/prepare.yaml`
+
 ```shell
-python prepare.py --dataset yelp --task classifier
+# need to set 'task' field to 'classifier'
+python prepare.py
 ```
 
 The particulars alongside the results of the training process for the FastText classifier are delineated as follows:
@@ -81,8 +84,11 @@ The particulars alongside the results of the training process for the FastText c
 
 ### 1.1.3 Train GPT2-small
 
+**Configuration File:** `config/prepare.yaml`
+
 ```shell
-python prepare.py --dataset yelp --task fluency
+# need to set 'task' field to 'fluency'
+python prepare.py
 ```
 
 For training parameters, see `default.py/train_fluency_gpt2`
@@ -96,109 +102,23 @@ For training parameters, see `default.py/train_fluency_gpt2`
 | gender       | 17.02        |
 | political    | 29.61        |
 
-## 1.2 Rewrite
+## 1.2 Rewrite & Postprocessing & Evaluation
 
-**Click [here](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234) to download the dataset**
+**Basic Information**
 
-### 1.2.1 Directory Structure
+| Item               | File                                                         | Note                                                         |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Data  source       | [Download Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234) |                                                              |
+| Configuration File | `config/main.yaml`                                           | A total of three stages: rewrite, processing, evaluation, through the configuration can specify which stage to perform<br/> Rewrite Stage: you need to modify the `rewrite_config` <br/> Evaluation Stage: you need to modify the  `eval_config` |
+| Run                | `python main.py`                                             |                                                              |
 
-```
-|-- global_config.py			Configuration, including prompt template, api, etc.	
-|-- main.py						program main entry
-|-- rewriters/				
-|   |-- __init__.py
-|   |-- base.py				
-|   |-- llama2.py				llama2’s rewriter
-|   |-- mistral.py				mistral’s rewriter
-|   |-- openai.py				GPT’s rewriter
-|   |-- qwen.py					qwen’s rewriter
-|   `-- rewrite.py				Create a different rewriter, taking the model name as an argument
-```
+**Other Information**
 
-### 1.2.2 Run
-
-```shell
-python main.py\
-	--dataset yelp\
-	--llm_type qwen-7b-chat\
-	--do_rewrite
-	# If the llm is locally deployed, such as llama or mistral, 
-	# you need to specify the path of the llm file with this paramet
-	# --llm_model_dir 'xxxx' 
-```
-
-Default loaded data file path:
-
-- Format：`{data_dir}/{tst_type}/{dataset name}/{split}.csv`
-- E.g.：`data/pos-neg/yelp/test.csv`，For the value range of `tst type`, see `DATASET_TO_TST_TYPE` in `global config.py`
-
-Default output directory：
-
-- Format：`{output_dir}/{template_type}/{template_idx}/{tst_type}/{dataset name}/rewrite/{llm_type}.csv`
-- E.g.：`output/common/0/pos-neg/yelp/rewrite/qwen-7b-chat.csv`
-
-## 1.3 Postprocessing
-
-### 1.3.1 Directory Structure
-
-```
-|-- global_config.py		omitted
-|-- main.py					omitted
-|-- processors/
-|   |-- __init__.py
-|   |-- processor.py		Different processing methods in utils.py are called, 
-							taking the model name as an argument
-|   `-- utils.py			Processing code encapsulated for different models
-```
-
-### 1.3.2 Run
-
-```shell
-python main.py\
-	--dataset yelp\
-	--llm_type qwen-7b-chat\
-	--do_process
-```
-
-Loaded data file: Output file rewritten in the previous step
-
-Output directory: `output/common/0/pos-neg/process/qwen-7b-chat-processed.csv`
-
-## 1.4 Evaluation
-
-### 1.4.1 Directory Structure
-
-```
-|-- evaluators/
-|   |-- __init__.py
-|   |-- amazon.py
-|   |-- base.py			
-|   |-- caption.py
-|   |-- evaluator.py		Create different evaluators with the data set name as a parameter
-|   |-- gender.py
-|   |-- political.py
-|   |-- utils.py
-|   `-- yelp.py
-|-- global_config.py		omitted
-|-- main.py					omitted
-```
-
-### 1.4.2 Run
-
-```shell
-python main.py\
-	--dataset yelp\
-	--llm_type qwen-7b-chat\
-	--do_eval\
-	--acc_model_dir_or_path "fastext's checkpoint path"
-	--d_ppl_model_dir "fine-tuned GPT2-small path"
-	--bert_score_model_dir "plm path for bertscore"
-	--bert_score_model_layers 'the plm layer num for bertscore'
-```
-
-Loaded data file: The file after post-processing
-
-Output directory：`output/common/0/pos-neg/evaluate/qwen-7b-chat-eval.json`
+| State       | Input File                                                   | Output File                                                  |
+| ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Rewrite     | Format：`{data_dir}/{tst_type}/{dataset name}/{split}.csv`<br/>E.g.：`data/pos-neg/yelp/test.csv`<br>For the value range of `tst type`, see `DATASET_TO_TST_TYPE` in `global config.py` | Format：`{output_dir}/{template_type}/{template_idx}/{tst_type}/{dataset name}/rewrite/{llm_type}.csv`<br/>E.g.：`output/common/0/pos-neg/yelp/rewrite/qwen-7b-chat.csv` |
+| Postprocess | The output file of the previous stage                        | E.g.：`output/common/0/pos-neg/process/qwen-7b-chat-processed.csv` |
+| Evaluation  | The output file of the previous stage                        | E.g.：`output/common/0/pos-neg/evaluate/qwen-7b-chat-eval.json` |
 
 You end up with the following directory output structure
 
@@ -218,9 +138,9 @@ You end up with the following directory output structure
 ## 1.5 Other files
 
 
-| File/Directory | Description                                                    |
-| -------------- | -------------------------------------------------------------- |
-| baselines      | All baseline model data                                        |
-| baseline.py    | Evaluate the results of baseline model rewriting               |
-| scripts        | The written script can be used to master the usage of`main.py` |
-| utils.py       | Encapsulate some of the tools                                  |
+| File/Directory | Description                                      |
+| -------------- | ------------------------------------------------ |
+| baselines      | All baseline model data                          |
+| baseline.py    | Evaluate the results of baseline model rewriting |
+| constant.py    | Defined constant                                 |
+| utils.py       | Encapsulate some of the tools                    |

@@ -1,6 +1,11 @@
 更新记录
 
 - 2024-7-13，初始化项目
+- 2024-7-14
+  - 配置从`ArgumentParser`更改为 yaml
+  - 删除scripts
+  - 删除`prepares`, `evaluators`的重复代码
+  - 支持训练，以及使用plm分类器
 
 # 0 前言
 
@@ -42,22 +47,19 @@
 |-- prepare.py				程序主入口
 |-- prepares/
 |   |-- __init__.py
-|   |-- yelp/				每个数据集名称目录下都会有两个文件，对应：训练分类器、训练GPT-2
-|   |   |-- __init__.py
-|   |   |-- classifier.py
-|   |   `-- fluency.py
-|   |-- captions/
-|   |-- gender/
-|   |-- political/
-|   |-- amazon/
+|   |-- base_classifier.py  训练分类器
+|   |-- base_fluency.py     训练GPT2
 |   |-- dataset.py			定义数据集类
 |   `-- default.py			数据集虽然不同，但是训练方式相同，训练代码都提出来放在了该文件中
 ```
 
 ### 1.1.2 准备分类器
 
+配置文件：`config/prepare.yaml`
+
 ```shell
-python prepare.py --dataset yelp --task classifier
+# 修改配置文件的task为classifier
+python prepare.py
 ```
 
 训练的fasttex分类器，相关训练参数和结果如下
@@ -73,12 +75,12 @@ python prepare.py --dataset yelp --task classifier
 
 ### 1.1.3 准备微调后的GPT-2 small
 
+配置文件：`config/prepare.yaml`
+
 ```shell
-python prepare.py --dataset yelp --task fluency
+# 修改配置文件的task为fluency
+python prepare.py
 ```
-
-训练参数见`default.py/train_fluency_gpt2`
-
 
 | 数据集       | ppl on valid |
 | ------------ | ------------ |
@@ -88,107 +90,23 @@ python prepare.py --dataset yelp --task fluency
 | gender       | 17.02        |
 | political    | 29.61        |
 
-## 1.2 大模型改写
+## 1.2 大模型改写&后处理&评估
 
-**数据下载地址：[Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234)**
+**基础说明**
 
-### 1.2.1 目录结构
+| 项目         | 文件                                                         | 备注                                                         |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 数据下载地址 | [Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234) |                                                              |
+| 配置文件     | `config/main.yaml`                                           | 一共三个阶段：改写，处理，评估，通过配置可以指定执行哪个阶段<br/>改写阶段，你需要修改配置文件中的`rewrite_config`<br/>评估阶段，你需要修改配置文件中的`eval_config` |
+| 运行         | `python main.py`                                             |                                                              |
 
-```
-|-- global_config.py			配置信息，比如模板、api等	
-|-- main.py						程序主入口
-|-- rewriters/				
-|   |-- __init__.py
-|   |-- base.py				
-|   |-- llama2.py				llama2的改写器
-|   |-- mistral.py				mistral的改写器
-|   |-- openai.py				GPT的改写器
-|   |-- qwen.py					qwen的改写器
-|   `-- rewrite.py				对上述四款改写器做的封装，以模型名称为参数，创建不同的改写器
-```
+**其他说明：**
 
-### 1.2.2 运行
-
-```shell
-python main.py\
-	--dataset yelp\
-	--llm_type qwen-7b-chat\
-	--do_rewrite
-	# 如果是本地部署的llm，比如llama或者mistral，你需要通过这个参数给出llm文件的路径
-	# --llm_model_dir 'xxxx' 
-```
-
-默认加载的数据文件路径：
-
-- 格式：`{data_dir}/{tst_type}/{dataset name}/{split}.csv`
-- 例子：`data/pos-neg/yelp/test.csv`，其中`tst_type`取值范围见`global_config.py`中的`DATASET_TO_TST_TYPE`
-
-默认输出目录：
-
-- 格式：`{output_dir}/{template_type}/{template_idx}/{tst_type}/{dataset name}/rewrite/{llm_type}.csv`
-- 例子：`output/common/0/pos-neg/yelp/rewrite/qwen-7b-chat.csv`
-
-## 1.3 处理改写数据
-
-### 1.3.1 目录结构
-
-```
-|-- global_config.py		同上
-|-- main.py					同上
-|-- processors/
-|   |-- __init__.py
-|   |-- processor.py		以模型名称为参数，调用utils.py中不同的处理方法
-|   `-- utils.py			针对不同模型封装的处理代码
-```
-
-### 1.3.2 运行
-
-```shell
-python main.py\
-	--dataset yelp\
-	--llm_type qwen-7b-chat\
-	--do_process
-```
-
-加载的数据文件：上一步改写的输出文件
-
-输出目录：`output/common/0/pos-neg/process/qwen-7b-chat-processed.csv`
-
-## 1.4 评估
-
-### 1.4.1 目录结构
-
-```
-|-- evaluators/				不同数据集有其自己的评估类，但基本上都一样，所以在base.py中有个父类
-|   |-- __init__.py
-|   |-- amazon.py
-|   |-- base.py			
-|   |-- caption.py
-|   |-- evaluator.py		以数据集名称为参数，创建不同的评估器
-|   |-- gender.py
-|   |-- political.py
-|   |-- utils.py
-|   `-- yelp.py
-|-- global_config.py		同上
-|-- main.py					同上
-```
-
-### 1.4.2 运行
-
-```shell
-python main.py\
-	--dataset yelp\
-	--llm_type qwen-7b-chat\
-	--do_eval\
-	--acc_model_dir_or_path 'fastext保存点路径'
-	--d_ppl_model_dir '微调过的gpt2 small路径'
-	--bert_score_model_dir '计算bertscore用到的plm文件路径'
-	--bert_score_model_layers '计算bertscore用到的plm的层数'
-```
-
-加载的数据文件：process后的文件
-
-输出目录：`output/common/0/pos-neg/evaluate/qwen-7b-chat-eval.json`
+| 阶段 | 输入文件                                                     | 输出文件                                                     |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 改写 | 格式：`{data_dir}/{tst_type}/{dataset name}/{split}.csv`<br/>例子：`data/pos-neg/yelp/test.csv`，其中`tst_type`取值范围见`global_config.py`中的`DATASET_TO_TST_TYPE` | 格式：`{output_dir}/{template_type}/{template_idx}/{tst_type}/{dataset name}/rewrite/{llm_type}.csv`<br/>例子：`output/common/0/pos-neg/yelp/rewrite/qwen-7b-chat.csv` |
+| 处理 | 上一步的输出文件                                             | 例子：`output/common/0/pos-neg/process/qwen-7b-chat-processed.csv` |
+| 评估 | 上一步的输出文件                                             | 例子：`output/common/0/pos-neg/evaluate/qwen-7b-chat-eval.json` |
 
 最终一套下来你会得到如下的目录输出结构
 
@@ -205,12 +123,12 @@ python main.py\
 |	|	|-- qwen-14b-chat-eval.json
 ```
 
-## 1.5 其他文件
+## 1.3 其他文件
 
 
-| 文件/目录   | 说明                                            |
-| ----------- | ----------------------------------------------- |
-| baselines   | 所有的基线模型数据                              |
-| baseline.py | 评估基线模型改写的结果                          |
-| scripts     | 写好的脚本，可以通过该脚本去掌握`main.py`的用法 |
-| utils.py    | 封装的一些工具                                  |
+| 文件/目录   | 说明                   |
+| ----------- | ---------------------- |
+| baselines   | 所有的基线模型数据     |
+| baseline.py | 评估基线模型改写的结果 |
+| constant.py | 定义的常量             |
+| utils.py    | 封装的一些工具         |

@@ -10,12 +10,12 @@ import torch
 from tqdm import tqdm
 from transformers import (
     AdamW,
-    BertForSequenceClassification,
-    BertTokenizer,
     GPT2LMHeadModel,
     GPT2Tokenizer,
     get_linear_schedule_with_warmup,
-    set_seed
+    set_seed,
+    AutoTokenizer,
+    AutoModelForSequenceClassification
 )
 
 from evaluators.utils import eval_acc_by_fasttext
@@ -24,12 +24,21 @@ from .dataset import get_dataloader
 
 
 def train_fasttext_classifier(
-        train_file_path: str,
-        dev_file_path: str,
-        ckpt_file_path: str,
+        data_dir: str,
         output_dir: str,
-        train_args: dict
+        train_args: dict,
+        seed: int,
+        train_file_name: str = 'fasttext.train',
+        valid_file_name: str = 'dev.csv',
+        ckpt_file_name: str = 'classifier.pk',
+        **kwargs
 ):
+    set_seed(seed)
+
+    train_file_path = build_path(data_dir, train_file_name)
+    dev_file_path = build_path(data_dir, valid_file_name)
+    ckpt_file_path = build_path(output_dir, ckpt_file_name)
+
     old_acc, old_f1 = 0, 0
     if os.path.exists(build_path(output_dir, 'eval.json')):
         with open(build_path(output_dir, 'eval.json'), 'r', encoding='utf-8') as f:
@@ -83,19 +92,22 @@ def train_classifier_bert(
         warmup: Union[float, int] = 0.1,
         device: Union[str, torch.device] = 'cuda:0',
         do_test: bool = True,
+        train_file_name: str = 'train.csv',
+        valid_file_name: str = 'dev.csv',
+        test_file_name: str = 'test.csv',
         **kwargs
 ):
     set_seed(seed)
     print(f'create model from {pretrained_model_name_or_dir}')
-    tokenizer = BertTokenizer.from_pretrained(pretrained_model_name_or_dir)
-    model = BertForSequenceClassification.from_pretrained(
+    tokenizer = AutoTokenizer.from_pretrained(pretrained_model_name_or_dir)
+    model = AutoModelForSequenceClassification.from_pretrained(
         pretrained_model_name_or_path=pretrained_model_name_or_dir,
         num_labels=2
     ).train().to(device)
 
     print(f'load data from {data_dir}')
-    train_file_path = build_path(data_dir, 'train.csv')
-    dev_file_path = build_path(data_dir, 'dev.csv')
+    train_file_path = build_path(data_dir, train_file_name)
+    dev_file_path = build_path(data_dir, valid_file_name)
     train_loader = get_dataloader(train_file_path, 'train', max_seq_len, tokenizer, train_batch_size, device)
     dev_loader = get_dataloader(dev_file_path, 'dev', max_seq_len, tokenizer, dev_batch_size, device)
 
@@ -143,10 +155,10 @@ def train_classifier_bert(
         'best_acc_on_dev': best_acc,
     }
     if do_test:
-        test_file_path = build_path(data_dir, 'test.csv')
+        test_file_path = build_path(data_dir, test_file_name)
         test_loader = get_dataloader(test_file_path, 'test', max_seq_len, tokenizer, test_batch_size, device)
         del model
-        model = BertForSequenceClassification.from_pretrained(best_ckpt_dir, num_labels=2).eval().to(device)
+        model = AutoModelForSequenceClassification.from_pretrained(best_ckpt_dir, num_labels=2).eval().to(device)
         save_dict['acc_on_test'] = _do_classifier_evaluate(model, test_loader)
 
     with open(build_path(best_ckpt_dir, 'eval.json'), 'w', encoding='utf-8') as f:
@@ -198,6 +210,9 @@ def train_fluency_gpt2(
         warmup: Union[float, int] = 0.1,
         device: Union[str, torch.device] = 'cuda:0',
         do_test: bool = True,
+        train_file_name: str = 'train.csv',
+        valid_file_name: str = 'dev.csv',
+        test_file_name: str = 'test.csv',
         **kwargs
 ):
     set_seed(seed)
@@ -210,8 +225,8 @@ def train_fluency_gpt2(
     tokenizer.pad_token = tokenizer.eos_token
 
     print(f'load data from {data_dir}')
-    train_file_path = build_path(data_dir, 'train.csv')
-    dev_file_path = build_path(data_dir, 'dev.csv')
+    train_file_path = build_path(data_dir, train_file_name)
+    dev_file_path = build_path(data_dir, valid_file_name)
     train_loader = get_dataloader(train_file_path, 'train', max_seq_len, tokenizer, train_batch_size, device)
     dev_loader = get_dataloader(dev_file_path, 'dev', max_seq_len, tokenizer, dev_batch_size, device)
 
@@ -263,7 +278,7 @@ def train_fluency_gpt2(
         'best_ppl_on_dev': best_ppl,
     }
     if do_test:
-        test_file_path = build_path(data_dir, 'test.csv')
+        test_file_path = build_path(data_dir, test_file_name)
         test_loader = get_dataloader(test_file_path, 'test', max_seq_len, tokenizer, test_batch_size, device)
         del model
         model = GPT2LMHeadModel.from_pretrained(best_ckpt_dir).eval().to(device)

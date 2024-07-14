@@ -1,0 +1,52 @@
+######################### 经常变动 #############################
+dataset: yelp  # 可选值在 constant.py 中的 ACCEPTABLE_DATASET
+task: classifier  # classifier 或 fluency
+model_type:  # 取值 fasttext 或 plm
+
+######################### 不经常变动 #############################
+device: &device cuda:0
+seed: &seed 42
+data_dir: &data_dir data
+output_dir: &output_dir output
+
+########################## 训练参数 #############################
+train_config:
+  classifier:
+    fasttext:
+      train_file_name: fasttext.train
+      valid_file_name: dev.csv
+      ckpt_file_name: classifier.pk
+      train_args:
+        epoch: 35
+        lr: 1.0
+        loss: hs
+        wordNgrams: 2
+    plm:
+      pretrained_dir_or_name:
+      train_file_name: train.csv
+      valid_file_name: valid.csv
+      test_file_name: test.csv
+      epochs: 5
+      train_batch_size: 32
+      dev_batch_size: 32
+      test_batch_size: 32
+      lr: 1e-5
+      max_seq_len: 510
+      max_grad_norm: 1.0
+      warmup: 0.1
+      do_test: true
+  fluency:
+    plm:
+      pretrained_dir_or_name:
+      train_file_name: train.csv
+      valid_file_name: dev.csv
+      test_file_name: test.csv
+      epochs: 5
+      train_batch_size: 32
+      dev_batch_size: 32
+      test_batch_size: 32
+      lr: 1e-5
+      max_seq_len: 1024
+      max_grad_norm: 1.0
+      warmup: 0.1
+      do_test: true

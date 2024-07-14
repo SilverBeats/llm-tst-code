@@ -1,9 +1,9 @@
 import os.path
-from typing import Callable, Dict, Union
+from typing import Callable, Dict, Union, List
 
 import torch
 
-from global_config import API_KEYS, DATASET_TO_TST_TYPE, LLMType, TEMPLATES, Task
+from constant import DATASET_TO_TST_TYPE, LLMType, Task
 from utils import build_path, process_template
 from .llama2 import Llama2Rewriter
 from .mistral import MistralRewriter
@@ -33,9 +33,11 @@ class Rewriter:
             data_dir: str = 'data',
             device: Union[str, torch.device] = 'cuda:0',
             batch_size: int = 8,
-            llm_model_dir: str = None,  # mistralai/Mistral-7B-Instruct-v0.1
+            llm_model_dir: str = None,
             template_type: str = 'common',
             template_idx: int = 0,
+            api_keys: Dict[str, List[str]] = None,
+            templates: Dict[str, Union[List[str], Dict[str, List[str]]]] = None,
             **kwargs
     ):
         tst_type = DATASET_TO_TST_TYPE[dataset]
@@ -58,16 +60,16 @@ class Rewriter:
             'data_file_path': data_file_path,
             'template': process_template(
                 llm_type,
-                TEMPLATES['special'][dataset][template_idx]
+                templates[template_type][dataset][template_idx]
                 if template_type == 'special'
-                else TEMPLATES['common'][template_idx]
+                else templates[template_type][template_idx]
             ),
             # parameters used when need to load the model
             'batch_size': batch_size,
             'device': device,
             'model_dir': llm_model_dir,
             # parameters when need to use API
-            'api_keys': API_KEYS.get(llm_type.abbr, [])
+            'api_keys': api_keys.get(llm_type.abbr, [])
         }
 
         rewriter_cls = MAP_ABBR_TO_CLS.get(llm_type.abbr, None)

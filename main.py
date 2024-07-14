@@ -1,57 +1,38 @@
+import json
 import os
 import warnings
-from argparse import ArgumentParser
 from pprint import pp
-from typing import Any, Dict
-from rewriters import Rewriter
+
+from omegaconf import DictConfig, OmegaConf
+
+from constant import ACCEPTABLE_DATASET, DATASET_TO_TST_TYPE, Task
 from evaluators import Evaluator
 from processors import Processor
-from global_config import ACCEPTABLE_DATASET, ACCEPTABLE_LLM, DATASET_TO_TST_TYPE, Task
-from utils import build_path, get_LLMType
+from rewriters import Rewriter
+from utils import build_path, convert_to_llm_type, convert_str_to_fluency_model_type, convert_str_to_acc_model_type
 
 
-def get_args() -> Dict[str, Any]:
-    parser = ArgumentParser()
-    # must be given
-    parser.add_argument('--dataset', type=str, required=True, choices=ACCEPTABLE_DATASET)
-    parser.add_argument('--llm_type', type=get_LLMType, required=True, choices=ACCEPTABLE_LLM)
+def check_config(config: DictConfig):
+    assert config['dataset'] in ACCEPTABLE_DATASET
+    config['llm_type'] = convert_to_llm_type(config['llm_type'])
 
-    parser.add_argument('--do_rewrite', action='store_true')
-    parser.add_argument('--do_process', action='store_true')
-    parser.add_argument('--do_eval', action='store_true')
-
-    parser.add_argument('--template_type', type=str, default='common', choices=['common', 'special'])
-    parser.add_argument('--template_idx', type=int, default=0)
-
-    # not often to edit
-    parser.add_argument('--output_dir', type=str, default='output')
-    parser.add_argument('--data_dir', type=str, default='data')
-    parser.add_argument('--device', type=str, default='cuda:0')
-    parser.add_argument('--split', type=str, default='test')
-    parser.add_argument('--batch_size', type=int, default=8)
-
-    # will edit when do not request api to do rewrite (like falcon, mistral, llama2)
-    parser.add_argument('--llm_model_dir', type=str, default=None,
-                        help='the large language model dir. For loading model to do text style transfer.')
-
-    # used when do eval
-    parser.add_argument('--acc_model_dir_or_path', type=str, default=None)
-    parser.add_argument('--d_ppl_model_dir', type=str, default=None)
-    parser.add_argument('--g_ppl_model_dir', type=str, default='pretrained_models/gpt2-large')
-    parser.add_argument('--bert_score_model_dir', type=str, default='pretrained_models/roberta-large')
-    parser.add_argument('--bert_score_model_layers', type=int, default=17)
-
-    return vars(parser.parse_args())
+    if config['do_eval']:
+        target_eval_config = config['eval_config'][config['dataset']]
+        target_eval_config['acc_model_type'] = convert_str_to_acc_model_type(target_eval_config['acc_model_type'])
+        target_eval_config['fluency_model_type'] = convert_str_to_fluency_model_type(
+            target_eval_config['fluency_model_type'])
 
 
-def main():
-    config = get_args()
+def main(config: DictConfig):
+    check_config(config)
     pp(config)
     llm_type = config['llm_type']
+
     do_rewrite, do_process, do_eval = config.pop('do_rewrite'), config.pop('do_process'), config.pop('do_eval')
+    rewrite_config, eval_config = config.pop('rewrite_config'), config.pop('eval_config')
 
     if do_rewrite:
-        Rewriter(**config).rewrite()
+        Rewriter(**config, **rewrite_config).rewrite()
         print('{} rewriting dataset {} has been completed.'.format(str(llm_type), config['dataset']))
 
     if do_process:
@@ -77,14 +58,28 @@ def main():
             )
             if int(input()) != 1:
                 exit()
-        Evaluator(**config).evaluate()
+        eval_result = Evaluator(
+            **config,
+            **eval_config['same'],
+            **eval_config[config['dataset']]
+        ).evaluate()
+        eval_result_file_path = build_path(
+            config['output_dir'], config['template_type'], config['template_idx'],
+            tst_type, config['dataset'], str(Task.E), f'{llm_type.type}-eval.json'
+        )
+
+        os.makedirs(os.path.dirname(eval_result_file_path), exist_ok=True)
+        with open(eval_result_file_path, 'w', encoding='utf-8') as f:
+            json.dump(eval_result, f, ensure_ascii=False, indent=4)
+
         print(
             'The result of rewriting {} on dataset {} '
-            'is evaluated.'.format(str(llm_type), config['dataset'])
+            'is evaluated and saved at {}'.format(str(llm_type), config['dataset'], eval_result_file_path)
         )
 
     print('finished !')
 
 
 if __name__ == '__main__':
-    main()
+    config_file_path = 'config/main.yaml'
+    main(OmegaConf.load(config_file_path))
