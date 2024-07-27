@@ -82,6 +82,18 @@ The particulars alongside the results of the training process for the FastText c
 | gender       | 5     | 1   | hs   | 2          | 0.824        |
 | political    | 25    | 1.3 | hs   | 4          | 0.830        |
 
+You can also train PLM as the classifier, just set the `model_tye` field in `config/prepare.yaml` to *plm*.
+
+You can also use a fine-tuned PLM on a dataset as a classifier. Just change the value of `model_type` in `config/ prepar.yaml` to *plm*, and set the training related settings in `train_config.classifier.plm`. Classifiers for some datasets are available on HuggingFace.
+
+| Dataset      | Model      | Acc [dev/test] | Link                                                         |
+| ------------ | ---------- | -------------- | ------------------------------------------------------------ |
+| yelp         | BERT       | 98.25/98.6     | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
+| amazon       | BERT       | -/94.65        | [Huggingface Link](https://huggingface.co/fabriceyhc/bert-base-uncased-amazon_polarity) |
+| imagecaption | BERT       | 82.19/-        | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
+| gender       | DistilBERT | -/1.0          | [Huggingface Link](https://huggingface.co/padmajabfrl/Gender-Classification/tree/main) |
+| political    | BERT       | -/0.8393       | [HuggingfaceLink](https://huggingface.co/harshal-11/Bert-political-classification/tree/main) |
+
 ### 1.1.3 Train GPT2-small
 
 **Configuration File:** `config/prepare.yaml`

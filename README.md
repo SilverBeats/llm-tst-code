@@ -74,6 +74,17 @@ python prepare.py
 | gender       | 5     | 1   | hs   | 2          | 0.824        |
 | political    | 25    | 1.3 | hs   | 4          | 0.830        |
 
+
+你也可以使用在数据集上微调后的PLM作为分类器。只需要将`config/prepare.yaml`中的`model_type`的值修改为 *plm* 即可，训练相关设置在`train_config.classifier.plm`。部分数据集的分类器在HuggingFace上有现成的。
+
+| 数据集       | 模型       | Acc [dev/test] | 链接                                                         |
+| ------------ | ---------- | -------------- | ------------------------------------------------------------ |
+| yelp         | BERT       | 98.25/98.6     | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
+| amazon       | BERT       | -/94.65        | [Huggingface Link](https://huggingface.co/fabriceyhc/bert-base-uncased-amazon_polarity) |
+| imagecaption | BERT       | 82.19/-        | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
+| gender       | DistilBERT | -/1.0          | [Huggingface Link](https://huggingface.co/padmajabfrl/Gender-Classification/tree/main) |
+| political    | BERT       | -/0.8393       | [HuggingfaceLink](https://huggingface.co/harshal-11/Bert-political-classification/tree/main) |
+
 ### 1.1.3 准备微调后的GPT-2 small
 
 配置文件：`config/prepare.yaml`
