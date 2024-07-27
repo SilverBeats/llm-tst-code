@@ -2,6 +2,7 @@
 .vscode
 **/__pycache__
 data
+!data/README.md
 human
 output/_temp
 output/classifier

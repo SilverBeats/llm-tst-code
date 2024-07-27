@@ -32,6 +32,8 @@ The central aim of this endeavor is to appraise the capability of large language
 
 # 1 Project Introduction
 
+**Click [here](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) to download the checkpoints & datasets**
+
 The overarching framework of the project is segmented into four principal components:
 
 1. Preparations for the evaluator;
@@ -40,8 +42,6 @@ The overarching framework of the project is segmented into four principal compon
 4. Evaluation of these outputs post-rewrite.
 
 ## 1.1 Prepare the Evaluators
-
-**Click [here](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) to download the checkpoints**
 
 - Content retention is measured by BLEU
 - Style transfer ability is measured with style classifiers
@@ -84,15 +84,15 @@ The particulars alongside the results of the training process for the FastText c
 
 You can also train PLM as the classifier, just set the `model_tye` field in `config/prepare.yaml` to *plm*.
 
-You can also use a fine-tuned PLM on a dataset as a classifier. Just change the value of `model_type` in `config/ prepar.yaml` to *plm*, and set the training related settings in `train_config.classifier.plm`. Classifiers for some datasets are available on HuggingFace.
+You can also use a fine-tuned PLM on a dataset as a classifier. Just change the value of `model_type` in `config/ prepar.yaml` to *plm*, and set the training related settings in `train_config.classifier.plm`. Classifiers for some datasets are available on HuggingFace. (*The results measured on the data set of the ready-made model differ greatly from the results published on the HuggingFace, which may be largely due to the different data sets*)
 
 | Dataset      | Model      | Acc [dev/test] | Link                                                         |
 | ------------ | ---------- | -------------- | ------------------------------------------------------------ |
-| yelp         | BERT       | 98.25/98.6     | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
-| amazon       | BERT       | -/94.65        | [Huggingface Link](https://huggingface.co/fabriceyhc/bert-base-uncased-amazon_polarity) |
+| yelp         | BERT       | 98.25/98.60    | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
+| amazon       | BERT       | 87.85/85.60    | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
 | imagecaption | BERT       | 82.19/-        | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
-| gender       | DistilBERT | -/1.0          | [Huggingface Link](https://huggingface.co/padmajabfrl/Gender-Classification/tree/main) |
-| political    | BERT       | -/0.8393       | [HuggingfaceLink](https://huggingface.co/harshal-11/Bert-political-classification/tree/main) |
+| gender       | DistilBERT | 52.05/52.00    | [Huggingface Link](https://huggingface.co/padmajabfrl/Gender-Classification/tree/main) |
+| political    | BERT       | 32.88/33.23    | [HuggingfaceLink](https://huggingface.co/harshal-11/Bert-political-classification/tree/main) |
 
 ### 1.1.3 Train GPT2-small
 

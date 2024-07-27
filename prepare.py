@@ -13,8 +13,6 @@ TASK_TO_FUN = {
 
 
 def main(config: DictConfig):
-    if len(sys.argv) > 1:
-        config['dataset'] = sys.argv[1]
     assert config['dataset'] in ACCEPTABLE_DATASET
     assert config['task'] in TASK_TO_FUN.keys()
     if config['task'] == 'classifier':
