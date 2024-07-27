@@ -6,6 +6,7 @@
   - 删除scripts
   - 删除`prepares`, `evaluators`的重复代码
   - 支持训练，以及使用plm分类器
+- 2024-7-27, 添加bert acc结果
 
 # 0 前言
 

@@ -13,25 +13,34 @@ from transformers import GPT2Tokenizer
 
 
 @torch.no_grad()
-def calc_acc_by_plm(texts: List[str], ground_labels: List[int], model, tokenizer, batch_size, device):
+def calc_acc_by_plm(
+        texts: List[str], ground_labels: List[int],
+        model, tokenizer, batch_size, device,
+        use_tqdm: bool = True
+):
     assert len(texts) == len(ground_labels)
     size = len(ground_labels)
     right_cnt = 0
 
-    for i in tqdm(range(0, size, batch_size), dynamic_ncols=True, desc='calculate acc ...'):
+    pbar = None
+    if use_tqdm:
+        pbar = tqdm(total=len(range(0, size, batch_size)), dynamic_ncols=True, desc='calculate acc ...')
+    for i in range(0, size, batch_size):
         batch_text = texts[i: i + batch_size]
         labels = torch.LongTensor(ground_labels[i: i + batch_size])
         inputs = tokenizer(
             text=batch_text,
             return_attention_mask=True,
-            return_token_type_ids=True,
             return_tensors='pt',
             padding=True,
         ).to(device)
         logits = model(**inputs).logits
         pred_labels = logits.argmax(dim=-1).detach().cpu()
         right_cnt += pred_labels.eq(labels).sum().item()
-
+        if use_tqdm:
+            pbar.update(1)
+    if use_tqdm:
+        pbar.close()
     return 100 * right_cnt / size
 
 

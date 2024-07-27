@@ -13,5 +13,6 @@
     "gm_bleu": 14.022821874522183,
     "bert_score_P ": 0.893035,
     "bert_score_R": 0.911756,
-    "bert_score_F": 0.902165
+    "bert_score_F": 0.902165,
+    "bert_acc": 92.06030150753769
 }

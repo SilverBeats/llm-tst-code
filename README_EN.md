@@ -6,7 +6,7 @@ Update Records
     - delete `scripts` directory
     - delete the duplicate code in `prepares` and `evaluators` directory
     - support for training and using plm classifiers
-
+- 2024-7-27, add bert acc
 
 # 0 Preamble
 

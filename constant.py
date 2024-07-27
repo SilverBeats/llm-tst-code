@@ -13,19 +13,23 @@ class Task(Enum):
     def __repr__(self):
         return self.value
 
+
 @unique
 class AccModelType(Enum):
     PLM = 'plm'
     FASTTEXT = 'fasttext'
+
     def __str__(self):
         return self.value
 
     def __repr__(self):
         return self.value
 
+
 @unique
 class FluencyModelType(Enum):
     PLM = 'plm'
+
     def __str__(self):
         return self.value
 

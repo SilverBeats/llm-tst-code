@@ -1,6 +1,6 @@
 import os
 from pprint import pp
-
+import sys
 from omegaconf import DictConfig, OmegaConf
 from constant import ACCEPTABLE_DATASET, DATASET_TO_TST_TYPE
 from prepares import *
@@ -13,6 +13,8 @@ TASK_TO_FUN = {
 
 
 def main(config: DictConfig):
+    if len(sys.argv) > 1:
+        config['dataset'] = sys.argv[1]
     assert config['dataset'] in ACCEPTABLE_DATASET
     assert config['task'] in TASK_TO_FUN.keys()
     if config['task'] == 'classifier':
@@ -42,7 +44,7 @@ def main(config: DictConfig):
         device=config['device'],
         seed=config['seed'],
         model_type=config['model_type'],
-        train_config=config['train_config'][config['task']][config['model_type']]
+        train_config=config['train_config'][config['task']][str(config['model_type'])]
     )
 
 

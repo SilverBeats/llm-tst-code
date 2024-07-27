@@ -83,6 +83,7 @@ def train_classifier_bert(
         output_dir: str,
         seed: int = 42,
         epochs: int = 5,
+        patient: int = 2,
         train_batch_size: int = 32,
         dev_batch_size: int = 32,
         test_batch_size: int = 32,
@@ -123,7 +124,7 @@ def train_classifier_bert(
     if num_warmup_steps != 0:
         lr_scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps, num_training_steps)
 
-    best_acc = -1
+    best_acc, _patient = -1, patient
     best_ckpt_dir = ''
     pbar = tqdm(total=num_training_steps, desc='training', dynamic_ncols=True)
     for epoch in range(epochs):
@@ -151,6 +152,11 @@ def train_classifier_bert(
             model.save_pretrained(best_ckpt_dir)
             tokenizer.save_pretrained(best_ckpt_dir)
             print(f'new ckpt saved at {best_ckpt_dir}')
+            _patient = patient
+        else:
+            _patient -= 1
+        if _patient == 0:
+            break
     save_dict = {
         'best_acc_on_dev': best_acc,
     }
@@ -206,6 +212,7 @@ def train_fluency_gpt2(
         test_batch_size: int = 32,
         lr: float = 1e-5,
         max_seq_len: int = 1024,
+        patient: int=2,
         max_grad_norm: float = 1.0,
         warmup: Union[float, int] = 0.1,
         device: Union[str, torch.device] = 'cuda:0',
@@ -241,7 +248,7 @@ def train_fluency_gpt2(
     if num_warmup_steps != 0:
         lr_scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps, num_training_steps)
 
-    best_ppl = 1e30
+    best_ppl, _patient = 1e30, patient
     best_ckpt_dir = ''
 
     pbar = tqdm(total=num_training_steps, desc='training', dynamic_ncols=True)
@@ -273,6 +280,12 @@ def train_fluency_gpt2(
             model.save_pretrained(best_ckpt_dir)
             tokenizer.save_pretrained(best_ckpt_dir)
             print(f'new ckpt saved at {best_ckpt_dir}')
+            _patient = patient
+        else:
+            _patient -= 1
+
+        if _patient == 0:
+            break
 
     save_dict = {
         'best_ppl_on_dev': best_ppl,
