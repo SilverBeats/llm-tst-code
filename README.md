@@ -74,15 +74,15 @@ python prepare.py
 | gender       | 5     | 1   | hs   | 2          | 0.824        |
 | political    | 25    | 1.3 | hs   | 4          | 0.830        |
 
-你也可以使用在数据集上微调后的PLM作为分类器。只需要将`config/prepare.yaml`中的`model_type`的值修改为 *plm* 即可，训练相关设置在`train_config.classifier.plm`。部分数据集的分类器在HuggingFace上有现成的（*现成的模型在数据集上实测结果与仓库公布的结果有很大出入，很大程度上可能是数据集不同*）。
+你也可以使用在数据集上微调后的PLM作为分类器。只需要将`config/prepare.yaml`中的`model_type`的值修改为 *plm* 即可，训练相关设置在`train_config.classifier.plm`。部分数据集的分类器在HuggingFace上有现成的（*现成的模型在数据集上实测结果与模型提供者在huggingface上公布的结果有很大出入，很大程度上可能是数据集不同*）。
 
-| 数据集       | 模型       | Acc [dev/test] | 链接                                                         |
-| ------------ | ---------- | -------------- | ------------------------------------------------------------ |
-| yelp         | BERT       | 98.25/98.60    | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
-| amazon       | BERT       | 87.85/85.60    | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
-| imagecaption | BERT       | 82.19/-        | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
-| gender       | DistilBERT | 52.05/52.00    | [Huggingface Link](https://huggingface.co/padmajabfrl/Gender-Classification/tree/main) |
-| political    | BERT       | 32.88/33.23    | [Huggingface Link](https://huggingface.co/harshal-11/Bert-political-classification/tree/main) |
+| 数据集       | 模型 | Acc [dev/test] | 链接                                                         |
+| ------------ | ---- | -------------- | ------------------------------------------------------------ |
+| yelp         | BERT | 98.25/98.60    | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
+| amazon       | BERT | 87.85/85.60    | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
+| imagecaption | BERT | 82.19/-        | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
+| gender       | BERT | 83.77/83.3     | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
+| political    | BERT | 32.88/33.23    | [Huggingface Link](https://huggingface.co/harshal-11/Bert-political-classification/tree/main) |
 
 ### 1.1.3 准备微调后的GPT-2 small
 

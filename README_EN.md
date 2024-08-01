@@ -86,13 +86,13 @@ You can also train PLM as the classifier, just set the `model_tye` field in `con
 
 You can also use a fine-tuned PLM on a dataset as a classifier. Just change the value of `model_type` in `config/ prepar.yaml` to *plm*, and set the training related settings in `train_config.classifier.plm`. Classifiers for some datasets are available on HuggingFace. (*The results measured on the data set of the ready-made model differ greatly from the results published on the HuggingFace, which may be largely due to the different data sets*)
 
-| Dataset      | Model      | Acc [dev/test] | Link                                                         |
-| ------------ | ---------- | -------------- | ------------------------------------------------------------ |
-| yelp         | BERT       | 98.25/98.60    | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
-| amazon       | BERT       | 87.85/85.60    | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
-| imagecaption | BERT       | 82.19/-        | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234 ) |
-| gender       | DistilBERT | 52.05/52.00    | [Huggingface Link](https://huggingface.co/padmajabfrl/Gender-Classification/tree/main) |
-| political    | BERT       | 32.88/33.23    | [HuggingfaceLink](https://huggingface.co/harshal-11/Bert-political-classification/tree/main) |
+| Dataset      | Model | Acc [dev/test] | Link                                                         |
+| ------------ | ----- | -------------- | ------------------------------------------------------------ |
+| yelp         | BERT  | 98.25/98.60    | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234) |
+| amazon       | BERT  | 87.85/85.60    | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234) |
+| imagecaption | BERT  | 82.19/-        | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234) |
+| gender       | BERT  | 83.77/83.3     | [BaiduNetDisk Link](https://pan.baidu.com/s/1K3m-k_henrQTIzYmZXKA4Q?pwd=1234) |
+| political    | BERT  | 32.88/33.23    | [HuggingfaceLink](https://huggingface.co/harshal-11/Bert-political-classification/tree/main) |
 
 ### 1.1.3 Train GPT2-small
 
